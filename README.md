@@ -34,7 +34,8 @@ Each lesson folder should be named `les-XX`, for example `les-01`, `les-02`, `le
 Each `les-XX` folder can contain:
 
 - `summary.md`: lesson summary generated from screenshots or notes.
-- `homework.md`: extra exercises generated from the lesson summary and cumulative word bank.
+- `homework_extra.md`: additional exercises generated automatically from the lesson summary and cumulative word bank, including a grammar-terminology exercise and answer keys.
+- `homework.md`: historical lesson homework; homework already visible in screenshots is no longer duplicated.
 - `materials.md`: optional manual notes, links, or transcript fragments.
 - `screenshots/`: optional source images if they are added to the repo later.
 
@@ -51,10 +52,11 @@ This makes later exercises richer: homework for `les-06` can use words from earl
 1. Post a screenshot of a Miro board or lesson material to Codex.
 2. Codex analyzes the screenshot and creates or updates `les-XX/summary.md`.
 3. Codex adds new vocabulary to `WORDS.md`.
-4. When requested, Codex generates `les-XX/homework.md` using:
+4. Codex immediately generates `les-XX/homework_extra.md`, without a separate request, using:
    - the current lesson summary,
    - grammar learned so far,
    - the cumulative vocabulary in `WORDS.md`,
    - pronunciation patterns visible in the lesson material.
+5. Every generated homework set includes a dedicated exercise testing Dutch grammar terms and exercise instructions from the screenshots, with Russian prompts and an answer key. Homework already present in a screenshot is not transcribed again.
 
 See `CODEX.md` for the detailed instructions Codex should follow.

@@ -1419,3 +1419,46 @@ Suggested columns:
 | toen | — | тогда; когда (в прошлом) | наречие / союз | les-25 | Toen was ik thuis. Toen ik klein was, woonde ik hier. |
 | geleden | — | назад (о времени) | наречие | les-25 | twee jaar geleden — два года назад; lang geleden — давно. |
 | het imperfectum | — | простое прошедшее время, имперфект | грамматический термин | les-25 | werkte / werkten; was / waren. Может описывать и завершённые события. |
+
+## Les 26
+
+Новая активная лексика из трёх скриншотов. Знакомые слова и грамматические термины повторяются без дублирования строк. Исторические примеры на схеме остаются пассивным материалом.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de bus | — | автобус | существительное | les-26 | Мн. ч.: de bussen; met de bus. |
+| het station | — | вокзал, станция | существительное | les-26 | Мн. ч.: de stations; op het station. |
+| de trein | — | поезд | существительное | les-26 | Мн. ч.: de treinen; met de trein. |
+| het vliegtuig | — | самолёт | существительное | les-26 | Мн. ч.: de vliegtuigen; met het vliegtuig. |
+| de boot | — | лодка, судно | существительное | les-26 | Мн. ч.: de boten; на скриншоте изображено большое судно. |
+| de bushalte | — | автобусная остановка | существительное | les-26 | Мн. ч.: de bushaltes; bij de bushalte. |
+| de luchthaven | — | аэропорт | существительное | les-26 | Мн. ч.: de luchthavens. |
+| laat | — | поздно; поздний | наречие / прилагательное | les-26 | te laat komen — опаздывать; kwam te laat; is te laat gekomen. |
+| de waarheid | — | правда | существительное | les-26 | Мн. ч.: de waarheden. |
+| de leugen | — | ложь, неправда | существительное | les-26 | Мн. ч.: de leugens. |
+| Dat geloof ik niet! | — | Я этому не верю! | фраза | les-26 | Реакция на рассказ; geloven — верить. |
+| Echt waar?! | — | Правда?! Неужели?! | фраза | les-26 | Реакция удивления. |
+| Dat klopt niet! | — | Это неверно! | фраза | les-26 | На скриншоте: Nee, dat klopt niet! |
+| Je hebt gelijk! | — | Ты прав! | фраза | les-26 | Вежливо: U hebt gelijk! |
+| ooit | — | когда-либо; однажды | наречие | les-26 | Ik heb ooit in Utrecht gewoond. |
+| nog nooit | — | ещё никогда | сочетание | les-26 | Ik ben nog nooit in Parijs geweest. |
+| ontmoeten | — | встречать, знакомиться с | глагол | les-26 | ontmoette / ontmoetten; heeft ontmoet; без ge-. |
+| proberen | — | пробовать, пытаться | глагол | les-26 | probeerde / probeerden; heeft geprobeerd. |
+| bang zijn voor | — | бояться кого-либо / чего-либо | сочетание | les-26 | Ik ben bang voor honden. |
+| allergisch zijn voor | — | иметь аллергию на | сочетание | les-26 | Ik ben allergisch voor melk. |
+| gek zijn op | — | обожать | сочетание | les-26 | Ik ben gek op kaas. |
+| een hekel hebben aan | — | терпеть не мочь | сочетание | les-26 | Ik heb een hekel aan lawaai. |
+| favoriet | — | любимый | прилагательное | les-26 | Mijn favoriete eten is pasta. |
+| het werkwoord | — | глагол | грамматический термин | les-26 | Мн. ч.: de werkwoorden. |
+| de ik-vorm | — | форма глагола для ik | грамматический термин | les-26 | werken → ik werk; мн. ч.: de ik-vormen. |
+| het onregelmatige werkwoord | — | неправильный глагол | грамматический термин | les-26 | Мн. ч.: de onregelmatige werkwoorden; nemen → nam → genomen. |
+| de tijdsaanduiding | — | указатель времени | грамматический термин | les-26 | Мн. ч.: de tijdsaanduidingen; vroeger, toen. |
+| de uitgang | — | окончание | грамматический термин | les-26 | Мн. ч.: de uitgangen; на схеме: uitgangen. |
+| Kijk naar de laatste letter. | — | Посмотрите на последнюю букву. | инструкция | les-26 | Формулировка со схемы образования причастия. |
+| Maak de ik-vorm. | — | Образуйте форму для ik. | инструкция | les-26 | Формулировка со схемы. |
+| Haal -en weg. | — | Уберите -en. | инструкция | les-26 | После этого учитывайте правила написания основы. |
+| Schrijf deze zinnen op. | — | Запишите эти предложения. | инструкция | les-26 | Формулировка из разминки. |
+| Luister naar de tekst. | — | Послушайте текст. | инструкция | les-26 | Формулировка из блока о транспорте. |
+| Doe de opdrachten. | — | Выполните задания. | инструкция | les-26 | Формулировка из блока о транспорте. |
+| de groepsgenoot | — | товарищ по учебной группе | существительное | les-26 | Мн. ч.: de groepsgenoten; из разминки. |
+| de opdracht | — | задание | существительное | les-26 | Мн. ч.: de opdrachten. |

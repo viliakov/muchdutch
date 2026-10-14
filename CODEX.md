@@ -8,13 +8,13 @@ Turn each lesson screenshot or Miro board into:
 
 1. a clear lesson summary,
 2. cumulative vocabulary entries,
-3. optional homework exercises when the user asks for them.
+3. additional homework exercises generated immediately, without a separate request.
 
 ## Directory Rules
 
 - Use lesson folders named `les-XX`, for example `les-01`, `les-06`.
 - Store lesson summaries in `les-XX/summary.md`.
-- Store the lesson's own homework (the exercises from the screenshot) in `les-XX/homework.md`.
+- Do not transcribe or duplicate homework already present in a screenshot. Existing `les-XX/homework.md` files are historical material; keep them unless the user asks to change them.
 - Store extra practice tasks that you generate in `les-XX/homework_extra.md`.
 - Keep vocabulary in the single cumulative file `WORDS.md`.
 - Do not create separate per-lesson word-bank files unless the user explicitly asks.
@@ -37,6 +37,7 @@ When the user posts a lesson screenshot:
 5. Add new words and reusable phrases to `WORDS.md`.
 6. Mention any uncertainty if the screenshot is too small or text is unreadable.
 7. Write all explanatory content in Russian. Keep Dutch forms, examples, dialogues, and source texts in Dutch. English may appear only as source text in exercises that explicitly ask the learner to translate from English into Dutch.
+8. Immediately create additional practice in `les-XX/homework_extra.md` using the homework rules below; do not wait for a separate request or confirmation. Do not duplicate the screenshot's homework in another file or in the summary.
 
 ## Lesson Summary Format
 
@@ -82,9 +83,9 @@ Use this format for `summary.md`:
 
 1. ...
 
-## Идеи для домашней работы
+## Дополнительная домашняя работа
 
-- ...
+- [Упражнения и ответы](homework_extra.md)
 
 ## Неясности в источнике
 
@@ -104,11 +105,9 @@ When adding to `WORDS.md`:
 
 ## Homework Generation Rules
 
-When the user asks for homework:
+When processing a lesson screenshot, generate extra homework immediately. Apply the same rules when the user separately asks for homework:
 
-1. Produce two files:
-   - `les-XX/homework.md`: the lesson's own homework, reproduced from the screenshot's `huiswerk` section (same tasks and style). This mirrors what the lesson already assigns.
-   - `les-XX/homework_extra.md`: additional practice tasks that you generate to reinforce the lesson.
+1. Generate `les-XX/homework_extra.md` with additional practice to reinforce the lesson. Do not reproduce the screenshot's `huiswerk` tasks or create a duplicate `homework.md`. If an extra homework file already contains user answers, preserve it and create the next numbered extra homework file instead.
 2. Use the current lesson summary as the main source.
 3. Write every task heading, actionable instruction, purpose statement, label, note, and example explanation in Russian. Keep Dutch forms, answer options, dialogues, and other Dutch study material in Dutch. In an English-to-Dutch translation exercise, keep the English source sentences in English, but write the heading and instructions in Russian. Do not add English explanations elsewhere.
 4. Prioritize the grammar from the current lesson.
@@ -122,6 +121,7 @@ When the user asks for homework:
    - English-to-Dutch translation,
    - ontkennende zinnen (`niet` / `geen`),
    - vragen (yes/no questions plus questions with a question word),
+   - grammar terminology and exercise-instruction vocabulary from the screenshots,
    - an answer key for every section.
    Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
    Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
@@ -159,6 +159,7 @@ Apply these requirements to generated extra homework unless the user explicitly 
 9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
 10. Starting with lesson 22, do not use `zullen` (including `zal`, `zult`, `zou`, `zouden`; the user referred to it as `zalen`) in generated homework or answer keys until the user says it has been covered. Use familiar modal verbs such as `kunnen`, `mogen`, `moeten`, and `willen`.
 11. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
+12. Include a dedicated grammar-terminology exercise in every generated homework set. Test Dutch terms and common exercise instructions actually visible in the lesson screenshots, reusing terms from earlier lessons for revision. Examples, when present in the source, include `het meervoud` (множественное число), `het werkwoord` (глагол), and `kies de juiste optie` (выберите правильный вариант). Use Russian prompts asking the learner to supply or match the Dutch term or instruction, and provide a fixed answer key. Follow the standard 15–20-item size when enough source vocabulary is available; otherwise use fewer items rather than inventing terms supposedly seen in the screenshots. Add newly encountered terms and instruction phrases to `WORDS.md` with their Russian meanings and lesson id.
 
 ### Article clarity in Russian-to-Dutch exercises
 
