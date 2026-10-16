@@ -156,6 +156,7 @@ Apply these requirements to generated extra homework unless the user explicitly 
 6. Keep the dedicated plural and `de`/`het` exercises.
 7. Include one dedicated exercise that collectively covers all new vocabulary introduced in the current lesson.
 8. Provide a fixed answer key for every item; do not use open-ended tasks.
+   - In answer keys involving possessive pronouns, include both full (stressed) and reduced (unstressed) forms wherever both are grammatically and contextually valid, for example `jouw/je`, `mijn/m’n`, and `zijn/z’n`. Show both variants in the answer; if emphasis or contrast requires the full form, give only that form. Do not invent a second form where none exists.
 9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
 10. Starting with lesson 22, do not use `zullen` (including `zal`, `zult`, `zou`, `zouden`; the user referred to it as `zalen`) in generated homework or answer keys until the user says it has been covered. Use familiar modal verbs such as `kunnen`, `mogen`, `moeten`, and `willen`.
 11. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
