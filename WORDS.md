@@ -85,7 +85,7 @@ Columns:
 | wij | we | мы | pronoun | les-02 | subject pronoun |
 | we | we | мы | pronoun | les-02 | unstressed form of `wij` |
 | jullie | you plural | вы | pronoun | les-02 | informal plural |
-| zijn | to be | быть | verb | les-02 | irregular verb |
+| zijn | to be | быть | verb | les-02, les-28 | irregular verb [les-28] was / waren; is geweest. Ik ben gisteren bij de dokter geweest. |
 | ben | am | есть | verb form | les-02 | form of `zijn` with `ik` |
 | bent | are | есть | verb form | les-02 | form of `zijn` with `jij/u` |
 | is | is | есть | verb form | les-02 | form of `zijn` with singular subjects |
@@ -170,7 +170,7 @@ Columns:
 | typen | to type | печатать | verb | les-04 | present tense practice |
 | begrijpen | to understand | понимать | verb | les-04 | present tense practice |
 | werken | to work | работать | verb | les-04 | question practice |
-| de zin | sentence | предложение | noun | les-04 | grammar homework |
+| de zin | sentence | предложение | noun | les-04, les-28 | grammar homework |
 | het antwoord | answer | ответ | noun | les-04 | text questions |
 | de tekst | text | текст | noun | les-04, les-06 | [les-04] reading homework; also appeared in les-06 [les-06] reading/listening tasks |
 | de nationaliteit | nationality | национальность | noun | les-04 | reading questions |
@@ -277,7 +277,7 @@ Columns:
 | ver weg | far away | далеко | phrase | les-06 | demonstratives |
 | wonen | to live | жить | verb | les-06, les-24 | present tense Perfectum: heeft gewoond; продолжающееся действие: Ik woon al vier jaar in Amsterdam. |
 | spreken | to speak | говорить | verb | les-06 | present tense |
-| gaan | to go | идти, ехать | verb | les-06 | present tense |
+| gaan | to go | идти, ехать | verb | les-06, les-28 | present tense [les-28] ging / gingen; is gegaan. Wij zijn naar de markt gegaan. |
 | luisteren | to listen | слушать | verb | les-06, les-24 | present tense Perfectum: heeft geluisterd. |
 | schrijven | to write | писать | verb | les-06 | present tense |
 | lezen | to read | читать | verb | les-06 | present tense |
@@ -317,7 +317,7 @@ Columns:
 | naar een film kijken | to watch a film | смотреть фильм | verb phrase | les-07 | agenda activity |
 | nieuws lezen | to read news | читать новости | verb phrase | les-07 | agenda activity |
 | op het internet surfen | to surf the internet | сидеть в интернете | verb phrase | les-07 | agenda activity |
-| komen | to come | приходить | verb | les-07, les-27 | present tense review Повторение les-27: kwam / kwamen; is gekomen. |
+| komen | to come | приходить | verb | les-07, les-27, les-28 | present tense review Повторение les-27: kwam / kwamen; is gekomen. [les-28] kwam / kwamen; is gekomen. De docent is vroeg gekomen. |
 | doen | to do | делать | verb | les-07, les-27 | present tense review Повторение les-27: deed / deden; heeft gedaan. |
 | reizen | to travel | путешествовать, ехать | verb | les-07, les-24, les-25 | used with gaan + infinitief Perfectum: is naar Japan gereisd; z в инфинитиве → -d. Imperfectum: reisde / reisden; учитываем z инфинитива. |
 | sporten | to exercise, play sports | заниматься спортом | verb | les-07 | used with gaan + infinitief |
@@ -352,7 +352,7 @@ Columns:
 | geven | to give | давать | verb | les-08, les-27 | ik geef, jij/hij geeft Повторение les-27: gaf / gaven; heeft gegeven. |
 | weten | to know | знать | verb | les-08 | irregular: ik/jij/hij weet, wij/jullie/zij weten |
 | vragen | to ask | спрашивать | verb | les-08 | ik vraag, jij/hij vraagt |
-| lopen | to walk | идти, ходить пешком | verb | les-08, les-27 | ik loop, jij/hij loopt Повторение les-27: liep / liepen; is / heeft gelopen. Ik ben naar het station gelopen; ik heb een uur gelopen. |
+| lopen | to walk | идти, ходить пешком | verb | les-08, les-27, les-28 | ik loop, jij/hij loopt Повторение les-27: liep / liepen; is / heeft gelopen. Ik ben naar het station gelopen; ik heb een uur gelopen. [les-28] liep / liepen; is gelopen. Wij zijn naar de bibliotheek gelopen. Zijn при движении к цели; hebben при обозначении деятельности. |
 | de flat | apartment building, flat; flat, apartment building | квартира, многоквартирный дом; квартира, многоэтажка | noun | les-08, les-09 | [les-08] housing [les-09] housing; also in les-08 |
 | de woning | home, dwelling | жилье | noun | les-08, les-09 | [les-08] housing [les-09] housing; also in les-08 |
 | het dak | roof | крыша | noun | les-08 | house part |
@@ -451,10 +451,10 @@ Columns:
 | want | because, for | потому что | conjunction | les-10 | straight word order |
 | maar | but | но | conjunction | les-10 | straight word order |
 | dus | so, therefore | поэтому | conjunction | les-10 | straight word order |
-| opstaan | to get up | вставать | verb | les-10 | separable verb |
+| opstaan | to get up | вставать | verb | les-10, les-28 | separable verb [les-28] stond op / stonden op; is opgestaan. Jullie zijn om zeven uur opgestaan. |
 | opruimen | to tidy up, clean up | убирать | verb | les-10 | separable verb; `de kamer opruimen` |
-| vertrekken | to leave, depart | уходить, отправляться | verb | les-10 | `om acht uur vertrekken` |
-| verhuizen | to move (house) | переезжать | verb | les-10 | housing |
+| vertrekken | to leave, depart | уходить, отправляться | verb | les-10, les-28 | `om acht uur vertrekken` [les-28] vertrok / vertrokken; is vertrokken. De trein is op tijd vertrokken. |
+| verhuizen | to move (house) | переезжать | verb | les-10, les-28 | housing [les-28] verhuisde / verhuisden; is verhuisd. Mijn vrienden zijn naar Leiden verhuisd. |
 | delen | to share | делить, делиться | verb | les-10 | `we delen een tuin` |
 | betalen | to pay | платить | verb | les-10 | `huur betalen` |
 | meenemen | to take along | брать с собой | verb | les-10, les-21, les-27 | separable: `ik neem ... mee` Повторение les-27: nam mee / namen mee; heeft meegenomen. |
@@ -632,7 +632,7 @@ Columns:
 | de broek | trousers | брюки | noun | les-12, les-18 | singular in Dutch |
 | het shirt | shirt | рубашка, футболка | noun | les-12 | clothing |
 | de maat | size | размер | noun | les-12 | `een kleinere maat`; repeated in les-19 |
-| tegenkomen | to run into, to meet | встречать | verb | les-12 | separable: `Ik kom haar vaak tegen.` |
+| tegenkomen | to run into, to meet | встречать | verb | les-12, les-28 | separable: `Ik kom haar vaak tegen.` [les-28] kwam tegen / kwamen tegen; is tegengekomen. Ik ben mijn buurvrouw bij de bakker tegengekomen. |
 | wensen | to wish | желать | verb | les-12 | `Ik wens u een fijne dag.` |
 | de schoonouders | parents-in-law | родители супруга | noun | les-12 | family; plural |
 | het kleinkind | grandchild | внук, внучка | noun | les-12 | plural `de kleinkinderen` |
@@ -707,7 +707,7 @@ Columns:
 | de test | test | тест | noun | les-13 | school |
 | uitdoen | to switch off, to take off | выключать, снимать | verb | les-13 | separable: `de telefoon uitdoen` |
 | de baan | job | работа | noun | les-13 | `een leuke baan` |
-| trouwen | to marry | жениться, выходить замуж | verb | les-13 | `Wij gaan trouwen.`; repeated in les-19 |
+| trouwen | to marry | жениться, выходить замуж | verb | les-13, les-28 | `Wij gaan trouwen.`; repeated in les-19 [les-28] trouwde / trouwden; is getrouwd. Mijn broer is in mei getrouwd. Здесь вступать в брак; кого-либо венчать/регистрировать: hebben. |
 | het trouwfeest | wedding party | свадьба | noun | les-13 | event |
 | de gast | guest | гость | noun | les-13 | plural `de gasten` |
 | welkom | welcome | добро пожаловать | adjective | les-13 | `gasten zijn welkom`; also in les-06 |
@@ -851,7 +851,7 @@ Columns:
 | de kwaliteit | quality | качество | noun | les-15 | `van goede kwaliteit` |
 | de hoek | corner | угол | noun | les-15 | `op de hoek`, `aan de kant` |
 | het humeur | mood | настроение | noun | les-15 | `een slecht humeur` |
-| vervelend | annoying, unpleasant | неприятно, досадно | adjective | les-15 | `Dat is vervelend!` |
+| vervelend | annoying, unpleasant | неприятно, досадно | adjective | les-15, les-28 | `Dat is vervelend!` [les-28] vervelender; het vervelendst. |
 | de moraal | moral (of a story) | мораль | noun | les-15 | `de moraal van dit verhaal` |
 | de uitnodiging | invitation | приглашение | noun | les-15 | luisteren |
 | een feestje geven | to throw a party | устраивать вечеринку | phrase | les-15 | luisteren |
@@ -1211,7 +1211,7 @@ Columns:
 | Die kleur staat je goed. | That colour suits you. | Тебе идёт этот цвет. | phrase | les-21 | compliment |
 | Wat een mooie outfit! | What a beautiful outfit! | Какой красивый образ! | phrase | les-21 | compliment |
 | het scheidbare werkwoord | separable verb | разделяемый глагол | grammar noun | les-21 | prefix separates in a main clause |
-| aankomen | to arrive | прибывать | separable verb | les-21, les-27 | `ik kom ... aan` Повторение les-27: kwam aan / kwamen aan; is aangekomen. |
+| aankomen | to arrive | прибывать | separable verb | les-21, les-27, les-28 | `ik kom ... aan` Повторение les-27: kwam aan / kwamen aan; is aangekomen. [les-28] kwam aan / kwamen aan; is aangekomen. Wij zijn in Utrecht aangekomen. |
 | omdraaien | to turn over | переворачивать | separable verb | les-21 | `hij draait ... om` |
 | opsturen | to send | отправлять | separable verb | les-21, les-24 | `ik stuur ... op` Perfectum: heeft opgestuurd. |
 | oversteken | to cross | переходить | separable verb | les-21 | `het kind steekt ... over` |
@@ -1275,7 +1275,7 @@ Columns:
 | afwassen | — | мыть посуду | separable verb | les-22 | Na het eten was ik de borden af. |
 | meebrengen | — | приносить с собой | separable verb | les-22 | Breng jij je boek mee? |
 | uitgaan | — | выходить развлекаться, проводить вечер вне дома | separable verb | les-22 | Zij gaat met haar vrienden uit. |
-| terugkomen | — | возвращаться | separable verb | les-22 | Mijn vader komt om zes uur terug. |
+| terugkomen | — | возвращаться | separable verb | les-22, les-28 | Mijn vader komt om zes uur terug. [les-28] kwam terug / kwamen terug; is teruggekomen. Ben je al uit de winkel teruggekomen? |
 
 ## Les 23
 
@@ -1359,14 +1359,14 @@ Columns:
 | de zuigtablet | — | пастилка, таблетка для рассасывания | noun | les-24 | Мн. ч.: de zuigtabletten. |
 | de warme drank | — | тёплый напиток | phrase | les-24 | Мн. ч.: de warme dranken. |
 | rust nodig hebben | — | нуждаться в отдыхе | phrase | les-24 | Ik heb wat rust nodig. |
-| uitrusten | — | отдыхать | separable verb | les-24 | ik rust uit; heeft uitgerust; Rust goed uit! |
-| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24 | hebben / zijn + voltooid deelwoord. |
+| uitrusten | — | отдыхать | separable verb | les-24, les-28 | ik rust uit; heeft uitgerust; Rust goed uit! [les-28] rustte uit / rustten uit; heeft uitgerust. |
+| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24, les-28 | hebben / zijn + voltooid deelwoord. |
 | het voltooid deelwoord | — | причастие прошедшего времени | grammar term | les-24 | Мн. ч.: de voltooide deelwoorden; gewerkt, ingenomen. |
 | al | — | уже | adverb | les-24 | Heb je al gegeten? |
 | net | — | только что | adverb | les-24 | Ik heb net gebeld. |
 | al eens | — | уже когда-либо, уже раз | phrase | les-24 | Heb je deze film al eens gezien? |
 | al lang | — | уже давно | phrase | les-24 | Ik woon hier al lang; не требует perfectum. |
-| worden | — | становиться | verb | les-24, les-27 | is geworden; Hij is ziek geworden. Повторение les-27: werd / werden; is geworden. |
+| worden | — | становиться | verb | les-24, les-27, les-28 | is geworden; Hij is ziek geworden. Повторение les-27: werd / werden; is geworden. [les-28] werd / werden; is geworden. De kinderen zijn moe geworden. |
 | leven | — | жить, быть живым | verb | les-24, les-25 | heeft geleefd; v в инфинитиве → -d. Imperfectum: leefde / leefden; учитываем v инфинитива. |
 | beloven | — | обещать | verb | les-24 | heeft beloofd; без дополнительного ge-. |
 | vieren | — | праздновать | verb | les-24 | heeft gevierd. |
@@ -1385,7 +1385,7 @@ Columns:
 | vroeger | — | раньше, в прошлом | adverb | les-25 | Vroeger woonde ik hier. Не путать со сравнительной степенью vroeg: раньше по времени. |
 | toen | — | тогда; когда (в прошлом) | adverb/conjunction | les-25 | Toen was ik thuis. Toen ik klein was, woonde ik hier. |
 | geleden | — | назад (о времени) | adverb | les-25 | twee jaar geleden — два года назад; lang geleden — давно. |
-| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25 | werkte / werkten; was / waren. Может описывать и завершённые события. |
+| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25, les-28 | werkte / werkten; was / waren. Может описывать и завершённые события. |
 
 ## Les 26
 
@@ -1416,7 +1416,7 @@ Columns:
 | gek zijn op | — | обожать | phrase | les-26 | Ik ben gek op kaas. |
 | een hekel hebben aan | — | терпеть не мочь | phrase | les-26 | Ik heb een hekel aan lawaai. |
 | favoriet | — | любимый | adjective | les-26 | Mijn favoriete eten is pasta. |
-| het werkwoord | — | глагол | grammar term | les-26 | Мн. ч.: de werkwoorden. |
+| het werkwoord | — | глагол | grammar term | les-26, les-28 | Мн. ч.: de werkwoorden. |
 | de ik-vorm | — | форма глагола для ik | grammar term | les-26 | werken → ik werk; мн. ч.: de ik-vormen. |
 | het onregelmatige werkwoord | — | неправильный глагол | grammar term | les-26 | Мн. ч.: de onregelmatige werkwoorden; nemen → nam → genomen. |
 | de tijdsaanduiding | — | указатель времени | grammar term | les-26 | Мн. ч.: de tijdsaanduidingen; vroeger, toen. |
@@ -1436,8 +1436,8 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| beginnen | — | начинать | verb | les-27 | begon / begonnen; is begonnen. |
-| blijven | — | оставаться | verb | les-27 | bleef / bleven; is gebleven. |
+| beginnen | — | начинать | verb | les-27, les-28 | begon / begonnen; is begonnen. [les-28] begon / begonnen; is begonnen. De les is al begonnen. |
+| blijven | — | оставаться | verb | les-27, les-28 | bleef / bleven; is gebleven. [les-28] bleef / bleven; is gebleven. Mijn zus is in de keuken gebleven. |
 | denken | — | думать | verb | les-27 | dacht / dachten; heeft gedacht. |
 | kijken | — | смотреть | verb | les-27 | keek / keken; heeft gekeken. |
 | zien | — | видеть | verb | les-27 | zag / zagen; heeft gezien. |
@@ -1470,11 +1470,11 @@ Columns:
 | de regel | — | правило | noun | les-27 | Мн. ч.: de regels; verkeersregels — правила дорожного движения. |
 | stoppen | — | останавливаться; прекращать | verb | les-27 | stopte / stopten; de bus is gestopt; stoppen met werken. |
 | Let op! | — | Внимание! Будьте внимательны! | phrase | les-27 | Предупреждение перед важной информацией. |
-| de tegenwoordige tijd | — | настоящее время | grammar term | les-27 | Скриншоты 4, 5, 7: ik begin. |
-| de verleden tijd | — | прошедшее время; здесь imperfectum | grammar term | les-27 | В заданиях противопоставляется voltooide tijd: ik begon. |
-| de voltooide tijd | — | завершённое время; здесь perfectum | grammar term | les-27 | В примерах: ik ben begonnen; не равно русскому совершенному виду. |
+| de tegenwoordige tijd | — | настоящее время | grammar term | les-27, les-28 | Скриншоты 4, 5, 7: ik begin. |
+| de verleden tijd | — | прошедшее время; здесь imperfectum | grammar term | les-27, les-28 | В заданиях противопоставляется voltooide tijd: ik begon. |
+| de voltooide tijd | — | завершённое время; здесь perfectum | grammar term | les-27, les-28 | В примерах: ik ben begonnen; не равно русскому совершенному виду. |
 | het verleden | — | прошлое | noun | les-27 | В заголовке: onregelmatige werkwoorden in het verleden. |
-| Zet zinnen in de verleden tijd en de voltooide tijd. | — | Поставьте предложения в imperfectum и perfectum. | instruction | les-27 | Формулировка на скриншотах 4, 5, 7; пояснения в скобках опущены. |
+| Zet zinnen in de verleden tijd en de voltooide tijd. | — | Поставьте предложения в imperfectum и perfectum. | instruction | les-27, les-28 | Формулировка на скриншотах 4, 5, 7; пояснения в скобках опущены. |
 | Vul met het goede woord in. | — | Вставьте подходящее слово. | instruction | les-27 | Формулировка на скриншотах 8–9. |
 | Kies woorden uit de lijst. | — | Выберите слова из списка. | instruction | les-27 | Формулировка на скриншоте 1. |
 | Lees de tekst en beantwoord de vragen. | — | Прочитайте текст и ответьте на вопросы. | instruction | les-27 | Формулировка на скриншоте 6. |
@@ -1486,3 +1486,58 @@ Columns:
 | de lijst | — | список | noun | les-27 | Мн. ч.: de lijsten; woorden uit de lijst kiezen. |
 | het verkeersbord | — | дорожный знак | noun | les-27 | Мн. ч.: de verkeersborden; в тексте скриншота 6. |
 | plannen | — | планировать | verb | les-27 | plande / planden; heeft gepland; mijn dag plannen. |
+
+## Les 28
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| ontstaan | — | возникать | verb | les-28 | ontstond / ontstonden; is ontstaan. Er is een probleem ontstaan. |
+| terugkeren | — | возвращаться | verb | les-28 | keerde terug / keerden terug; is teruggekeerd. Mijn vader is naar het dorp teruggekeerd. |
+| verschijnen | — | появляться | verb | les-28 | verscheen / verschenen; is verschenen. Er is een bericht op de computer verschenen. |
+| vluchten | — | убегать, спасаться бегством | verb | les-28 | vluchtte / vluchtten; is gevlucht. De kat is naar de tuin gevlucht. |
+| ontkomen | — | избежать опасности, спастись | verb | les-28 | ontkwam / ontkwamen; is ontkomen. De hond is aan het gevaar ontkomen. |
+| blijken | — | оказываться, выясняться | verb | les-28 | bleek / bleken; is gebleken. Dat is later gebleken. |
+| gebeuren | — | происходить | verb | les-28 | gebeurde / gebeurden; is gebeurd. Er is iets op school gebeurd. |
+| voorvallen | — | случаться | verb | les-28 | viel voor / vielen voor; is voorgevallen. Er is iets vervelends in de bus voorgevallen. |
+| lukken | — | удаваться, получаться | verb | les-28 | lukte / lukten; is gelukt. Het huiswerk is goed gelukt. |
+| mislukken | — | не удаваться | verb | les-28 | mislukte / mislukten; is mislukt. De taart is mislukt. |
+| slagen | — | сдавать экзамен, достигать цели | verb | les-28 | slaagde / slaagden; is geslaagd. Mijn broer is voor het examen geslaagd. |
+| zakken | — | опускаться; проваливать экзамен | verb | les-28 | zakte / zakten; is gezakt. De cursist is voor het examen gezakt. |
+| tegenvallen | — | разочаровывать, не оправдывать ожиданий | verb | les-28 | viel tegen / vielen tegen; is tegengevallen. Het eten is tegengevallen. |
+| afstuderen | — | оканчивать вуз | verb | les-28 | studeerde af / studeerden af; is afgestudeerd. Mijn dochter is vorig jaar afgestudeerd. |
+| bevallen | — | рожать ребёнка | verb | les-28 | beviel / bevielen; is bevallen. Mijn zus is van een dochter bevallen. В значении «нравиться»: heeft bevallen. |
+| overlijden | — | умирать | verb | les-28 | overleed / overleden; is overleden. Zijn opa is vorig jaar overleden. |
+| sterven | — | умирать | verb | les-28 | stierf / stierven; is gestorven. De plant is gestorven. |
+| stijgen | — | подниматься, повышаться | verb | les-28 | steeg / stegen; is gestegen. De prijzen zijn gestegen. |
+| rijzen | — | подниматься, возрастать | verb | les-28 | rees / rezen; is gerezen. Het deeg is goed gerezen. |
+| groeien | — | расти | verb | les-28 | groeide / groeiden; is gegroeid. De kinderen zijn snel gegroeid. |
+| vallen | — | падать | verb | les-28 | viel / vielen; is gevallen. Het boek is op de grond gevallen. |
+| dalen | — | снижаться | verb | les-28 | daalde / daalden; is gedaald. De prijs is gedaald. |
+| verdwijnen | — | исчезать | verb | les-28 | verdween / verdwenen; is verdwenen. Mijn sleutels zijn verdwenen. |
+| ontsnappen | — | сбегать | verb | les-28 | ontsnapte / ontsnapten; is ontsnapt. De kat is uit het huis ontsnapt. |
+| schrikken | — | пугаться | verb | les-28 | schrok / schrokken; is geschrokken. Ik ben van de hond geschrokken. |
+| kwijtraken | — | терять | verb | les-28 | raakte kwijt / raakten kwijt; is kwijtgeraakt. Ik ben mijn tas kwijtgeraakt. |
+| gelukken | — | удаваться (вариант lukken) | verb | les-28 | gelukte / gelukten; is gelukt. Het plan is gelukt. |
+| weggaan | — | уходить | verb | les-28 | ging weg / gingen weg; is weggegaan. De gasten zijn vroeg weggegaan. |
+| thuiskomen | — | приходить домой | verb | les-28 | kwam thuis / kwamen thuis; is thuisgekomen. Mijn moeder is laat thuisgekomen. |
+| omkomen | — | погибать | verb | les-28 | kwam om / kwamen om; is omgekomen. Er zijn mensen bij het ongeluk omgekomen. |
+| stappen | — | ступать, шагать (с перемещением) | verb | les-28 | stapte / stapten; is gestapt. De kinderen zijn in de trein gestapt. |
+| verdwalen | — | заблудиться | verb | les-28 | verdwaalde / verdwaalden; is verdwaald. Wij zijn in de stad verdwaald. |
+| Het hangt ervan af. | — | Это зависит от обстоятельств. | phrase | les-28 | Устойчивая фраза; afhangen: hing af, heeft afgehangen. |
+| duidelijk | — | ясный, понятный | adjective/adverb | les-28 | De uitleg is duidelijk. |
+| onduidelijk | — | неясный, непонятный | adjective/adverb | les-28 | Het antwoord is onduidelijk. |
+| mogelijk | — | возможный; возможно | adjective/adverb | les-28 | Dat is mogelijk. |
+| Wat is het dat nou? | — | Что это такое? (с заминкой) | phrase | les-28 | На стикере именно эта разговорная формулировка; нейтральнее: Wat is dat nou? |
+| het gangpad | — | проход между рядами | noun | les-28 | Мн. ч.: de gangpaden; aan het gangpad. |
+| de handbagage | — | ручная кладь | noun | les-28 | Обычно без мн. ч.; alleen handbagage. |
+| de koffer | — | чемодан | noun | les-28 | Мн. ч.: de koffers. |
+| belangrijk | — | важный | adjective | les-28 | belangrijker; het belangrijkst. |
+| bij het raam | — | у окна | phrase | les-28 | Ik zit bij het raam. |
+| aan het gangpad | — | у прохода | phrase | les-28 | Ik zit aan het gangpad. |
+| de trein missen | — | опоздать на поезд | verb phrase | les-28 | heeft de trein gemist. |
+| in de file staan | — | стоять в пробке | verb phrase | les-28 | heeft in de file gestaan. |
+| de weg vragen | — | спрашивать дорогу | verb phrase | les-28 | heeft de weg gevraagd. |
+| het voorbeeld | — | пример | noun | les-28 | Мн. ч.: de voorbeelden; подпись voorbeeld на скриншоте. |
+| het gevaar | — | опасность | noun | les-28 | aan het gevaar ontkomen. |
+| het deeg | — | тесто | noun | les-28 | Het deeg is gerezen; обычно без мн. ч. |
+| het ongeluk | — | несчастный случай, авария | noun | les-28 | Мн. ч.: de ongelukken; bij een ongeluk omkomen. |
