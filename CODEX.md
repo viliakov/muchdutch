@@ -100,7 +100,9 @@ When adding to `WORDS.md`:
 - Include article for nouns: `de` or `het`.
 - Include plural or usage notes when helpful.
 - Include lesson id in the `Lesson` column.
-- Avoid duplicates; update an existing row if a word reappears with better notes.
+- Follow the normalization rules at the top of `WORDS.md`: use stable English `Type` values and sorted, unique `les-XX` values in `Lesson`.
+- Avoid duplicates for the same meaning and grammatical function; update the existing row and retain its lesson references and notes. Keep separate rows for different meanings or parts of speech, even when `Dutch` is identical.
+- Select vocabulary by the entire `Lesson` column, not only by section heading; earlier rows can include later lesson references. The first lesson is the earliest recorded occurrence of the entry, not necessarily of every meaning in its notes.
 - Keep translations practical, not overly academic.
 
 ## Homework Generation Rules
