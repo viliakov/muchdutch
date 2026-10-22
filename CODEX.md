@@ -2,6 +2,10 @@
 
 Use this repo to help the user learn Dutch from lesson screenshots and generated practice.
 
+## Lesson Generation Skill
+
+For new lesson materials and additional-homework requests, use `$dutch-lesson` and follow [its workflow](.agents/skills/dutch-lesson/SKILL.md). The skill is stored in the project's `.agents/skills` directory for automatic discovery. It reads this file as the single source of project requirements and reviews the generated content before delivery. Keep detailed course requirements here instead of duplicating them in the skill. Checking the learner's answers is a separate task.
+
 ## Main Goal
 
 Turn each lesson screenshot or Miro board into:
@@ -162,6 +166,13 @@ Apply these requirements to generated extra homework unless the user explicitly 
 9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
 10. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
 11. Include a dedicated grammar-terminology exercise in every generated homework set. Test Dutch terms and common exercise instructions actually visible in the lesson screenshots, reusing terms from earlier lessons for revision. Examples, when present in the source, include `het meervoud` (множественное число), `het werkwoord` (глагол), and `kies de juiste optie` (выберите правильный вариант). Use Russian prompts asking the learner to supply or match the Dutch term or instruction, and provide a fixed answer key. Follow the standard 15–20-item size when enough source vocabulary is available; otherwise use fewer items rather than inventing terms supposedly seen in the screenshots. Add newly encountered terms and instruction phrases to `WORDS.md` with their Russian meanings and lesson id.
+
+### Initial adverbials in Russian-to-Dutch translation
+
+- If a Russian source sentence starts with an adverbial of time, place, or another circumstance, start the Dutch translation with the corresponding adverbial as well. Apply this to answers and answer keys in every exercise type with Russian source sentences.
+- Preserve correct Dutch word order: when an adverbial comes first in a main clause, place the finite verb before the subject (inversion).
+- Example from lesson 28, exercise 5, sentence 1: «Вчера я заблудился в Амстердаме.» → `Gisteren ben ik in Amsterdam verdwaald.` Use this order in the answer key rather than `Ik ben gisteren in Amsterdam verdwaald.`
+- Apply this rule to newly generated translations and answer keys. Do not revise existing exercises or answer keys solely to conform to this rule unless the user explicitly asks.
 
 ### Independent article choice in translation exercises
 
