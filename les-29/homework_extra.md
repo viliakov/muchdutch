@@ -10,25 +10,25 @@
 
 Переведите русское предложение, заполнив пропуски в нидерландской заготовке. Союз и формы глаголов выберите самостоятельно. В пунктах с двумя глаголами впишите оба.
 
-1. Я беру очки, потому что светит солнце. → Ik neem een zonnebril mee, ____ de zon ____.
+1. Я беру солнцезащитные очки с собой, потому что светит солнце. → Ik neem een zonnebril mee, ____ de zon ____.
 2. Если у нас есть время, мы читаем газету. → ____ we tijd ____, ____ we een krant.
-3. Поскольку поездка долгая, я беру журнал. → ____ de reis lang ____, ____ ik een tijdschrift mee.
+3. Поскольку поездка долгая, я беру журнал с собой. → ____ de reis lang ____, ____ ik een tijdschrift mee.
 4. Я остаюсь дома, потому что должен учиться. → Ik blijf thuis, ____ ik ____.
 5. Если ты не знаешь дорогу, я тебе помогаю. → ____ je de weg niet ____, ____ ik je.
-6. Я рад, потому что нашёл паспорт. → Ik ben blij, ____ ik mijn paspoort ____.
+6. Я рад, потому что нашёл свой паспорт. → Ik ben blij, ____ ik mijn paspoort ____.
 7. Когда дети спят, мы читаем. → ____ de kinderen ____, ____ we.
 8. Мой брат покупает навигатор, потому что часто ездит на машине. → Mijn broer koopt een navigatiesysteem, ____ hij vaak auto ____.
 9. Если автобус опаздывает, я иду пешком. → ____ de bus te laat ____, ____ ik te voet.
 10. Поскольку мой планшет сломан, я пользуюсь ноутбуком. → ____ mijn tablet kapot ____, ____ ik de laptop.
-11. Я беру карту, потому что хочу посетить провинцию. → Ik neem een kaart mee, ____ ik de provincie ____.
+11. Я беру карту с собой, потому что хочу посетить провинцию. → Ik neem een kaart mee, ____ ik de provincie ____.
 12. Если идёт дождь, дети играют дома. → ____ het ____, ____ de kinderen thuis.
-13. Я беру лекарство, потому что болею. → Ik neem een medicijn, ____ ik ziek ____.
+13. Я принимаю лекарство, потому что болею. → Ik neem een medicijn, ____ ik ziek ____.
 14. Поскольку мы рано приехали, у нас есть время. → ____ we vroeg ____, ____ we tijd.
 15. Если ты можешь прийти, я готовлю суп. → ____ je ____, ____ ik soep.
 
 ## 2. Сравнительная и превосходная степень
 
-Переведите. Впишите подходящую степень сравнения: контекст показывает, сравниваются ли два предмета или один со всеми остальными.
+Переведите, используя подходящую степень сравнения: контекст показывает, сравниваются ли два предмета или один со всеми остальными.
 
 1. Ноутбук дороже планшета.
 2. Из всех сумок моя сумка самая тяжёлая.
@@ -38,7 +38,7 @@
 6. Из всех поездок эта поездка самая долгая.
 7. Поезд быстрее автобуса.
 8. Из всех комнат кухня самая маленькая.
-9. Мои часы старше твоих часов.
+9. Мои часы старее твоих часов.
 10. Из всех учеников Марк читает лучше всех.
 11. На острове тише, чем в городе.
 12. Из всех телефонов этот телефон самый дешёвый.
@@ -72,9 +72,9 @@
 
 1. Утром я читаю газету, потому что хочу знать новости.
 2. Если мой брат приезжает рано, мы вместе едим хлеб.
-3. Мы берём плавки, потому что хотим плавать.
+3. Мы берём плавки с собой, потому что хотим плавать.
 4. В центре города я покупаю путеводитель.
-5. Поскольку мои часы сломаны, я смотрю на телефон.
+5. Поскольку мои часы сломаны, я пользуюсь своим телефоном.
 6. Если у детей каникулы, мы навещаем бабушку.
 7. Я беру словарь, потому что текст трудный.
 8. Вчера мы приехали в столицу.
@@ -91,7 +91,7 @@
 Переведите с английского на нидерландский. Это отдельный набор предложений.
 
 1. The children need sunglasses because it is sunny.
-2. If the shop is closed, we buy bread tomorrow.
+2. If the shop is closed, we will buy bread tomorrow.
 3. My father has his driving licence in his bag.
 4. Because the boat leaves at nine, we get up at six.
 5. The laptop is on the desk next to the window.
@@ -101,7 +101,7 @@
 9. If you forget your watch, you can use my phone.
 10. Because the soup is hot, the child waits.
 11. I have never lost my boarding pass.
-12. The students work in the library when they have an exam.
+12. The students study in the library when they have an exam soon.
 13. Our neighbours have moved to a village in the south.
 14. You may take a sweet if you want.
 15. She uses a map because her navigation system is broken.
@@ -189,7 +189,7 @@
 12. Вы все можете помочь нам?
 13. Твои часы дороже моих часов.
 14. Я вижу её на вокзале.
-15. Наши соседи ищут свой паспорт.
+15. Наши соседи ищут свои паспорта.
 
 ## 10. Возвратные местоимения
 
@@ -263,7 +263,7 @@
 6. Ты берёшь газету или ты хочешь журнал?
 7. Я покупаю лекарства, потому что моя мама болеет.
 8. Когда мы приезжаем домой, мы пьём чай.
-9. Мой брат не едет, потому что он должен работать.
+9. Мой брат не едет с нами, потому что он должен работать.
 10. Паспорт дорогой, но он мне нужен.
 11. Если ты не понимаешь слово, ты можешь пользоваться словарём.
 12. На улице холодно, поэтому дети надевают куртки.
@@ -277,7 +277,7 @@
 
 1. Я должен взять водительское удостоверение с собой.
 2. Ты можешь показать мне столицу на карте?
-3. Детям разрешено взять сладости.
+3. Детям разрешено взять сладости с собой.
 4. Мы хотим посетить остров.
 5. Вы должны прийти вовремя. (вежливо)
 6. Она не может приехать, потому что болеет.
@@ -335,7 +335,7 @@
 38. Какое слово подходит в предложение?
 39. Составьте предложения.
 40. Начните с указания времени или места.
-41. Поскольку я еду на остров, я беру плавки.
+41. Поскольку я еду на остров, я беру плавки с собой.
 42. На севере наша бабушка читает газету.
 43. Если у тебя есть время, ты можешь помочь мне со схемой.
 
@@ -414,6 +414,8 @@
 14. Omdat we vroeg zijn aangekomen, hebben we tijd.
 15. Als je kunt komen, maak ik soep.
 
+В № 1 и 4 также подходит `want`: порядок слов в этих коротких предложениях совпадает с вариантом после `omdat`.
+
 ### 2. Сравнительная и превосходная степень
 
 1. De laptop is duurder dan de tablet.
@@ -454,34 +456,36 @@
 
 1. ’s Ochtends lees ik de krant, omdat ik het nieuws wil weten.
 2. Als mijn/m’n broer vroeg komt, eten we samen brood.
-3. We nemen een zwembroek mee, omdat we willen zwemmen.
+3. We nemen zwembroeken mee, omdat we willen zwemmen.
 4. In het centrum van de stad koop ik een reisgids.
-5. Omdat mijn/m’n horloge kapot is, kijk ik op mijn/m’n telefoon.
+5. Omdat mijn/m’n horloge kapot is, gebruik ik mijn/m’n telefoon.
 6. Als de kinderen vakantie hebben, bezoeken we oma.
-7. Ik neem een woordenboek mee, omdat de tekst moeilijk is.
+7. Ik neem een woordenboek, omdat de tekst moeilijk is. Также: Ik pak een woordenboek, omdat de tekst moeilijk is.
 8. Gisteren zijn we in de hoofdstad aangekomen.
 9. Mijn/m’n zus is in deze provincie geboren.
 10. Als ik reis, lees ik tijdschriften.
 11. In de tas liggen een paspoort en een pinpas.
 12. Omdat ik moe ben, kook ik vandaag niet.
-13. Op zaterdag gaan we naar het eiland, als het mooi weer is.
-14. Ik zoek het medicijn, maar ik vind de zonnebrandcrème.
+13. Zaterdag gaan we naar een eiland, als het mooi weer is.
+14. Ik zoek een medicijn, maar ik vind zonnebrandcrème.
 15. Als je niet kunt komen, bel ik je ’s avonds.
+
+**Варианты в этом разделе.** Русский текст не всегда определяет артикль: например, в № 7 возможны `een woordenboek` и `het woordenboek`, в № 13 — `een eiland` и `het eiland`. Определённый артикль предполагает, что собеседникам понятно, о каком предмете речь. В № 1 `de krant lezen` — обычное сочетание; `een krant lezen` тоже допустимо. В № 6 `vakantie hebben` употребляется без артикля, а `oma` используется как имя. В № 14 `zonnebrandcrème` без артикля обозначает крем как вещество.
 
 ### 5. Перевод с английского
 
-1. De kinderen hebben een zonnebril nodig, omdat het zonnig is.
+1. De kinderen hebben zonnebrillen nodig, omdat het zonnig is.
 2. Als de winkel dicht is, kopen we morgen brood.
 3. Mijn/m’n vader heeft zijn/z’n rijbewijs in zijn/z’n tas.
 4. Omdat de boot om negen uur vertrekt, staan we om zes uur op.
 5. De laptop staat op het bureau naast het raam.
-6. Als ik een vraag heb, vraag ik het aan de docent.
+6. Als ik een vraag heb, stel ik die aan de docent.
 7. We zijn blij, omdat onze dochter voor het examen is geslaagd.
 8. De hoofdstad ligt in het westen van het land.
 9. Als je jouw/je horloge vergeet, kun je mijn/m’n telefoon gebruiken.
 10. Omdat de soep heet is, wacht het kind.
 11. Ik ben mijn/m’n instapkaart nog nooit kwijtgeraakt.
-12. De studenten werken in de bibliotheek, als ze een examen hebben.
+12. De studenten leren in de bibliotheek, als ze binnenkort een examen hebben.
 13. Onze buren zijn naar een dorp in het zuiden verhuisd.
 14. Je mag een snoepje nemen, als je wilt.
 15. Ze gebruikt een kaart, omdat haar/d’r navigatiesysteem kapot is.
@@ -561,7 +565,7 @@
 12. Kunnen jullie ons helpen?
 13. Jouw/je horloge is duurder dan mijn/m’n horloge.
 14. Ik zie haar/d’r op het station.
-15. Onze buren zoeken hun paspoort.
+15. Onze buren zoeken hun paspoorten.
 
 ### 10. Возвратные местоимения
 
@@ -620,11 +624,11 @@
 ### 13. Предложения с союзами
 
 1. Omdat ik morgen een examen heb, leer ik vandaag.
-2. We nemen een kaart mee en kopen kaartjes.
+2. We nemen een kaart en kopen kaartjes.
 3. Ik wil gaan, maar ik heb geen geld.
-4. Als je de laptop meeneemt, neem ik de tablet mee.
+4. Als je de laptop neemt, neem ik de tablet.
 5. De winkel is dicht, dus ik ga naar huis.
-6. Neem je een krant mee of wil je een tijdschrift?
+6. Neem je een krant of wil je een tijdschrift?
 7. Ik koop medicijnen, omdat mijn/m’n moeder ziek is.
 8. Als we thuiskomen, drinken we thee.
 9. Mijn/m’n broer gaat niet mee, want hij moet werken.
