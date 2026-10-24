@@ -10,20 +10,20 @@ Personal Dutch learning repo for turning lesson screenshots into structured note
 ├── WORDS.md
 ├── CODEX.md
 ├── les-01
-│   └── summary.md
+│   └── README.md
 ├── les-02
-│   └── summary.md
+│   └── README.md
 ├── les-03
-│   └── summary.md
+│   └── README.md
 ├── les-04
-│   └── summary.md
+│   └── README.md
 ├── les-05
-│   └── summary.md
+│   └── README.md
 ├── les-06
-│   ├── summary.md
+│   ├── README.md
 │   └── homework.md
 └── les-07
-    ├── summary.md
+    ├── README.md
     └── homework.md
 ```
 
@@ -33,13 +33,13 @@ Each lesson folder should be named `les-XX`, for example `les-01`, `les-02`, `le
 
 Each `les-XX` folder can contain:
 
-- `summary.md`: lesson summary generated from screenshots or notes.
+- `README.md`: lesson summary generated from screenshots or notes.
 - `homework_extra.md`: additional exercises generated automatically from the lesson summary and cumulative word bank, including a grammar-terminology exercise and answer keys.
 - `homework.md`: historical lesson homework; homework already visible in screenshots is no longer duplicated.
 - `materials.md`: optional manual notes, links, or transcript fragments.
 - `screenshots/`: optional source images if they are added to the repo later.
 
-The most important file is `summary.md`. It should capture what was learned in the lesson, especially grammar, vocabulary themes, pronunciation, listening/speaking topics, and common example sentences.
+The most important file is `README.md`. It should capture what was learned in the lesson, especially grammar, vocabulary themes, pronunciation, listening/speaking topics, and common example sentences.
 
 ## Vocabulary
 
@@ -50,7 +50,7 @@ This makes later exercises richer: homework for `les-06` can use words from earl
 ## Workflow
 
 1. Post a screenshot of a Miro board or lesson material to Codex.
-2. Codex analyzes the screenshot and creates or updates `les-XX/summary.md`.
+2. Codex analyzes the screenshot and creates or updates `les-XX/README.md`.
 3. Codex adds new vocabulary to `WORDS.md`.
 4. Codex immediately generates `les-XX/homework_extra.md`, without a separate request, using:
    - the current lesson summary,

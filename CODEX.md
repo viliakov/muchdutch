@@ -17,7 +17,7 @@ Turn each lesson screenshot or Miro board into:
 ## Directory Rules
 
 - Use lesson folders named `les-XX`, for example `les-01`, `les-06`.
-- Store lesson summaries in `les-XX/summary.md`.
+- Store lesson summaries in `les-XX/README.md`.
 - Do not transcribe or duplicate homework already present in a screenshot. Existing `les-XX/homework.md` files are historical material; keep them unless the user asks to change them.
 - Store extra practice tasks that you generate in `les-XX/homework_extra.md`.
 - Keep vocabulary in the single cumulative file `WORDS.md`.
@@ -37,7 +37,7 @@ When the user posts a lesson screenshot:
    - spreken,
    - schrijven,
    - huiswerk.
-4. Create or update `les-XX/summary.md`.
+4. Create or update `les-XX/README.md`.
 5. Add new words and reusable phrases to `WORDS.md`.
 6. Mention any uncertainty if the screenshot is too small or text is unreadable.
 7. Write all explanatory content in Russian. Keep Dutch forms, examples, dialogues, and source texts in Dutch. English may appear only as source text in exercises that explicitly ask the learner to translate from English into Dutch.
@@ -45,7 +45,7 @@ When the user posts a lesson screenshot:
 
 ## Lesson Summary Format
 
-Use this format for `summary.md`:
+Use this format for `README.md`:
 
 ```markdown
 # Урок XX — конспект
