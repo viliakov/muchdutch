@@ -178,7 +178,7 @@
 1. Мой паспорт лежит в моей сумке.
 2. Я помогаю ему, потому что он не знает дорогу.
 3. Она даёт мне свой словарь.
-4. Мы показываем им карту.
+4. Мы даём им карту.
 5. Ваш посадочный талон лежит здесь.
 6. Наш дом находится на севере.
 7. Наша столица очень красивая.
@@ -276,14 +276,14 @@
 Переведите, самостоятельно выбрав подходящий модальный глагол. Не используйте конструкции с te.
 
 1. Я должен взять водительское удостоверение с собой.
-2. Ты можешь показать мне столицу на карте?
+2. Ты можешь найти столицу на карте?
 3. Детям разрешено взять сладости с собой.
 4. Мы хотим посетить остров.
 5. Вы должны прийти вовремя. (вежливо)
 6. Она не может приехать, потому что болеет.
 7. Если у меня есть время, я хочу читать.
 8. Ты умеешь пользоваться навигатором?
-9. Вы все должны показать посадочные талоны.
+9. Вы все должны взять посадочные талоны с собой.
 10. Мне можно взять словарь с собой?
 11. Мой брат хочет купить новые плавки.
 12. Мы можем помочь вам всем после урока.
@@ -554,7 +554,7 @@
 1. Mijn/m’n paspoort ligt in mijn/m’n tas.
 2. Ik help hem, omdat hij de weg niet weet.
 3. Ze geeft mij/me haar/d’r woordenboek.
-4. We laten hun de kaart zien. / We laten ze de kaart zien.
+4. We geven hun de kaart. / We geven ze de kaart.
 5. Uw instapkaart ligt hier.
 6. Ons huis ligt in het noorden.
 7. Onze hoofdstad is heel mooi.
@@ -642,14 +642,14 @@
 ### 14. Модальные глаголы
 
 1. Ik moet mijn/m’n rijbewijs meenemen.
-2. Kun je mij/me de hoofdstad op de kaart laten zien?
+2. Kun je de hoofdstad op de kaart vinden?
 3. De kinderen mogen snoep meenemen.
 4. We willen het eiland bezoeken.
 5. U moet op tijd komen.
 6. Ze kan niet komen, omdat ze ziek is.
 7. Als ik tijd heb, wil ik lezen.
 8. Kun je het navigatiesysteem gebruiken?
-9. Jullie moeten de instapkaarten laten zien.
+9. Jullie moeten de instapkaarten meenemen.
 10. Mag ik het woordenboek meenemen?
 11. Mijn/m’n broer wil een nieuwe zwembroek kopen.
 12. We kunnen jullie na de les helpen.
