@@ -12,7 +12,7 @@ Turn each lesson screenshot or Miro board into:
 
 1. a clear lesson summary,
 2. cumulative vocabulary entries,
-3. additional homework exercises generated immediately, without a separate request.
+3. additional homework exercises, including a listening dictation with AI-generated audio, generated immediately without a separate request.
 
 ## Directory Rules
 
@@ -20,6 +20,7 @@ Turn each lesson screenshot or Miro board into:
 - Store lesson summaries in `les-XX/README.md`.
 - Do not transcribe or duplicate homework already present in a screenshot. Existing `les-XX/homework.md` files are historical material; keep them unless the user asks to change them.
 - Store extra practice tasks that you generate in `les-XX/homework_extra.md`.
+- Store dictation source sentences in `les-XX/dictation.txt` and generated recordings in `les-XX/dictation/`. For numbered extra homework, use matching names such as `dictation_extra2.txt` and `dictation_extra2/`; preserve existing sets and user answers.
 - Keep vocabulary in the single cumulative file `WORDS.md`.
 - Do not create separate per-lesson word-bank files unless the user explicitly asks.
 
@@ -128,6 +129,7 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
    - ontkennende zinnen (`niet` / `geen`),
    - vragen (yes/no questions plus questions with a question word),
    - grammar terminology and exercise-instruction vocabulary from the screenshots,
+   - listening dictation following the requirements below,
    - an answer key for every section.
    Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
    Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
@@ -167,6 +169,26 @@ Apply these requirements to generated extra homework unless the user explicitly 
 10. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
 11. Include a dedicated grammar-terminology exercise in every generated homework set. Test Dutch terms and common exercise instructions actually visible in the lesson screenshots, reusing terms from earlier lessons for revision. Examples, when present in the source, include `het meervoud` (множественное число), `het werkwoord` (глагол), and `kies de juiste optie` (выберите правильный вариант). Use Russian prompts asking the learner to supply or match the Dutch term or instruction, and provide a fixed answer key. Follow the standard 15–20-item size when enough source vocabulary is available; otherwise use fewer items rather than inventing terms supposedly seen in the screenshots. Add newly encountered terms and instruction phrases to `WORDS.md` with their Russian meanings and lesson id.
 12. Starting with lesson 29, occasionally include a destination question with `naartoe` in the questions exercise, rotating it into future homework sets. Use a natural Russian prompt, such as «Куда ты едешь?», and a matching answer such as `Waar ga je naartoe?`. Keep the choice of Dutch wording independent: do not reveal `naartoe` in the prompt.
+13. Include a listening dictation of 15–20 sentences in every newly generated extra homework set, in addition to the other exercises. The dictation is an exception to the Russian-source-text rule: the learner transcribes Dutch audio rather than translating a written prompt.
+
+### Listening dictation
+
+- Generate 15–20 new Dutch sentences using the current lesson and material already learned up to that lesson. Mix current and earlier vocabulary from `WORDS.md`. Do not copy sentences from the other exercises or introduce later grammar to fill the quota.
+- Plan coverage of known tenses, learned conjunctions (explicitly including `omdat` and `als` once covered), separable verbs, reflexive pronouns, possessive pronouns, and cardinal and ordinal numbers. Treat individual learned tenses, conjunctions, and constructions as coverage targets; include every applicable family when the available slots allow it. Combine targets naturally in a sentence without making it needlessly difficult.
+- If the coverage targets exceed the chosen 15–20 sentence slots, randomly sample targets without replacement rather than increasing the dictation length or always selecting the same subset. Use an actual random draw (for example Python's `random.sample`) and record the selected targets in a short coverage note in the answer key. Across new sets, make fresh random selections. This does not override the learned-material boundary.
+- Review Dutch word order, auxiliary choice, separable verb forms, pronouns, articles, and number spelling before synthesis. Write numbers in words in the source so the exact spoken wording is unambiguous. Choose one spoken form of a possessive pronoun per recording; show that exact form in the transcript, without slash alternatives in the synthesis input.
+- In the homework exercise, write Russian instructions to listen and transcribe each numbered recording. Link `dictation/01.mp3`, `dictation/02.mp3`, etc.; keep Dutch transcripts and translations out of the prompts and filenames. Give the exact numbered transcript in the separate answer key. The source file and manifest are generation/answer materials, not learner prompts.
+- Save the reviewed transcript as UTF-8 `dictation.txt`, with one Dutch sentence per nonempty line, no heading, numbering, translations, or comments. Line order, audio numbering, and answer-key numbering must match exactly.
+- Generate the recordings with the repository script, using mise from `PATH`:
+
+  ```bash
+  mise exec uv@0.13.5 -- uv run --script scripts/generate_dictation.py les-XX/dictation.txt
+  ```
+
+- Use normal speed (`+0%`). For each sentence, use one randomly assigned voice from `nl-NL-ColetteNeural`, `nl-NL-FennaNeural`, and `nl-NL-MaartenNeural`; keep that voice throughout the sentence. All three must appear in every dictation. The script shuffles a balanced voice pool and saves the assignments in `dictation/manifest.json`; resuming an existing set retains those assignments.
+- The script creates one MP3 per sentence and resumes missing recordings. Do not replace an existing set merely to randomize its voices again. For a revised transcript, use a new matching source/output name. Never overwrite completed homework or unrelated audio.
+- Run synthesis as part of generating the homework, and check that every linked MP3 exists and is nonempty. If the service is unavailable, retain the transcript and keys, explicitly report which recordings are missing, and do not claim the dictation audio is complete. A dry run is only a plan, not successful audio generation.
+- This adds generated listening practice; it does not imply that source screenshots contained audio. Do not rewrite historical lessons just to add dictations unless requested. Repository Markdown audio links are not embedded players; do not claim GitHub Pages playback is available unless a site was actually configured and published.
 
 ### Initial adverbials in Russian-to-Dutch translation
 
