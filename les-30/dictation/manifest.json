@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 15172776483454546362,
+  "items": [
+    {
+      "number": 1,
+      "text": "Als de trein op tijd komt, zijn we voor het eten thuis.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "Omdat mijn fiets kapot is, loop ik naar de winkel.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Gisteren heeft de buurvrouw brood gesneden.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "Vorige week bleven we drie dagen in een vakantiehuisje.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Morgen zal ik de dokter bellen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "De kinderen kleden zich aan, want ze willen naar buiten.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "We hebben geen koffie, maar er is nog thee.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "Wil je kaas of wil je liever een ei?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "De bus is vertrokken, dus wachten we op de volgende.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "Toen ik jong was, woonde ik bij het station.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "Na de les belt hij zijn moeder op.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "Ik heb me voor de cursus ingeschreven.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "De rode koffer is zwaarder dan de blauwe.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "Onze kamer is op de vierde verdieping.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "Het kaartje kost tweeëntwintig euro.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "In het dorp wonen drieduizend mensen.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "Waar gaan jullie morgen naartoe?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "Je mag hier niet fietsen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "Ze heeft haar paspoort in de tas gedaan.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "De trein is om acht uur aangekomen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "20.mp3"
+    }
+  ]
+}
