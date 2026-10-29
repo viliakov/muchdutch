@@ -225,7 +225,7 @@
 1. Ik koop een kaartje en ze koopt een krant.
 2. Hij is moe, maar hij kan niet slapen.
 3. Ga je met de bus of ga je te voet?
-4. Het regent, dus nemen we een paraplu mee.
+4. Het regent, dus we nemen een paraplu mee.
 5. Ik kom niet, omdat ik ziek ben. Также: Ik kom niet, want ik ben ziek.
 6. Als de trein te laat komt, wachten we.
 7. Omdat de winkel dicht is, ga ik naar huis.
@@ -234,7 +234,7 @@
 10. We koken en de kinderen dekken de tafel.
 11. Ik neem een jas mee, omdat het koud is. Также: Ik neem een jas mee, want het is koud.
 12. Als je honger hebt, kun je brood nemen.
-13. De bus is al vertrokken, dus ga ik te voet.
+13. De bus is al vertrokken, dus ik ga te voet.
 14. Toen ik een kind was, woonde ik in een klein huis.
 15. Omdat ze haar/d’r sleutels is kwijtgeraakt, belt ze haar/d’r broer.
 
@@ -390,7 +390,7 @@
 6. De kinderen kleden zich aan, want ze willen naar buiten.
 7. We hebben geen koffie, maar er is nog thee.
 8. Wil je kaas of wil je liever een ei?
-9. De bus is vertrokken, dus wachten we op de volgende.
+9. De bus is vertrokken, dus we wachten op de volgende.
 10. Toen ik jong was, woonde ik bij het station.
 11. Na de les belt hij zijn moeder op.
 12. Ik heb me voor de cursus ingeschreven.
