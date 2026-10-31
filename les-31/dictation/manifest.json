@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 15388394661102259452,
+  "items": [
+    {
+      "number": 1,
+      "text": "De buurvrouw zegt dat de tram morgen niet rijdt.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "Weet je of de bakker vandaag open is?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Als ik vroeg vertrek, haal ik de aansluiting.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "Omdat de veerpont vol is, wachten we hier.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Gisteren heb ik in de trein een tijdschrift gelezen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "Vroeger ging mijn opa altijd met de brommer naar zijn werk.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "Morgen zal ik de nieuwe kaart meenemen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "Zij vraagt waar de kinderen moeten overstappen.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "We maken ons zorgen over onze dochter.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "In de spits duurt deze reis tweeënveertig minuten.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "De derde straat links is veel rustiger.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "Ik neem thee en mijn broer drinkt koffie.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "De taxi is duur, maar we hebben geen fiets.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "We blijven thuis, want het sneeuwt.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "De brug is dicht, dus we nemen een andere weg.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "Ga je met de metro of loop je liever?",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "Toen ik klein was, woonde ik op het platteland.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "Hij denkt dat hij zijn rijbewijs heeft verloren.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "De voetganger mag hier niet oversteken.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "Af en toe wil ik met niemand iets te maken hebben.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "20.mp3"
+    }
+  ]
+}

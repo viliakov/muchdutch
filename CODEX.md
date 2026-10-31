@@ -149,13 +149,13 @@ Apply these requirements to generated extra homework unless the user explicitly 
 
 1. Include exercises covering:
    - comparative and superlative forms, with context determining which form is required,
-   - direct, indirect, and possessive pronouns,
+   - direct, indirect, and possessive pronouns: use 15 items, with exactly 10 practising full forms `hen` / `hun`, including direct objects, indirect objects without a preposition, `hen` after prepositions, and possessive `hun`; use the other 5 for other pronouns,
    - a dedicated reflexive-pronoun exercise (`me`, `je`, `zich`, `ons`), starting with lesson 22 and in all future homework sets; cover different subjects, questions, inversion, and known modal verbs,
    - negative sentences,
    - questions,
    - large numbers written in words, including ordinal numbers,
    - sentence building with conjunctions learned so far,
-   - sentence building with modal verbs learned so far,
+   - sentence building with modal verbs learned so far, always including `zullen` (for example a promise or a suggestion),
    - every new word or phrase added for the current lesson.
 2. Write the source text for all the exercise types listed above in Russian so the user practises translating into Dutch.
 3. Where meaningful, include plural nouns and a mixture of `de`-words and `het`-words in those exercises.
@@ -170,6 +170,8 @@ Apply these requirements to generated extra homework unless the user explicitly 
 11. Include a dedicated grammar-terminology exercise in every generated homework set. Test Dutch terms and common exercise instructions actually visible in the lesson screenshots, reusing terms from earlier lessons for revision. Examples, when present in the source, include `het meervoud` (множественное число), `het werkwoord` (глагол), and `kies de juiste optie` (выберите правильный вариант). Use Russian prompts asking the learner to supply or match the Dutch term or instruction, and provide a fixed answer key. Follow the standard 15–20-item size when enough source vocabulary is available; otherwise use fewer items rather than inventing terms supposedly seen in the screenshots. Add newly encountered terms and instruction phrases to `WORDS.md` with their Russian meanings and lesson id.
 12. Starting with lesson 29, occasionally include a destination question with `naartoe` in the questions exercise, rotating it into future homework sets. Use a natural Russian prompt, such as «Куда ты едешь?», and a matching answer such as `Waar ga je naartoe?`. Keep the choice of Dutch wording independent: do not reveal `naartoe` in the prompt.
 13. Include a listening dictation of 15–20 sentences in every newly generated extra homework set, in addition to the other exercises. The dictation is an exception to the Russian-source-text rule: the learner transcribes Dutch audio rather than translating a written prompt.
+
+14. The learner has covered `dus` only as a coordinating conjunction. Use subject–finite verb order after `dus` in generated examples, exercises, answer keys, and dictation: `Ik ben moe, dus ik blijf thuis.` Do not use connective-adverb inversion (`dus blijf ik`) until the user says it has been covered. This does not change inversion after initial adverbials or initial subordinate clauses.
 
 ### Listening dictation
 
