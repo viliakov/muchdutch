@@ -199,6 +199,13 @@ Apply these requirements to generated extra homework unless the user explicitly 
 - Example from lesson 28, exercise 5, sentence 1: «Вчера я заблудился в Амстердаме.» → `Gisteren ben ik in Amsterdam verdwaald.` Use this order in the answer key rather than `Ik ben gisteren in Amsterdam verdwaald.`
 - Apply this rule to newly generated translations and answer keys. Do not revise existing exercises or answer keys solely to conform to this rule unless the user explicitly asks.
 
+### Hints for `er` in translation exercises
+
+- When a generated translation exercise expects `er`, add a short Russian hint to the affected prompt identifying its role (for example, an unstressed reference to an already mentioned place, or the existence construction `er is / er zijn`). Do not expose the complete translated sentence.
+- Distinguish required `er` from an optional natural alternative. If `hier`, `daar`, or a version without `er` also fits the Russian meaning and context, accept it in the key rather than presenting `er` as the only correct answer. Supply enough context for a place-reference use of `er`; do not silently reinterpret «здесь» as a previously mentioned place.
+- Distinguish locative `hier` / `daar` / `er` from impersonal subject `het` in weather and temperature expressions: `het is koud`; a place word does not replace that subject.
+- Apply these hints to newly generated work. Do not rewrite existing examples solely for this rule unless the user requests it.
+
 ### Independent article choice in translation exercises
 
 - The user wants to choose articles independently. Do not add article hints to translation prompts or instructions: no parenthetical notes about known objects, first mentions, substances in general, or which article to use.
