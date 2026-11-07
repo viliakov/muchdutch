@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 8811972537701629500,
+  "items": [
+    {
+      "number": 1,
+      "text": "Terwijl ik het raam sluit, zet mijn zus de koffie op tafel.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "Omdat de airco stuk is, slapen we met het raam open.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Als we vroeg aankomen, kunnen we eerst koffie drinken.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "Ik heb een rustige kamer gereserveerd.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Gisteren verloor hij zijn handschoenen op het station.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "Morgen zal ik het probleem oplossen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "De lift werkt niet, dus we nemen de trap.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "De kamer is klein, maar het bed is comfortabel.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "Ik klaag niet, want het verblijf is goedkoop.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "Wil je nu vertrekken of wil je hier wachten?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "Zij zegt dat de trein van spoor twaalf vertrekt.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "Hij vraagt of we de bagage hebben meegenomen.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "Toen ik klein was, vloog ik vaak met mijn ouders.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "Na het ontbijt scheert hij zich en poetst hij zijn tanden.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "We moeten onze koffers wegen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "Je mag hier niet roken.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "Ik wil een hotel aan de linkerkant van de straat zoeken.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "De kinderen hebben geen huiswerk en ze spelen buiten.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "Onze kamer op de zesde verdieping kost honderddertig euro.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "Ik kies de goedkoopste kamer, omdat die goedkoper is dan jouw kamer.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "20.mp3"
+    }
+  ]
+}
