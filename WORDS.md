@@ -467,7 +467,7 @@ Columns:
 | vergeten | to forget | забывать | verb | les-10, les-24 | `de sleutel vergeten` Perfectum: is de sleutel vergeten; также возможно hebben. |
 | kunnen | can, to be able to | мочь; мочь, уметь | verb | les-10, les-11 | [les-10] `ik kan niet werken` [les-11] modal; sing. `kan`, jij/u also `kunt`, plural `kunnen` |
 | lachen | to laugh | смеяться | verb | les-10 | reading text |
-| liggen | to lie, to be located | лежать | verb | les-10 | `de sleutel ligt binnen` |
+| liggen | to lie, to be located | лежать; находиться, располагаться | verb | les-10, les-33 | `de sleutel ligt binnen` [les-33] Het museum ligt in Utrecht. Новое явно отмеченное значение: располагаться. |
 | de sleutel | key | ключ | noun | les-10 | keys and doors |
 | op slot | locked | на замке | phrase | les-10 | `de deur is op slot` |
 | het formulier | form | бланк, анкета | noun | les-10 | `formulier invullen` |
@@ -1111,7 +1111,7 @@ Columns:
 | de superlatief | superlative | превосходная степень | grammar noun | les-19 | usually `het` + adjective + `-st` |
 | even | equally, just as | одинаково, так же | adverb | les-19 | `even oud (als)` |
 | liever | rather, preferably | охотнее, лучше | adverb | les-19 | comparative of `graag` |
-| het liefst | most preferably | охотнее всего, больше всего | adverb | les-19 | superlative of `graag` |
+| het liefst | most preferably | охотнее всего, больше всего | adverb | les-19, les-33 | superlative of `graag` |
 | beter | better | лучше | adjective/adverb | les-19 | comparative of `goed` |
 | het best | best | лучше всего | adjective/adverb | les-19 | superlative of `goed` |
 | het meest | most | больше всего | quantifier/adverb | les-19 | superlative of `veel` |
@@ -1194,7 +1194,7 @@ Columns:
 | de tong | tongue | язык | noun | les-21 | plural `de tongen` |
 | de nek | neck | шея | noun | les-21 | plural `de nekken` |
 | de hals | neck, throat area | шея, горло | noun | les-21 | front or whole neck area; plural `de halzen` |
-| het hart | heart | сердце | noun | les-21 | plural `de harten` |
+| het hart | heart | сердце; центральная часть, средоточие | noun | les-21, les-33 | plural `de harten` [les-33] het hart van de Efteling — сердце, центральная часть парка; переносное значение. |
 | de long | lung | лёгкое | noun | les-21 | usually plural `de longen` |
 | de maag | stomach | желудок | noun | les-21 | `last van de maag` |
 | de lever | liver | печень | noun | les-21 | plural `de levers` |
@@ -1260,7 +1260,7 @@ Columns:
 | zich scheren | — | бриться | reflexive verb | les-22, les-32 | Hij scheert zich elektrisch. [les-32] schoor zich / schoren zich; heeft zich geschoren. |
 | zich herinneren | — | помнить, вспоминать | reflexive verb | les-22 | Herinneren jullie je jullie eerste vakantie? |
 | zich verbazen over | — | удивляться чему-либо | reflexive verb | les-22 | Ik verbaas me over het aantal fietsen. |
-| zich zorgen maken over | — | беспокоиться о | reflexive phrase | les-22, les-31 | We maken ons zorgen over oma. |
+| zich zorgen maken over | — | беспокоиться о | reflexive phrase | les-22, les-31, les-33 | We maken ons zorgen over oma. |
 | zich ergeren aan | — | раздражаться из-за чего-либо | reflexive verb | les-22 | Ik erger me aan het lawaai. Причастие: geërgerd. |
 | zich aanmelden voor | — | записываться на; регистрироваться на | reflexive separable verb | les-22 | Ik meld me aan voor de cursus. U kunt zich aanmelden. |
 | zich verheugen op | — | с радостью ждать, предвкушать | reflexive verb | les-22 | Verheug jij je op de vakantie? |
@@ -1346,7 +1346,7 @@ Columns:
 | de huid | — | кожа | noun | les-24 | de zalf op de huid smeren. |
 | smeren | — | намазывать, наносить | verb | les-24 | heeft gesmeerd; zalf op de huid smeren. |
 | de drogist | — | магазин бытовых и аптечных товаров; его продавец | noun | les-24 | Мн. ч.: de drogisten; bij de drogist. |
-| daar | — | там, туда | adverb | les-24 | Ik heb daar gewoond. |
+| daar | — | там, туда | adverb | les-24, les-33 | Ik heb daar gewoond. |
 | de keer | — | раз | noun | les-24 | twee keer per dag; мн. ч.: de keren, после числительного обычно keer. |
 | dagelijks | — | ежедневно | adjective/adverb | les-24, les-31 | dagelijks een schone zakdoek gebruiken. |
 | sommige | — | некоторые | determiner | les-24 | sommige medicijnen; некоторые из группы. |
@@ -1475,9 +1475,9 @@ Columns:
 | de voltooide tijd | — | завершённое время; здесь perfectum | grammar term | les-27, les-28 | В примерах: ik ben begonnen; не равно русскому совершенному виду. |
 | het verleden | — | прошлое | noun | les-27 | В заголовке: onregelmatige werkwoorden in het verleden. |
 | Zet zinnen in de verleden tijd en de voltooide tijd. | — | Поставьте предложения в imperfectum и perfectum. | instruction | les-27, les-28 | Формулировка на скриншотах 4, 5, 7; пояснения в скобках опущены. |
-| Vul met het goede woord in. | — | Вставьте подходящее слово. | instruction | les-27, les-31, les-32 | Формулировка на скриншотах 8–9. [les-32] Вариант формулировки: Vul het juiste woord in. |
+| Vul met het goede woord in. | — | Вставьте подходящее слово. | instruction | les-27, les-31, les-32, les-33 | Формулировка на скриншотах 8–9. [les-32] Вариант формулировки: Vul het juiste woord in. [les-33] Также Vul met het juiste woord in. |
 | Kies woorden uit de lijst. | — | Выберите слова из списка. | instruction | les-27 | Формулировка на скриншоте 1. |
-| Lees de tekst en beantwoord de vragen. | — | Прочитайте текст и ответьте на вопросы. | instruction | les-27 | Формулировка на скриншоте 6. |
+| Lees de tekst en beantwoord de vragen. | — | Прочитайте текст и ответьте на вопросы. | instruction | les-27, les-33 | Формулировка на скриншоте 6. [les-33] Вариант: Lees de tekst en geef antwoord op de vragen. |
 | Maak het bericht klaar. | — | Допишите сообщение. | instruction | les-27 | Формулировка на скриншоте 8; буквально: подготовьте сообщение. |
 | Vertel je eigen verhaal. | — | Расскажите свою историю. | instruction | les-27 | Формулировка на скриншоте 1. |
 | Luister en beantwoord de vragen. | — | Послушайте и ответьте на вопросы. | instruction | les-27 | Формулировка на скриншоте 2; аудио не приложено. |
@@ -1568,16 +1568,16 @@ Columns:
 | het westen | — | запад | noun | les-29 | in het westen — на западе. |
 | het midden | — | середина, центральная часть | noun | les-29 | in het midden — в центре. |
 | het eiland | — | остров | noun | les-29 | Мн. ч.: de eilanden. |
-| naartoe | — | туда, в том направлении | adverb | les-29 | Daar moet je met de boot naartoe. |
+| naartoe | — | туда, в том направлении | adverb | les-29, les-33 | Daar moet je met de boot naartoe. |
 | de hoofdstad | — | столица | noun | les-29 | Мн. ч.: de hoofdsteden. |
 | als | — | если; когда (условие или повторение) | conjunction | les-29, les-30, les-31 | В придаточном глаголы в конце; Als ik tijd heb, lees ik. |
 | geboren worden | — | рождаться | verb phrase | les-29 | werd / werden geboren; is / zijn geboren. Не путать с bevallen — рожать. |
 | de grammatica | — | грамматика | noun | les-29, les-32 | Заголовок grammatica. |
 | de hoofdzin | — | главное предложение | grammar term | les-29, les-30 | Мн. ч.: de hoofdzinnen; спрягаемый глагол на второй позиции в утверждении. |
 | de bijzin | — | придаточное предложение | grammar term | les-29, les-30 | Мн. ч.: de bijzinnen; после omdat / als глаголы в конце. |
-| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32 | Также het infinitief; на картинке infinitief. |
+| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32, les-33 | Также het infinitief; на картинке infinitief. |
 | de vertaling | — | перевод | noun | les-29 | Мн. ч.: de vertalingen; заголовок столбца. |
-| het schema | — | схема, таблица | noun | les-29, les-32 | Мн. ч.: de schema’s. |
+| het schema | — | схема, таблица | noun | les-29, les-32, les-33 | Мн. ч.: de schema’s. |
 | de volgorde | — | порядок следования | noun | les-29, les-30 | de volgorde van de woorden — порядок слов. |
 | de inversie | — | инверсия | grammar term | les-29, les-30 | Глагол перед подлежащим после начального обстоятельства или придаточного. |
 | de reden | — | причина | noun | les-29, les-30 | Мн. ч.: de redenen; met omdat geef je een reden. |
@@ -1613,8 +1613,8 @@ Columns:
 | de strandvakantie | — | пляжный отдых | noun | les-30 | Мн. ч.: de strandvakanties. |
 | kamperen | — | отдыхать в кемпинге, с палаткой | verb | les-30 | kampeerde / kampeerden; heeft gekampeerd. |
 | het dagje | — | денёк; поездка на день | noun | les-30 | een dagje naar het pretpark |
-| het pretpark | — | парк развлечений | noun | les-30 | Мн. ч.: de pretparken. |
-| het vakantiehuisje | — | домик для отдыха | noun | les-30 | Мн. ч.: de vakantiehuisjes. |
+| het pretpark | — | парк развлечений | noun | les-30, les-33 | Мн. ч.: de pretparken. |
+| het vakantiehuisje | — | домик для отдыха | noun | les-30, les-33 | Мн. ч.: de vakantiehuisjes. |
 | het lange weekend | — | длинные выходные | phrase | les-30 | een lang weekend; het lange weekend |
 | Tsjechië | — | Чехия | place | les-30 | Географическое название. |
 | Griekenland | — | Греция | place | les-30 | Географическое название. |
@@ -1641,7 +1641,7 @@ Columns:
 | het dialect | — | диалект | noun | les-30 | Мн. ч.: de dialecten. |
 | de specialiteit | — | фирменное блюдо; местная особенность | noun | les-30 | Мн. ч.: de specialiteiten. |
 | de bezienswaardigheid | — | достопримечательность | noun | les-30 | Мн. ч.: de bezienswaardigheden. |
-| de attractie | — | аттракцион; привлекательное для туристов место | noun | les-30 | Мн. ч.: de attracties. |
+| de attractie | — | аттракцион; привлекательное для туристов место | noun | les-30, les-33 | Мн. ч.: de attracties. |
 | Kijk naar het plaatje. | — | Посмотрите на картинку. | instruction | les-30 | Формулировка со скриншота 080142. |
 | Kies uit. | — | Выберите из предложенного. | instruction | les-30, les-32 | Начало инструкции на скриншотах 080142 и 080149. |
 | Vertel ook waarom! | — | Расскажите также почему! | instruction | les-30 | Формулировка с вводного слайда. |
@@ -1745,3 +1745,89 @@ Columns:
 | Praat in tweetallen. | — | Поговорите в парах. | instruction | les-32 | Инструкция из задания 4. |
 | Maak zinnen met de woorden uit de woordwolk. | — | Составьте предложения со словами из облака слов. | instruction | les-32 | Инструкция из задания 4. |
 | Gebruik elk woord. | — | Используйте каждое слово. | instruction | les-32 | Инструкция из задания 4. |
+
+## Les 33
+
+Лексика семи скриншотов (два повторяют одно задание) и базовая конструкция om … te, введённая по просьбе пользователя. Отдельные записи hier, thuis, vakantie, weekend, daarna, vorig, volgend и eigen оформляют уже знакомые слова. Повторения и дополненные значения liggen и het hart отмечены les-33 в прежних строках.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| doorverbinden | — | соединять по телефону | separable verb | les-33 | verbindt door; verbond door; heeft doorverbonden; om iemand door te verbinden. |
+| zorgen voor | — | заботиться о; обеспечивать | verb phrase | les-33 | zorgde voor; heeft gezorgd voor; zorgen voor de kinderen. Не то же, что zich zorgen maken over. |
+| de bevestiging | — | подтверждение | noun | les-33 | Мн. ч.: de bevestigingen. |
+| het trefpunt | — | место встречи | noun | les-33 | Мн. ч.: de trefpunten. |
+| aanstaande maandag | — | предстоящий понедельник | phrase | les-33 | aanstaande также с другими днями: aanstaande vrijdag. |
+| het apenstaartje | — | знак @ | noun | les-33 | Мн. ч.: de apenstaartjes. На скриншоте ошибочно apenstaatje. |
+| om een uur of drie | — | примерно в три часа | phrase | les-33 | een uur of drie — приблизительное время; om — в. Здесь om — предлог времени, без te. |
+| ergens | — | где-то, где-нибудь; куда-нибудь | adverb | les-33 | ergens zijn; ergens naartoe gaan. |
+| nergens | — | нигде; никуда | adverb | les-33 | nergens vinden; nergens naartoe gaan. Не требует дополнительного niet. |
+| overal | — | везде, повсюду | adverb | les-33 | overal zoeken; overal heen gaan. |
+| heen | — | туда, в направлении места | adverb | les-33 | Waar ga je heen? Сочетается с обозначением направления. |
+| de zomervakantie | — | летние каникулы; летний отпуск | noun | les-33 | Мн. ч.: de zomervakanties; in de zomervakantie. |
+| het strand | — | пляж | noun | les-33 | Мн. ч.: de stranden; op het strand. |
+| de strandwandeling | — | прогулка по пляжу | noun | les-33 | Мн. ч.: de strandwandelingen; een strandwandeling maken. |
+| het uitje | — | небольшая поездка; выход куда-либо для отдыха | noun | les-33 | Мн. ч.: de uitjes. Здесь не уменьшительное от ui — лук. |
+| terechtkunnen | — | иметь возможность куда-либо пойти или обратиться | separable verb | les-33 | Ik kan hier terecht. В тексте: terechtkunnen voor een uitje. |
+| typisch | — | типичный, характерный | adjective | les-33 | typisch Nederlands; typisch Nederlandse attracties. |
+| het vissersstadje | — | рыбацкий городок | noun | les-33 | Мн. ч.: de vissersstadjes. |
+| bekijken | — | рассматривать, осматривать | verb | les-33 | bekeek / bekeken; heeft bekeken; без ge-. |
+| het leven | — | жизнь | noun | les-33 | Мн. ч.: de levens. Отдельная часть речи: leven — жить. |
+| restaureren | — | реставрировать | verb | les-33 | restaureerde / restaureerden; heeft gerestaureerd; gerestaureerd — отреставрированный. |
+| onder andere | — | в числе прочего | phrase | les-33 | Перечисление нескольких примеров из более широкого набора. |
+| de demonstratie | — | демонстрация, показ | noun | les-33 | Мн. ч.: de demonstraties. Здесь показ работы ремесленников. |
+| het ambacht | — | ремесло | noun | les-33 | Мн. ч.: de ambachten. |
+| de huifkar | — | крытая повозка | noun | les-33 | Мн. ч.: de huifkarren; op een huifkar rijden. |
+| prachtig | — | великолепный, прекрасный | adjective | les-33 | een prachtig gebouw. |
+| het openluchtmuseum | — | музей под открытым небом | noun | les-33 | Мн. ч.: de openluchtmusea. |
+| kennismaken met | — | знакомиться с | separable verb phrase | les-33 | maakt kennis met; maakte kennis met; heeft kennisgemaakt met. Здесь знакомство с обычаями и традициями; также с людьми. |
+| het gebruik | — | обычай | noun | les-33 | Мн. ч.: de gebruiken. В источнике oude Nederlandse gebruiken; не глагол gebruiken. |
+| de traditie | — | традиция | noun | les-33 | Мн. ч.: de tradities. |
+| historisch | — | исторический | adjective | les-33 | historische gebouwen. |
+| het gebouw | — | здание | noun | les-33 | Мн. ч.: de gebouwen. |
+| bekend | — | известный | adjective | les-33 | bekende plaatsen. |
+| in het klein | — | в уменьшенном виде | phrase | les-33 | Nederland in het klein. |
+| in miniatuur | — | в миниатюре | phrase | les-33 | gebouwen in miniatuur. |
+| het paleis | — | дворец | noun | les-33 | Мн. ч.: de paleizen. |
+| nationaal | — | национальный | adjective | les-33 | de nationale luchthaven. |
+| overslaan | — | пропускать | separable verb | les-33 | slaat over; sloeg over; heeft overgeslagen; om iets over te slaan. |
+| de achtbaan | — | американские горки | noun | les-33 | Мн. ч.: de achtbanen. |
+| speciaal | — | особенный | adjective | les-33 | een speciale plek. |
+| het sprookje | — | сказка | noun | les-33 | Мн. ч.: de sprookjes. |
+| het sprookjesbos | — | сказочный лес | noun | les-33 | Мн. ч.: de sprookjesbossen. Sprookjesbos — название части Эфтелинга. |
+| volwassen | — | взрослый | adjective | les-33 | volwassen zijn; een volwassen kind. |
+| de volwassene | — | взрослый человек | noun | les-33 | Мн. ч.: de volwassenen. |
+| de waterlelie | — | кувшинка | noun | les-33 | Мн. ч.: de waterlelies. |
+| afwisselend | — | попеременно | adverb | les-33 | afwisselend kort en lang — попеременно короткий и длинный. |
+| de wolf | — | волк | noun | les-33 | Мн. ч.: de wolven. |
+| de geit | — | коза | noun | les-33 | Мн. ч.: de geiten; het geitje / de geitjes — козлёнок / козлята. |
+| de paddenstoel | — | гриб | noun | les-33 | Мн. ч.: de paddenstoelen. |
+| onderdoor | — | под чем-либо, проходя снизу | adverb | les-33 | ergens onderdoor lopen; daar onderdoor lopen — проходить под этим. |
+| glazen | — | стеклянный | adjective | les-33 | een glazen kist. Прилагательное материала не получает дополнительное -e; не мн. ч. от het glas. |
+| de kist | — | ящик; гроб (в сказочном контексте) | noun | les-33 | Мн. ч.: de kisten; Sneeuwwitje in haar glazen kist. |
+| het beeld | — | образ, картина | noun | les-33 | Мн. ч.: de beelden. В конце текста — образы, сохраняющиеся в памяти. |
+| bijblijven | — | оставаться в памяти | separable verb | les-33 | blijft bij; bleef bij; is bijgebleven; Dat beeld blijft me bij. |
+| de herinnering | — | воспоминание | noun | les-33 | Мн. ч.: de herinneringen; goede herinneringen aan iets hebben. |
+| bedoeld zijn voor | — | предназначаться для | phrase | les-33 | Dit boek is bedoeld voor kinderen. Готовая конструкция; отдельная тема пассива не вводится. |
+| eigenlijk | — | на самом деле, собственно | adverb | les-33 | Wat wil je eigenlijk? |
+| allerlei | — | всевозможные, разные | determiner | les-33 | allerlei attracties. |
+| zoals | — | например; такие как | conjunction | les-33 | attracties zoals een achtbaan — аттракционы, например американские горки. В этом уроке — введение примеров. |
+| minstens | — | как минимум | adverb | les-33 | minstens één keer. |
+| opnieuw | — | снова | adverb | les-33 | opnieuw bezoeken. |
+| verder | — | далее; кроме того | adverb | les-33 | В тексте: Verder heb je ... — кроме того, есть ... |
+| zeker | — | определённо, непременно | adverb | les-33 | Dat mag je zeker niet overslaan. |
+| geen enkele | — | ни один | phrase | les-33 | op geen enkele plaats — ни в одном месте; geen enkel gebouw — ни одно здание. |
+| vetgedrukt | — | выделенный жирным шрифтом | adjective | les-33 | de vetgedrukte woorden. |
+| juist | — | правильный, верный | adjective | les-33 | het juiste woord; de juiste plaats. |
+| Zet de vetgedrukte woorden op de juiste plaats in het schema. | — | Поставьте выделенные слова на нужное место в таблице. | instruction | les-33 | Инструкция из источника, включена как учебный материал. |
+| hier | — | здесь; сюда | adverb | les-33 | Уже встречалось в примерах прежних уроков; отдельная запись добавлена в les-33. |
+| thuis | — | дома | adverb | les-33 | Уже знакомо по thuis werken и прежним примерам. |
+| de vakantie | — | отпуск; каникулы | noun | les-33 | Мн. ч.: de vakanties. Уже знакомо по op vakantie gaan. |
+| het weekend | — | выходные | noun | les-33 | Мн. ч.: de weekenden / de weekends. Ранее fijn weekend и het lange weekend. |
+| daarna | — | после этого, затем | adverb | les-33 | Уже встречалось в примечании к de stap; начальное Daarna вызывает инверсию. |
+| vorig | — | прошлый | adjective | les-33 | vorig jaar; vorige week. Уже встречалось в прежних примерах. |
+| volgend | — | следующий | adjective | les-33 | volgend jaar; volgende week. Ранее tot de volgende keer. |
+| eigen | — | собственный, свой | adjective | les-33 | mijn eigen huis; zijn eigen kinderen. Ранее Vertel je eigen verhaal. |
+| binnen | — | в пределах, внутри | preposition | les-33 | binnen Europa — в пределах Европы. Отдельно от наречия binnen. |
+| buiten | — | за пределами, вне | preposition | les-33 | buiten Europa — за пределами Европы. Отдельно от наречия buiten. |
+| vroeger | — | прежний, бывший | adjective | les-33 | de vroegere Zuiderzee. Отдельно от наречия vroeger — раньше. |
+| om … te | — | чтобы; конструкция с инфинитивом для цели или оценки действия | grammar phrase | les-33 | Базовая тема введена по просьбе пользователя в les-33: om brood te kopen; leuk om te reizen; om vroeg op te staan. |

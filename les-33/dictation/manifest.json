@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 11569895231961605543,
+  "items": [
+    {
+      "number": 1,
+      "text": "We gaan naar het strand om samen een strandwandeling te maken.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "Het is fijn om in de vakantie vroeg op te staan.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Ik bel het hotel om een rustige kamer te reserveren.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "Terwijl mijn broer de kaartjes koopt, zoek ik het trefpunt.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Omdat het regent, bekijken we de gebouwen in miniatuur.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "Als het museum open is, kunnen we de oude ambachten bekijken.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "Gisteren heb ik nergens mijn paspoort gevonden.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "Vroeger woonde zij in een klein vissersstadje.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "Morgen zal ik jullie de bevestiging sturen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "Het paleis is gesloten, dus we bezoeken het park.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "Mijn moeder wil wandelen, maar mijn vader blijft liever thuis.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "We nemen de bus, want de trein heeft vertraging.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "Wil je het sprookjesbos bezoeken of wil je een strandwandeling maken?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "Hij zegt dat zijn dochter zich op het uitje verheugt.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "Zij vraagt of we de kaart van Nederland hebben meegenomen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "Toen ik klein was, las mijn oma vaak sprookjes.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "De kinderen moeten zich klaarmaken en hun tassen pakken.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "In dit museum mag je geen foto's maken.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "Het derde kaartje kost vijfentwintig euro.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "Dit gebouw is ouder dan het paleis en het is het oudste gebouw van het dorp.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "20.mp3"
+    }
+  ]
+}
