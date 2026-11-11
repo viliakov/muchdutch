@@ -18,7 +18,7 @@
 8. Het is belangrijk om voor de kinderen te zorgen.
 9. Ik wil het paleis bezoeken.
 10. We moeten vroeg opstaan.
-11. Ze gaat naar het dorp om kennis te maken met de tradities.
+11. Ze gaat naar het dorp om kennis te maken met de tradities. Для заданного шаблона: kennis te maken. При свободном переводе также правильно: Ze gaat naar het dorp om met de tradities kennis te maken.
 12. Gisteren ging ik naar het park om te wandelen.
 13. Ze heeft gebeld om een kamer te reserveren.
 14. Het is moeilijk om u door te verbinden.
@@ -76,7 +76,7 @@
 7. We willen de gebouwen in miniatuur bekijken.
 8. Gisteren heb ik mijn/m’n vader gebeld om een afspraak te maken. Также: … om af te spreken.
 9. Het is belangrijk om geen lessen over te slaan.
-10. Naar dit dorp gaan we om kennis te maken met oude gebruiken.
+10. Naar dit dorp gaan we om kennis te maken met oude gebruiken. Также правильно: Naar dit dorp gaan we om met oude gebruiken kennis te maken.
 11. Vroeger woonde mijn/m’n opa bij het paleis.
 12. Ze zegt dat ze nergens een kaartje kan vinden.
 13. We hebben het openluchtmuseum bezocht.
@@ -242,7 +242,7 @@
 11. Omdat we willen wandelen, gaan we naar het strand.
 12. Hij vertelt dat het gebouw historisch is.
 13. Als je wilt uitrusten, kun je hier blijven.
-14. We bezoeken het museum omdat we het leuk vinden om kennis te maken met tradities.
+14. We bezoeken het museum omdat we het leuk vinden om kennis te maken met tradities. Также правильно: We bezoeken het museum omdat we het leuk vinden om met tradities kennis te maken.
 15. Ze zorgt voor de kinderen terwijl hij kookt.
 
 ## 14. Модальные глаголы
