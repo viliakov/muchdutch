@@ -206,6 +206,14 @@ Apply these requirements to generated extra homework unless the user explicitly 
 - Distinguish locative `hier` / `daar` / `er` from impersonal subject `het` in weather and temperature expressions: `het is koud`; a place word does not replace that subject.
 - Apply these hints to newly generated work. Do not rewrite existing examples solely for this rule unless the user requests it.
 
+### Hints for ambiguous `bij` / `naast` choices
+
+- In Russian-to-Dutch exercises, when spatial wording such as «у», «около», «возле» or «рядом с» leaves both `bij` and `naast` plausible, explicitly name the preposition used in the key: `Подсказка по предлогу: используйте bij.` or `Подсказка по предлогу: используйте naast.` The learner wants to know the intended interpretation, not guess the key's choice.
+- Keep the hint limited to the preposition; do not reveal the noun article or the full translated phrase. Use `bij` for proximity to a landmark and `naast` for an adjacent position where that is the intended meaning; do not imply that Russian «рядом» always maps to one of them.
+- Match the answer key to the hint. Where the original Russian wording permits an alternative spatial interpretation, explain the valid alternative in the key rather than treating a different preposition as automatically ungrammatical. Distinguish an acceptable translation from following the specified preposition for this item.
+- Apply this to newly generated Russian-source exercises and the current lesson's items identified by the user. Preserve learner answers and do not rewrite unrelated historical exercises.
+
+
 ### Independent article choice in translation exercises
 
 - The user wants to choose articles independently. Do not add article hints to translation prompts or instructions: no parenthetical notes about known objects, first mentions, substances in general, or which article to use.

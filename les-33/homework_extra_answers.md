@@ -77,7 +77,7 @@
 8. Gisteren heb ik mijn/m’n vader gebeld om een afspraak te maken. Также: … om af te spreken.
 9. Het is belangrijk om geen lessen over te slaan.
 10. Naar dit dorp gaan we om kennis te maken met oude gebruiken. Также правильно: Naar dit dorp gaan we om met oude gebruiken kennis te maken.
-11. Vroeger woonde mijn/m’n opa bij het paleis.
+11. Vroeger woonde mijn/m’n opa bij het paleis. Вариант naast het paleis тоже возможен, если имеется в виду непосредственное соседство с дворцом; по подсказке в этом пункте используем bij.
 12. Ze zegt dat ze nergens een kaartje kan vinden.
 13. We hebben het openluchtmuseum bezocht.
 14. Het is fijn om vrienden opnieuw te zien.
@@ -157,7 +157,7 @@
 
 ## 9. Личные, объектные и притяжательные местоимения
 
-1. Ik zie hen bij het paleis.
+1. Ik zie hen bij het paleis. Вариант naast het paleis уточняет положение сбоку от дворца и тоже возможен при таком понимании русского текста; по подсказке используем bij.
 2. Ze hoort hen terwijl ze een sprookje leest.
 3. We geven hun de bevestiging.
 4. Ik bied hun thee na de strandwandeling.
@@ -166,9 +166,9 @@
 7. Ik denk aan hen.
 8. We krijgen een brief van hen.
 9. Hun kinderen willen de paddenstoelen bekijken.
-10. Hun huis staat bij het strand.
+10. Hun huis staat bij het strand. Вариант naast het strand тоже возможен, если дом непосредственно соседствует с пляжем; по подсказке используем bij.
 11. Hij belt mij/me om het adres te vragen.
-12. Ik zie jou/je bij de ingang.
+12. Ik zie jou/je bij de ingang. Вариант naast de ingang означает «сбоку от входа» и тоже возможен при таком понимании русского текста; по подсказке используем bij.
 13. Dit is mijn/m’n tas.
 14. Waar is jouw/je kaartje?
 15. Hij wil zijn/z’n kaart meenemen.
@@ -236,7 +236,7 @@
 5. We kunnen met de trein gaan of we kunnen de bus nemen.
 6. De huifkar is vol, dus we wachten.
 7. Ik lees de tekst en jij vult het schema in.
-8. Ze vraagt of het trefpunt bij het station ligt.
+8. Ze vraagt of het trefpunt bij het station ligt. Вариант naast het station тоже возможен, если место встречи непосредственно рядом со зданием вокзала; по подсказке используем bij.
 9. Toen ik klein was, ging ik vaak naar dit park.
 10. Ik denk dat dit beeld me bijblijft. Также: … me zal bijblijven.
 11. Omdat we willen wandelen, gaan we naar het strand.
