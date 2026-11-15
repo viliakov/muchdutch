@@ -162,7 +162,10 @@ Apply these requirements to generated extra homework unless the user explicitly 
 4. Give each standard exercise 15-20 sentences/items. The current-lesson vocabulary exercise may contain as many items as needed to cover every new word and phrase.
 5. Keep the existing Russian-to-Dutch and English-to-Dutch translation sections as separate sections.
 6. Keep the dedicated plural and `de`/`het` exercises.
-7. Include one dedicated exercise that collectively covers all new vocabulary introduced in the current lesson.
+7. Include one dedicated exercise that collectively covers all current-lesson vocabulary, and repeat every word and phrase at least once in another exercise in the same homework set.
+   - Establish the full target list from the lesson source, summary, and relevant `WORDS.md` entries, including previously known vocabulary practised in the current lesson; do not limit coverage to newly added dictionary rows.
+   - Distribute the additional occurrences naturally across the other exercises, using different sentences and contexts. Each word or phrase must be part of an actual learner task in both the dedicated vocabulary exercise and at least one other exercise. Mentions only in headings, instructions, hints, word lists, or answer keys do not count; inflected forms count when they practise the intended meaning.
+   - Before delivery, check a coverage map from each target word or phrase to its numbered items in the dedicated exercise and in another exercise. Fill any gaps while preserving the required exercise types, sizes, and learned-material boundaries. Apply this to newly generated homework; do not rewrite existing sets unless requested.
 8. Provide a fixed answer key for every item; do not use open-ended tasks.
    - In answer keys involving possessive pronouns, include both full (stressed) and reduced (unstressed) forms wherever both are grammatically and contextually valid, for example `jouw/je`, `mijn/m’n`, and `zijn/z’n`. Show both variants in the answer; if emphasis or contrast requires the full form, give only that form. Do not invent a second form where none exists.
 9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
