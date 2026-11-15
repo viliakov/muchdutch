@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 11321103900995384700,
+  "items": [
+    {
+      "number": 1,
+      "text": "Op de eerste november begint onze vakantie.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "We vertrekken om kwart over negen en komen om half elf aan.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Gisteren zong mijn zus terwijl ik thee dronk.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "De kinderen hebben twintig minuten gezwommen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Ik hoef morgen geen klacht in te dienen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "Als het raam klemt, bel ik de medewerker.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "We blijven thuis omdat onze auto stuk is.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "De lift doet het niet, dus we nemen de trap.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "Zal ik jouw koffer naar boven brengen?",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "Ze heeft zich voor de reis klaargemaakt.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "Het is fijn om langs de gracht te wandelen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "Hij vraagt of het hotel helemaal vol zit.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "Ik denk dat dit aanbod tot vrijdag geldt.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "We gaan naar rechts, maar onze vrienden gaan naar links.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "Wil je rechtdoor gaan of hier omkeren?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "Neem de tweede afslag rechts bij de kerk.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "De waterkoker is goedkoper dan de airco.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "Van alle kamers heeft deze kamer het mooiste uitzicht.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "Ik heb slecht geslapen, want ik had last van het lawaai.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "De bus stopt op twee december om zestien uur vijf bij het stadhuis.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "20.mp3"
+    }
+  ]
+}

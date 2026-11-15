@@ -146,7 +146,7 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| drinken | to drink | пить | verb | les-04 | present tense model verb |
+| drinken | to drink | пить | verb | les-04, les-34 | present tense model verb [les-34] dronk / dronken; heeft gedronken |
 | drink | drink | пью | verb form | les-04 | ik-form and inversion with jij/je |
 | drinkt | drinks | пьет, пьешь | verb form | les-04 | jij/u/hij/zij/het form |
 | de pauze | break | перерыв | noun | les-04, les-06 | [les-04] small-talk setting; also appeared in les-06 [les-06] lesson story |
@@ -445,7 +445,7 @@ Columns:
 | moeten | must, to have to | надо, должен | verb | les-10 | modal; sing. `moet`, plural `moeten` |
 | moet | must, has to | надо, должен | verb form | les-10 | singular form of `moeten` |
 | moeten (plural form) | must, have to | должны | verb form | les-10 | wij/jullie/zij moeten |
-| hoeven | to need to | быть нужным | verb | les-10 | negative of `moeten`: `hoeft ... niet` |
+| hoeven | to need to | быть нужным | verb | les-10, les-34 | negative of `moeten`: `hoeft ... niet` [les-34] ik hoef; jij/hij/u hoeft; wij/jullie/zij hoeven; hoeft niet te werken; hoeft geen kaartje te kopen |
 | hoeft niet | does not have to | не обязательно, не нужно | phrase | les-10 | `Nee, dat hoeft niet.` |
 | en | and | и, а | conjunction | les-10 | straight word order |
 | want | because, for | потому что | conjunction | les-10 | straight word order |
@@ -453,7 +453,7 @@ Columns:
 | dus | so, therefore | поэтому | conjunction | les-10 | straight word order |
 | opstaan | to get up | вставать | verb | les-10, les-28, les-29 | separable verb [les-28] stond op / stonden op; is opgestaan. Jullie zijn om zeven uur opgestaan. |
 | opruimen | to tidy up, clean up | убирать | verb | les-10 | separable verb; `de kamer opruimen` |
-| vertrekken | to leave, depart | уходить, отправляться | verb | les-10, les-28, les-30, les-32 | `om acht uur vertrekken` [les-28] vertrok / vertrokken; is vertrokken. De trein is op tijd vertrokken. |
+| vertrekken | to leave, depart | уходить, отправляться | verb | les-10, les-28, les-30, les-32, les-34 | `om acht uur vertrekken` [les-28] vertrok / vertrokken; is vertrokken. De trein is op tijd vertrokken. [les-34] vertrok / vertrokken; is vertrokken |
 | verhuizen | to move (house) | переезжать | verb | les-10, les-28 | housing [les-28] verhuisde / verhuisden; is verhuisd. Mijn vrienden zijn naar Leiden verhuisd. |
 | delen | to share | делить, делиться | verb | les-10 | `we delen een tuin` |
 | betalen | to pay | платить | verb | les-10 | `huur betalen` |
@@ -463,7 +463,7 @@ Columns:
 | koken | to cook | готовить | verb | les-10 | in de keuken |
 | zetten | to put, to place | ставить | verb | les-10 | `de auto/fiets zetten` |
 | pakken | to take, to grab | брать, хватать | verb | les-10, les-24 | `de sleutel pakken` Perfectum: heeft gepakt. |
-| vinden | to find | находить | verb | les-10, les-27 | `de sleutel niet vinden` Повторение les-27: vond / vonden; heeft gevonden. Также считать: Ik vond de reis leuk. |
+| vinden | to find | находить | verb | les-10, les-27, les-34 | `de sleutel niet vinden` Повторение les-27: vond / vonden; heeft gevonden. Также считать: Ik vond de reis leuk. [les-34] vond / vonden; heeft gevonden |
 | vergeten | to forget | забывать | verb | les-10, les-24 | `de sleutel vergeten` Perfectum: is de sleutel vergeten; также возможно hebben. |
 | kunnen | can, to be able to | мочь; мочь, уметь | verb | les-10, les-11 | [les-10] `ik kan niet werken` [les-11] modal; sing. `kan`, jij/u also `kunt`, plural `kunnen` |
 | lachen | to laugh | смеяться | verb | les-10 | reading text |
@@ -523,7 +523,7 @@ Columns:
 | naast | next to | рядом с | preposition | les-11 | place |
 | bij | by, near | у, около | preposition | les-11 | place |
 | tegen | against | у, к (вплотную) | preposition | les-11 | place |
-| tegenover | opposite | напротив | preposition | les-11 | place |
+| tegenover | opposite | напротив | preposition | les-11, les-34 | place [les-34] tegenover de kerk |
 | rond | around | вокруг | preposition | les-11 | place; = `om` |
 | om | around | вокруг | preposition | les-11 | place; = `rond` |
 | aan | on, at (hanging) | на (висит на) | preposition | les-11 | `aan de muur` |
@@ -614,7 +614,7 @@ Columns:
 | de markt | market | рынок | noun | les-12, les-13 | [les-12] place [les-13] `op de markt`; also in les-12 |
 | nodig hebben | to need | нуждаться | phrase | les-12, les-13 | [les-12] `Hoeveel tomaten heb ik nodig?` [les-13] `Hij heeft vier appels nodig.`; also in les-12 |
 | roken | to smoke | курить | verb | les-12 | `Je mag hier niet roken.` |
-| zwemmen | to swim | плавать | verb | les-12, les-15 | [les-12] `Wij kunnen goed zwemmen.` [les-15] `Ik kan goed zwemmen.` |
+| zwemmen | to swim | плавать | verb | les-12, les-15, les-34 | [les-12] `Wij kunnen goed zwemmen.` [les-15] `Ik kan goed zwemmen.` [les-34] zwom / zwommen; heeft gezwommen — деятельность; is naar de boot gezwommen — направление |
 | parkeren | to park | парковаться | verb | les-12 | `U mag hier parkeren.` |
 | gebruiken | to use | использовать | verb | les-12, les-14 | [les-12] `Mag ik je telefoon gebruiken?` [les-14] `Nederlanders gebruiken die munt niet vaak.` |
 | spelen | to play | играть | verb | les-12 | `buiten spelen` |
@@ -785,14 +785,14 @@ Columns:
 | de groenten | vegetables | овощи | noun | les-14 | plural of `de groente` |
 | ideaal | ideal | идеальный | adjective | les-14 | `Wat is jouw ideale tussendoortje?` |
 | Fijne dag! | Have a nice day! | Хорошего дня! | phrase | les-14 | shop farewell |
-| de brommer | moped, scooter | мопед | noun | les-14, les-31 | huiswerk: `Ik heb geen brommer.` |
+| de brommer | moped, scooter | мопед | noun | les-14, les-31, les-34 | huiswerk: `Ik heb geen brommer.` [les-34] Мн. ч.: de brommers |
 | het proefwerk | test, quiz | контрольная работа | noun | les-14 | school; huiswerk |
 | het cijfer | grade, mark, digit | оценка, цифра | noun | les-14, les-31 | `een goed cijfer` |
 | de jas | coat, jacket | куртка, пальто | noun | les-14 | clothing |
 | de schoenen | shoes | обувь, туфли | noun | les-14 | plural of `de schoen` |
 | lusten | to like (food) | любить (еду) | verb | les-14 | `Lust u aardappels?` |
 | de weg | way, road | дорога, путь | noun | les-14, les-27 | `Weet je de weg?` Повторение les-27: мн. ч.: de wegen; op de weg. |
-| meegaan | to come along | идти вместе | verb | les-14 | separable: `Ga je mee?` |
+| meegaan | to come along | идти вместе | verb | les-14, les-34 | separable: `Ga je mee?` [les-34] Ga je mee? ging mee; is meegegaan |
 | de slagerij | butcher's shop | мясная лавка | noun | les-14 | winkelnamen |
 | de bakkerij | bakery | булочная | noun | les-14 | winkelnamen |
 | de banketbakker | pastry chef, confectioner | кондитер | noun | les-14 | persoon + winkel |
@@ -819,7 +819,7 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| het meervoud | plural | множественное число | noun | les-15 | grammar term |
+| het meervoud | plural | множественное число | noun | les-15, les-34 | grammar term [les-34] Повторение прежних уроков |
 | het enkelvoud | singular | единственное число | noun | les-15 | grammar term |
 | de klinker | vowel | гласная | noun | les-15 | `korte klinker` / `lange klinker` |
 | de medeklinker | consonant | согласная | noun | les-15 | doubling rule |
@@ -1228,7 +1228,7 @@ Columns:
 | erg | very, badly | очень, сильно | adverb | les-21 | `erg veel pijn` |
 | natuurlijk | of course, naturally | конечно | adverb | les-21 | affirmative response |
 | beterschap | get well soon | выздоравливай, скорейшего выздоровления | phrase | les-21 | wish to an ill person |
-| last hebben van | to suffer from, be troubled by | страдать от, испытывать боль | verb phrase | les-21 | `Ik heb last van mijn keel.` |
+| last hebben van | to suffer from, be troubled by | страдать от, испытывать боль; испытывать дискомфорт от | verb phrase | les-21, les-34 | `Ik heb last van mijn keel.` [les-34] last hebben van lawaai; дополнение к знакомому значению боли |
 | koorts | fever | температура, жар | noun | les-21, les-22 | Словарная форма: de koorts; обычно без артикля: `koorts hebben`. |
 
 ## Les 22
@@ -1293,7 +1293,7 @@ Columns:
 | de apotheek | — | аптека | noun | les-23 | Мн. ч.: de apotheken. |
 | ander / andere | — | другой / другая | word/phrase | les-23 | een ander boek; een andere dokter. |
 | bijvoorbeeld | — | например | word/phrase | les-23 | Bijvoorbeeld appels. |
-| de imperatief | — | повелительное наклонение | noun | les-23 | Также: de gebiedende wijs. |
+| de imperatief | — | повелительное наклонение | noun | les-23, les-34 | Также: de gebiedende wijs. [les-34] Повторение: Neem, ga, sla |
 | de instructie | — | инструкция, указание | noun | les-23 | Мн. ч.: de instructies. |
 | het advies | — | совет | noun | les-23 | Мн. ч.: de adviezen. |
 | sluiten | — | закрывать | verb | les-23, les-32 | ik sluit; Sluit de deur! [les-32] sloot / sloten; heeft gesloten. |
@@ -1360,7 +1360,7 @@ Columns:
 | de warme drank | — | тёплый напиток | phrase | les-24 | Мн. ч.: de warme dranken. |
 | rust nodig hebben | — | нуждаться в отдыхе | phrase | les-24 | Ik heb wat rust nodig. |
 | uitrusten | — | отдыхать | separable verb | les-24, les-28 | ik rust uit; heeft uitgerust; Rust goed uit! [les-28] rustte uit / rustten uit; heeft uitgerust. |
-| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24, les-28, les-29, les-30, les-32 | hebben / zijn + voltooid deelwoord. |
+| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24, les-28, les-29, les-30, les-32, les-34 | hebben / zijn + voltooid deelwoord. [les-34] is begonnen, heeft gedronken |
 | het voltooid deelwoord | — | причастие прошедшего времени | grammar term | les-24 | Мн. ч.: de voltooide deelwoorden; gewerkt, ingenomen. |
 | al | — | уже | adverb | les-24 | Heb je al gegeten? |
 | net | — | только что | adverb | les-24 | Ik heb net gebeld. |
@@ -1385,7 +1385,7 @@ Columns:
 | vroeger | — | раньше, в прошлом | adverb | les-25 | Vroeger woonde ik hier. Не путать со сравнительной степенью vroeg: раньше по времени. |
 | toen | — | тогда; когда (в прошлом) | adverb/conjunction | les-25 | Toen was ik thuis. Toen ik klein was, woonde ik hier. |
 | geleden | — | назад (о времени) | adverb | les-25 | twee jaar geleden — два года назад; lang geleden — давно. |
-| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25, les-28, les-30, les-32 | werkte / werkten; was / waren. Может описывать и завершённые события. |
+| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25, les-28, les-30, les-32, les-34 | werkte / werkten; was / waren. Может описывать и завершённые события. [les-34] begon, dronk |
 
 ## Les 26
 
@@ -1398,7 +1398,7 @@ Columns:
 | de trein | — | поезд | noun | les-26, les-32 | Мн. ч.: de treinen; met de trein. |
 | het vliegtuig | — | самолёт | noun | les-26, les-31 | Мн. ч.: de vliegtuigen; met het vliegtuig. |
 | de boot | — | лодка, судно | noun | les-26 | Мн. ч.: de boten; на скриншоте изображено большое судно. |
-| de bushalte | — | автобусная остановка | noun | les-26 | Мн. ч.: de bushaltes; bij de bushalte. |
+| de bushalte | — | автобусная остановка | noun | les-26, les-34 | Мн. ч.: de bushaltes; bij de bushalte. [les-34] Мн. ч.: de bushaltes; bij de bushalte |
 | de luchthaven | — | аэропорт | noun | les-26 | Мн. ч.: de luchthavens. |
 | laat | — | поздно; поздний | adjective/adverb | les-26, les-27 | te laat komen — опаздывать; kwam te laat; is te laat gekomen. Повторение les-27: te laat komen — опаздывать; kwam / kwamen te laat; is te laat gekomen. |
 | de waarheid | — | правда | noun | les-26 | Мн. ч.: de waarheden. |
@@ -1416,7 +1416,7 @@ Columns:
 | gek zijn op | — | обожать | phrase | les-26 | Ik ben gek op kaas. |
 | een hekel hebben aan | — | терпеть не мочь | phrase | les-26 | Ik heb een hekel aan lawaai. |
 | favoriet | — | любимый | adjective | les-26 | Mijn favoriete eten is pasta. |
-| het werkwoord | — | глагол | grammar term | les-26, les-28, les-29, les-31 | Мн. ч.: de werkwoorden. |
+| het werkwoord | — | глагол | grammar term | les-26, les-28, les-29, les-31, les-34 | Мн. ч.: de werkwoorden. [les-34] Мн. ч.: de werkwoorden |
 | de ik-vorm | — | форма глагола для ik | grammar term | les-26 | werken → ik werk; мн. ч.: de ik-vormen. |
 | het onregelmatige werkwoord | — | неправильный глагол | grammar term | les-26 | Мн. ч.: de onregelmatige werkwoorden; nemen → nam → genomen. |
 | de tijdsaanduiding | — | указатель времени | grammar term | les-26 | Мн. ч.: de tijdsaanduidingen; vroeger, toen. |
@@ -1436,7 +1436,7 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| beginnen | — | начинать | verb | les-27, les-28, les-29 | begon / begonnen; is begonnen. [les-28] begon / begonnen; is begonnen. De les is al begonnen. |
+| beginnen | — | начинать | verb | les-27, les-28, les-29, les-34 | begon / begonnen; is begonnen. [les-28] begon / begonnen; is begonnen. De les is al begonnen. [les-34] begon / begonnen; is begonnen |
 | blijven | — | оставаться | verb | les-27, les-28, les-29, les-30 | bleef / bleven; is gebleven. [les-28] bleef / bleven; is gebleven. Mijn zus is in de keuken gebleven. |
 | denken | — | думать | verb | les-27 | dacht / dachten; heeft gedacht. |
 | kijken | — | смотреть | verb | les-27, les-30 | keek / keken; heeft gekeken. |
@@ -1453,7 +1453,7 @@ Columns:
 | de parkeergarage | — | крытая парковка, паркинг | noun | les-27 | Мн. ч.: de parkeergarages. |
 | overstappen | — | делать пересадку | separable verb | les-27, les-31 | stapte over / stapten over; is overgestapt; overstappen op de trein. |
 | de plek | — | место | noun | les-27 | Мн. ч.: de plekken; een plek in de bus. |
-| doorgeven | — | передавать информацию | separable verb | les-27 | gaf door / gaven door; heeft doorgegeven; een bericht doorgeven. |
+| doorgeven | — | передавать информацию | separable verb | les-27, les-34 | gaf door / gaven door; heeft doorgegeven; een bericht doorgeven. [les-34] geeft door; gaf door; heeft doorgegeven |
 | tot straks | — | до скорого; увидимся позже сегодня | phrase | les-27 | Обычно ожидается встреча в тот же день; не строгий срок. |
 | Alvast bedankt! | — | Заранее спасибо! | phrase | les-27 | Знакомое alvast в устойчивой формуле благодарности. |
 | tot de volgende keer | — | до следующего раза | phrase | les-27 | Прощание до следующей встречи. |
@@ -1465,8 +1465,8 @@ Columns:
 | rijden | — | ехать; водить транспорт | verb | les-27, les-30 | reed / reden; heeft een uur gereden — деятельность; is naar huis gereden — направление. [les-30] reed / reden; is naar huis gereden / heeft gereden. |
 | de snelweg | — | автомагистраль | noun | les-27 | Мн. ч.: de snelwegen; op de snelweg. |
 | het fietspad | — | велосипедная дорожка | noun | les-27 | Мн. ч.: de fietspaden; op het fietspad. |
-| het zebrapad | — | пешеходный переход, зебра | noun | les-27 | Мн. ч.: de zebrapaden; bij het zebrapad. |
-| het stoplicht | — | светофор | noun | les-27 | Мн. ч.: de stoplichten; voor het stoplicht stoppen. |
+| het zebrapad | — | пешеходный переход, зебра | noun | les-27, les-34 | Мн. ч.: de zebrapaden; bij het zebrapad. [les-34] Мн. ч.: de zebrapaden |
+| het stoplicht | — | светофор | noun | les-27, les-34 | Мн. ч.: de stoplichten; voor het stoplicht stoppen. [les-34] Мн. ч.: de stoplichten |
 | de regel | — | правило | noun | les-27 | Мн. ч.: de regels; verkeersregels — правила дорожного движения. |
 | stoppen | — | останавливаться; прекращать | verb | les-27 | stopte / stopten; de bus is gestopt; stoppen met werken. |
 | Let op! | — | Внимание! Будьте внимательны! | phrase | les-27 | Предупреждение перед важной информацией. |
@@ -1477,7 +1477,7 @@ Columns:
 | Zet zinnen in de verleden tijd en de voltooide tijd. | — | Поставьте предложения в imperfectum и perfectum. | instruction | les-27, les-28 | Формулировка на скриншотах 4, 5, 7; пояснения в скобках опущены. |
 | Vul met het goede woord in. | — | Вставьте подходящее слово. | instruction | les-27, les-31, les-32, les-33 | Формулировка на скриншотах 8–9. [les-32] Вариант формулировки: Vul het juiste woord in. [les-33] Также Vul met het juiste woord in. |
 | Kies woorden uit de lijst. | — | Выберите слова из списка. | instruction | les-27 | Формулировка на скриншоте 1. |
-| Lees de tekst en beantwoord de vragen. | — | Прочитайте текст и ответьте на вопросы. | instruction | les-27, les-33 | Формулировка на скриншоте 6. [les-33] Вариант: Lees de tekst en geef antwoord op de vragen. |
+| Lees de tekst en beantwoord de vragen. | — | Прочитайте текст и ответьте на вопросы. | instruction | les-27, les-33, les-34 | Формулировка на скриншоте 6. [les-33] Вариант: Lees de tekst en geef antwoord op de vragen. [les-34] Инструкция к чтению |
 | Maak het bericht klaar. | — | Допишите сообщение. | instruction | les-27 | Формулировка на скриншоте 8; буквально: подготовьте сообщение. |
 | Vertel je eigen verhaal. | — | Расскажите свою историю. | instruction | les-27 | Формулировка на скриншоте 1. |
 | Luister en beantwoord de vragen. | — | Послушайте и ответьте на вопросы. | instruction | les-27 | Формулировка на скриншоте 2; аудио не приложено. |
@@ -1499,7 +1499,7 @@ Columns:
 | blijken | — | оказываться, выясняться | verb | les-28, les-30 | bleek / bleken; is gebleken. Dat is later gebleken. |
 | gebeuren | — | происходить | verb | les-28, les-29, les-30 | gebeurde / gebeurden; is gebeurd. Er is iets op school gebeurd. |
 | voorvallen | — | случаться | verb | les-28, les-30 | viel voor / vielen voor; is voorgevallen. Er is iets vervelends in de bus voorgevallen. |
-| lukken | — | удаваться, получаться | verb | les-28, les-30 | lukte / lukten; is gelukt. Het huiswerk is goed gelukt. |
+| lukken | — | удаваться, получаться | verb | les-28, les-30, les-34 | lukte / lukten; is gelukt. Het huiswerk is goed gelukt. [les-34] Dat lukt wel. Het is gelukt. |
 | mislukken | — | не удаваться | verb | les-28, les-30 | mislukte / mislukten; is mislukt. De taart is mislukt. |
 | slagen | — | сдавать экзамен, достигать цели | verb | les-28, les-29 | slaagde / slaagden; is geslaagd. Mijn broer is voor het examen geslaagd. |
 | zakken | — | опускаться; проваливать экзамен | verb | les-28, les-29 | zakte / zakten; is gezakt. De cursist is voor het examen gezakt. |
@@ -1515,7 +1515,7 @@ Columns:
 | dalen | — | снижаться | verb | les-28, les-29, les-30 | daalde / daalden; is gedaald. De prijs is gedaald. |
 | verdwijnen | — | исчезать | verb | les-28, les-29, les-30 | verdween / verdwenen; is verdwenen. Mijn sleutels zijn verdwenen. |
 | ontsnappen | — | сбегать | verb | les-28, les-30 | ontsnapte / ontsnapten; is ontsnapt. De kat is uit het huis ontsnapt. |
-| schrikken | — | пугаться | verb | les-28, les-30 | schrok / schrokken; is geschrokken. Ik ben van de hond geschrokken. |
+| schrikken | — | пугаться | verb | les-28, les-30, les-34 | schrok / schrokken; is geschrokken. Ik ben van de hond geschrokken. [les-34] schrok / schrokken; is geschrokken; schrikken van |
 | kwijtraken | — | терять | verb | les-28, les-30 | raakte kwijt / raakten kwijt; is kwijtgeraakt. Ik ben mijn tas kwijtgeraakt. |
 | gelukken | — | удаваться (вариант lukken) | verb | les-28 | gelukte / gelukten; is gelukt. Het plan is gelukt. |
 | weggaan | — | уходить | verb | les-28 | ging weg / gingen weg; is weggegaan. De gasten zijn vroeg weggegaan. |
@@ -1575,14 +1575,14 @@ Columns:
 | de grammatica | — | грамматика | noun | les-29, les-32 | Заголовок grammatica. |
 | de hoofdzin | — | главное предложение | grammar term | les-29, les-30 | Мн. ч.: de hoofdzinnen; спрягаемый глагол на второй позиции в утверждении. |
 | de bijzin | — | придаточное предложение | grammar term | les-29, les-30 | Мн. ч.: de bijzinnen; после omdat / als глаголы в конце. |
-| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32, les-33 | Также het infinitief; на картинке infinitief. |
+| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32, les-33, les-34 | Также het infinitief; на картинке infinitief. [les-34] Словарная форма глагола |
 | de vertaling | — | перевод | noun | les-29 | Мн. ч.: de vertalingen; заголовок столбца. |
-| het schema | — | схема, таблица | noun | les-29, les-32, les-33 | Мн. ч.: de schema’s. |
+| het schema | — | схема, таблица | noun | les-29, les-32, les-33, les-34 | Мн. ч.: de schema’s. [les-34] Мн. ч.: de schema’s |
 | de volgorde | — | порядок следования | noun | les-29, les-30 | de volgorde van de woorden — порядок слов. |
 | de inversie | — | инверсия | grammar term | les-29, les-30 | Глагол перед подлежащим после начального обстоятельства или придаточного. |
 | de reden | — | причина | noun | les-29, les-30 | Мн. ч.: de redenen; met omdat geef je een reden. |
 | de rest | — | остальная часть | noun | les-29, les-30, les-31 | В схеме порядка слов: остальные члены предложения. |
-| Vul het schema in. | — | Заполните таблицу. | instruction | les-29, les-32 | Формулировка со скриншота 2. |
+| Vul het schema in. | — | Заполните таблицу. | instruction | les-29, les-32, les-34 | Формулировка со скриншота 2. [les-34] Инструкция с таблицей глаголов |
 | Welk woord past in de zin? | — | Какое слово подходит в предложение? | instruction | les-29, les-31 | Формулировка со скриншота 7. |
 | Maak zinnen. | — | Составьте предложения. | instruction | les-29 | Формулировка со скриншотов 7–8. |
 | Begin met tijd of plaats. | — | Начните с указания времени или места. | instruction | les-29 | Формулировка со скриншота 8. |
@@ -1631,7 +1631,7 @@ Columns:
 | het koninkrijk | — | королевство | noun | les-30 | Мн. ч.: de koninkrijken. |
 | de inwoner | — | житель | noun | les-30 | Мн. ч.: de inwoners. |
 | de vierkante kilometer | — | квадратный километр | phrase | les-30 | Мн. ч.: vierkante kilometers; после числа единица обычно ед. ч. |
-| de gracht | — | канал в городе | noun | les-30 | Мн. ч.: de grachten. |
+| de gracht | — | канал в городе | noun | les-30, les-34 | Мн. ч.: de grachten. [les-34] Мн. ч.: de grachten; aan de gracht |
 | de residentie | — | резиденция | noun | les-30 | Мн. ч.: de residenties. |
 | de overheid | — | власти, государственные органы | noun | les-30 | de nationale overheid — центральные органы власти. |
 | het koninklijk huis | — | королевская семья, королевский дом | phrase | les-30 | Сочетание из географического текста. |
@@ -1643,7 +1643,7 @@ Columns:
 | de bezienswaardigheid | — | достопримечательность | noun | les-30 | Мн. ч.: de bezienswaardigheden. |
 | de attractie | — | аттракцион; привлекательное для туристов место | noun | les-30, les-33 | Мн. ч.: de attracties. |
 | Kijk naar het plaatje. | — | Посмотрите на картинку. | instruction | les-30 | Формулировка со скриншота 080142. |
-| Kies uit. | — | Выберите из предложенного. | instruction | les-30, les-32 | Начало инструкции на скриншотах 080142 и 080149. |
+| Kies uit. | — | Выберите из предложенного. | instruction | les-30, les-32, les-34 | Начало инструкции на скриншотах 080142 и 080149. [les-34] Инструкция с направлениями |
 | Vertel ook waarom! | — | Расскажите также почему! | instruction | les-30 | Формулировка с вводного слайда. |
 
 ## Les 31
@@ -1684,17 +1684,17 @@ Columns:
 | Maak de zinnen af. | — | Закончите предложения. | instruction | les-31 | На скриншотах также maak zinnen af. |
 | Gebruik de woorden tussen haakjes. | — | Используйте слова в скобках. | instruction | les-31 | Инструкция со скриншота. |
 | Welk woord is weg? | — | Какого слова не хватает? | instruction | les-31 | Формулировка со скриншота. |
-| de woordenschat | — | словарный запас, лексика | noun | les-31, les-32 | Название раздела на скриншоте. |
+| de woordenschat | — | словарный запас, лексика | noun | les-31, les-32, les-34 | Название раздела на скриншоте. [les-34] Учебный заголовок |
 | de enquête | — | опрос, анкета | noun | les-31 | Мн. ч.: de enquêtes; luister naar de enquête. |
 | Luister naar de enquête en beantwoord de vragen. | — | Послушайте опрос и ответьте на вопросы. | instruction | les-31 | Аудиозапись в предоставленных файлах отсутствует. |
 | regelen | — | организовывать, устраивать | verb | les-31 | een bus regelen; heeft geregeld. |
-| de stoep | — | тротуар | noun | les-31 | Мн. ч.: de stoepen. |
+| de stoep | — | тротуар | noun | les-31, les-34 | Мн. ч.: de stoepen. [les-34] Мн. ч.: de stoepen |
 | de taxi | — | такси | noun | les-31 | Мн. ч.: de taxi’s; met de taxi / per taxi. |
 | het openbaar vervoer | — | общественный транспорт | noun | les-31 | Обычно без неопределённого артикля. |
 | de bagage | — | багаж | noun | les-31, les-32 | Собирательное; geen bagage. |
 | de parkeerplaats | — | парковочное место | noun | les-31 | Мн. ч.: de parkeerplaatsen. |
 | de rivier | — | река | noun | les-31 | Мн. ч.: de rivieren. |
-| de brug | — | мост | noun | les-31 | Мн. ч.: de bruggen. |
+| de brug | — | мост | noun | les-31, les-34 | Мн. ч.: de bruggen. [les-34] Мн. ч.: de bruggen; op de brug |
 | de grond | — | земля, грунт | noun | les-31 | onder de grond / boven de grond. |
 | het stadscentrum | — | центр города | noun | les-31 | Мн. ч.: de stadscentra. |
 | internationaal | — | международный | adjective | les-31 | internationaal werk; een internationale organisatie. |
@@ -1728,17 +1728,17 @@ Columns:
 | reserveren | — | бронировать | verb | les-32 | reserveerde / reserveerden; heeft gereserveerd; een kamer reserveren. |
 | de linkerkant | — | левая сторона | noun | les-32 | Мн. ч.: de linkerkanten; aan de linkerkant. |
 | het hotel | — | гостиница, отель | noun | les-32 | Мн. ч.: de hotels. Уже встречалось в примерах прежних уроков; здесь явно дано в источнике. |
-| stuk | — | сломанный, неработающий | adjective | les-32 | De lift is stuk. В облаке, по контексту: сломанный; не путать с het stuk — кусок. |
-| oplossen | — | решать, устранять (проблему) | separable verb | les-32 | loste op / losten op; heeft opgelost; een probleem oplossen. Не то же, что besluiten — принимать решение. |
+| stuk | — | сломанный, неработающий | adjective | les-32, les-34 | De lift is stuk. В облаке, по контексту: сломанный; не путать с het stuk — кусок. [les-34] De airco is stuk. |
+| oplossen | — | решать, устранять (проблему) | separable verb | les-32, les-34 | loste op / losten op; heeft opgelost; een probleem oplossen. Не то же, что besluiten — принимать решение. [les-34] lost op; loste op; heeft opgelost |
 | het verblijf | — | пребывание | noun | les-32 | Мн. ч.: de verblijven; genieten van het verblijf. |
-| stinken | — | вонять, дурно пахнуть | verb | les-32 | stonk / stonken; heeft gestonken. Не относится к группе ie/ui/e → o. |
-| de airco | — | кондиционер | noun | les-32 | Мн. ч.: de airco’s; de airco is stuk. |
+| stinken | — | вонять, дурно пахнуть | verb | les-32, les-34 | stonk / stonken; heeft gestonken. Не относится к группе ie/ui/e → o. [les-34] stonk / stonken; heeft gestonken |
+| de airco | — | кондиционер | noun | les-32, les-34 | Мн. ч.: de airco’s; de airco is stuk. [les-34] Мн. ч.: de airco’s |
 | koffie drinken | — | пить кофе | verb phrase | les-32 | dronk / dronken koffie; heeft koffie gedronken. На слайде слитно: koffiedrinken; в обычном предложении ik drink koffie. |
 | klagen | — | жаловаться | verb | les-32 | klaagde / klaagden; heeft geklaagd; klagen over de kamer. |
 | het journaal | — | телевизионные новости | noun | les-32 | Мн. ч.: de journaals; naar het journaal kijken. |
 | vanzelf | — | само собой; без дополнительных действий | adverb | les-32 | Dat gaat vanzelf. В источнике о дороге: vanzelf bij de bioscoop komen. |
 | niets | — | ничего | pronoun | les-32 | Ik hoor niets. Отрицательное местоимение. |
-| het huiswerk | — | домашнее задание | noun | les-32 | Неисчисляемое; huiswerk maken. Знакомое учебное слово, теперь внесено в словарь. |
+| het huiswerk | — | домашнее задание | noun | les-32, les-34 | Неисчисляемое; huiswerk maken. Знакомое учебное слово, теперь внесено в словарь. [les-34] huiswerk maken |
 | de conjunctie | — | союз | grammar term | les-32 | Мн. ч.: de conjuncties. Синоним: het voegwoord. |
 | de woordwolk | — | облако слов | noun | les-32 | Мн. ч.: de woordwolken. |
 | Kies nu zelf de juiste conjunctie. | — | Теперь самостоятельно выберите правильный союз. | instruction | les-32 | Инструкция из задания 3. |
@@ -1808,7 +1808,7 @@ Columns:
 | bijblijven | — | оставаться в памяти | separable verb | les-33 | blijft bij; bleef bij; is bijgebleven; Dat beeld blijft me bij. |
 | de herinnering | — | воспоминание | noun | les-33 | Мн. ч.: de herinneringen; goede herinneringen aan iets hebben. |
 | bedoeld zijn voor | — | предназначаться для | phrase | les-33 | Dit boek is bedoeld voor kinderen. Готовая конструкция; отдельная тема пассива не вводится. |
-| eigenlijk | — | на самом деле, собственно | adverb | les-33 | Wat wil je eigenlijk? |
+| eigenlijk | — | на самом деле, собственно | adverb | les-33, les-34 | Wat wil je eigenlijk? [les-34] Eigenlijk wil ik naar huis. |
 | allerlei | — | всевозможные, разные | determiner | les-33 | allerlei attracties. |
 | zoals | — | например; такие как | conjunction | les-33 | attracties zoals een achtbaan — аттракционы, например американские горки. В этом уроке — введение примеров. |
 | minstens | — | как минимум | adverb | les-33 | minstens één keer. |
@@ -1831,3 +1831,76 @@ Columns:
 | buiten | — | за пределами, вне | preposition | les-33 | buiten Europa — за пределами Европы. Отдельно от наречия buiten. |
 | vroeger | — | прежний, бывший | adjective | les-33 | de vroegere Zuiderzee. Отдельно от наречия vroeger — раньше. |
 | om … te | — | чтобы; конструкция с инфинитивом для цели или оценки действия | grammar phrase | les-33 | Базовая тема введена по просьбе пользователя в les-33: om brood te kopen; leuk om te reizen; om vroeg op te staan. |
+
+## Les 34
+
+Маршрут по городу, гостиница и жалобы, группа сильных глаголов i/e → o → o; hoeven niet te. Повторения и новые формы знакомых слов отмечены les-34 в прежних строках. Инструкции из скриншотов — учебная лексика.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| beklimmen | — | взбираться на, подниматься на | verb | les-34 | beklom / beklommen; heeft beklommen; een berg beklimmen [les-34] beklom / beklommen; heeft beklommen; een berg beklimmen |
+| binden | — | связывать, завязывать | verb | les-34 | bond / bonden; heeft gebonden [les-34] bond / bonden; heeft gebonden |
+| dwingen | — | принуждать | verb | les-34 | dwong / dwongen; heeft gedwongen; iemand dwingen; сложную инфинитивную конструкцию пока не тренируем [les-34] dwong / dwongen; heeft gedwongen; iemand dwingen; сложную инфинитивную конструкцию пока не тренируем |
+| glimmen | — | блестеть | verb | les-34 | glom / glommen; heeft geglommen [les-34] glom / glommen; heeft geglommen |
+| klinken | — | звучать | verb | les-34 | klonk / klonken; heeft geklonken [les-34] klonk / klonken; heeft geklonken |
+| krimpen | — | садиться, уменьшаться | verb | les-34 | kromp / krompen; is gekrompen; о севшей одежде [les-34] kromp / krompen; is gekrompen; о севшей одежде |
+| springen | — | прыгать | verb | les-34 | sprong / sprongen; heeft gesprongen — деятельность; is in het water gesprongen — направление [les-34] sprong / sprongen; heeft gesprongen — деятельность; is in het water gesprongen — направление |
+| verbinden | — | соединять, связывать | verb | les-34 | verbond / verbonden; heeft verbonden; de brug verbindt twee dorpen [les-34] verbond / verbonden; heeft verbonden; de brug verbindt twee dorpen |
+| verzinnen | — | придумывать | verb | les-34 | verzon / verzonnen; heeft verzonnen; een verhaal verzinnen [les-34] verzon / verzonnen; heeft verzonnen; een verhaal verzinnen |
+| winnen | — | выигрывать | verb | les-34 | won / wonnen; heeft gewonnen [les-34] won / wonnen; heeft gewonnen |
+| zingen | — | петь | verb | les-34 | zong / zongen; heeft gezongen [les-34] zong / zongen; heeft gezongen |
+| zinken | — | тонуть | verb | les-34 | zonk / zonken; is gezonken [les-34] zonk / zonken; is gezonken |
+| gelden | — | действовать, иметь силу | verb | les-34 | gold / golden; heeft gegolden; deze regel geldt voor iedereen. В современном обычном употреблении «стоить» — kosten [les-34] gold / golden; heeft gegolden; deze regel geldt voor iedereen. В современном обычном употреблении «стоить» — kosten |
+| schenken | — | дарить | verb | les-34 | schonk / schonken; heeft geschonken; iemand een boek schenken [les-34] schonk / schonken; heeft geschonken; iemand een boek schenken |
+| schelden | — | ругаться, браниться | verb | les-34 | schold / scholden; heeft gescholden; schelden op iemand — ругать кого-либо [les-34] schold / scholden; heeft gescholden; schelden op iemand — ругать кого-либо |
+| trekken | — | тянуть | verb | les-34 | trok / trokken; heeft getrokken; aan de deur trekken [les-34] trok / trokken; heeft getrokken; aan de deur trekken |
+| vechten | — | драться, сражаться | verb | les-34 | vocht / vochten; heeft gevochten [les-34] vocht / vochten; heeft gevochten |
+| zenden | — | посылать, отправлять | verb | les-34 | zond / zonden; heeft gezonden; een bericht zenden [les-34] zond / zonden; heeft gezonden; een bericht zenden |
+| omkeren | — | разворачиваться, поворачивать обратно | separable verb | les-34 | keert om; keerde om; is omgekeerd — повернул обратно [les-34] keert om; keerde om; is omgekeerd — повернул обратно |
+| de zijstraat | — | боковая улица, переулок | noun | les-34 | Мн. ч.: de zijstraten [les-34] Мн. ч.: de zijstraten |
+| rechtdoor gaan | — | идти прямо | verb phrase | les-34 | gaat rechtdoor; ging rechtdoor; is rechtdoor gegaan [les-34] gaat rechtdoor; ging rechtdoor; is rechtdoor gegaan |
+| rechtsaf slaan | — | поворачивать направо | verb phrase | les-34 | slaat rechtsaf; sloeg rechtsaf; is rechtsaf geslagen [les-34] slaat rechtsaf; sloeg rechtsaf; is rechtsaf geslagen |
+| linksaf slaan | — | поворачивать налево | verb phrase | les-34 | slaat linksaf; sloeg linksaf; is linksaf geslagen [les-34] slaat linksaf; sloeg linksaf; is linksaf geslagen |
+| naar rechts gaan | — | идти направо | verb phrase | les-34 | richting: naar rechts [les-34] richting: naar rechts |
+| naar links gaan | — | идти налево | verb phrase | les-34 | richting: naar links [les-34] richting: naar links |
+| de tweede afslag rechts nemen | — | повернуть во второй поворот направо | verb phrase | les-34 | Neem de tweede afslag rechts. de afslag — поворот, съезд [les-34] Neem de tweede afslag rechts. de afslag — поворот, съезд |
+| volgens | — | согласно, по словам, по данным | preposition | les-34 | volgens de app; volgens de docent [les-34] volgens de app; volgens de docent |
+| het aanbod | — | предложение (помощи, услуги) | noun | les-34 | Для множественного числа используют de aanbiedingen (от de aanbieding); bedankt voor het aanbod [les-34] Для множественного числа используют de aanbiedingen (от de aanbieding); bedankt voor het aanbod |
+| klemmen | — | заедать, заклинивать | verb | les-34 | Het raam klemt. klemde; heeft geklemd [les-34] Het raam klemt. klemde; heeft geklemd |
+| een klacht indienen | — | подавать жалобу | verb phrase | les-34 | dient een klacht in; diende een klacht in; heeft een klacht ingediend [les-34] dient een klacht in; diende een klacht in; heeft een klacht ingediend |
+| waardeloos | — | никуда не годный, никудышный | adjective | les-34 | Mijn conditie is waardeloos. [les-34] Mijn conditie is waardeloos. |
+| het uitzicht | — | вид (из окна, с высоты) | noun | les-34 | Мн. ч.: de uitzichten; Wat een geweldig uitzicht! [les-34] Мн. ч.: de uitzichten; Wat een geweldig uitzicht! |
+| het niet doen | — | не работать (об устройстве) | phrase | les-34 | De airco doet het niet. het здесь часть устойчивой конструкции [les-34] De airco doet het niet. het здесь часть устойчивой конструкции |
+| helemaal vol zitten | — | быть полностью заполненным, не иметь свободных мест | phrase | les-34 | We zitten helemaal vol. О гостинице или ресторане [les-34] We zitten helemaal vol. О гостинице или ресторане |
+| herhalen | — | повторять | verb | les-34 | herhaalde; heeft herhaald; Kunt u dat nog een keer herhalen? [les-34] herhaalde; heeft herhaald; Kunt u dat nog een keer herhalen? |
+| het plein | — | площадь | noun | les-34 | Мн. ч.: de pleinen [les-34] Мн. ч.: de pleinen |
+| het standbeeld | — | памятник, статуя | noun | les-34 | Мн. ч.: de standbeelden; achter het standbeeld [les-34] Мн. ч.: de standbeelden; achter het standbeeld |
+| het viaduct | — | виадук, путепровод | noun | les-34 | Мн. ч.: de viaducten; onder het viaduct [les-34] Мн. ч.: de viaducten; onder het viaduct |
+| het stadhuis | — | ратуша, здание мэрии | noun | les-34 | Мн. ч.: de stadhuizen; naast het stadhuis [les-34] Мн. ч.: de stadhuizen; naast het stadhuis |
+| de kerk | — | церковь | noun | les-34 | Мн. ч.: de kerken; tegenover de kerk [les-34] Мн. ч.: de kerken; tegenover de kerk |
+| de pinautomaat | — | банкомат | noun | les-34 | Мн. ч.: de pinautomaten [les-34] Мн. ч.: de pinautomaten |
+| het buurthuis | — | районный общественный центр | noun | les-34 | Мн. ч.: de buurthuizen [les-34] Мн. ч.: de buurthuizen |
+| de glasbak | — | контейнер для стекла | noun | les-34 | Мн. ч.: de glasbakken [les-34] Мн. ч.: de glasbakken |
+| het kruispunt | — | перекрёсток | noun | les-34 | Мн. ч.: de kruispunten [les-34] Мн. ч.: de kruispunten |
+| de rotonde | — | круговой перекрёсток | noun | les-34 | Мн. ч.: de rotondes [les-34] Мн. ч.: de rotondes |
+| de waterkoker | — | электрический чайник | noun | les-34 | Мн. ч.: de waterkokers [les-34] Мн. ч.: de waterkokers |
+| het perron | — | платформа | noun | les-34 | Мн. ч.: de perrons [les-34] Мн. ч.: de perrons |
+| de tent | — | палатка | noun | les-34 | Мн. ч.: de tenten [les-34] Мн. ч.: de tenten |
+| de camping | — | кемпинг | noun | les-34 | Мн. ч.: de campings; op de camping [les-34] Мн. ч.: de campings; op de camping |
+| de camper | — | автодом | noun | les-34 | Мн. ч.: de campers; met de camper [les-34] Мн. ч.: de campers; met de camper |
+| de berg | — | гора | noun | les-34 | Мн. ч.: de bergen; in de bergen [les-34] Мн. ч.: de bergen; in de bergen |
+| in slaap vallen | — | засыпать | verb phrase | les-34 | viel in slaap; is in slaap gevallen [les-34] viel in slaap; is in slaap gevallen |
+| bedanken voor | — | благодарить за | verb phrase | les-34 | iemand bedanken voor iets [les-34] iemand bedanken voor iets |
+| langs | — | вдоль, мимо | preposition | les-34 | langs de zee wandelen [les-34] langs de zee wandelen |
+| de conditie | — | физическая форма, состояние | noun | les-34 | В источнике физическая форма человека [les-34] В источнике физическая форма человека |
+| Werk in tweetallen. | — | Работайте в парах. | instruction | les-34 | Инструкция к устной работе [les-34] Инструкция к устной работе |
+| Vul het nummer van de juiste afbeelding in. | — | Впишите номер правильного изображения. | instruction | les-34 | Инструкция к маршруту [les-34] Инструкция к маршруту |
+| Vul met de goede oplossing in. | — | Вставьте правильное решение. | instruction | les-34 | Инструкция к ситуациям [les-34] Инструкция к ситуациям |
+
+## Les 34
+
+Маршрут по городу, гостиница и жалобы, группа сильных глаголов i/e → o → o; hoeven niet te. Повторения и новые формы знакомых слов отмечены les-34 в прежних строках. Инструкции из скриншотов — учебная лексика.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de VVV | — | туристическое информационное бюро | noun | les-34 | В источнике: voor de VVV; аббревиатура названия туристической организации. В заданиях используем как название бюро. [les-34] В источнике: voor de VVV; аббревиатура названия туристической организации. В заданиях используем как название бюро. |
