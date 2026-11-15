@@ -24,7 +24,10 @@ class DictationTests(unittest.TestCase):
         self.sentences = ["Vandaag leer ik Nederlands."] * 15
         self.output = self.root / "dictation"
 
-    def test_all_sizes_use_three_balanced_voices_at_normal_speed(self):
+    def test_all_sizes_use_five_balanced_voices_at_normal_speed(self):
+        self.assertEqual(len(dictation.VOICES), 5)
+        self.assertIn("nl-BE-ArnaudNeural", dictation.VOICES)
+        self.assertIn("nl-BE-DenaNeural", dictation.VOICES)
         for count in range(15, 21):
             for seed in range(10):
                 plan = dictation.make_plan(self.sentences[:1] * count, seed)
@@ -77,6 +80,38 @@ class DictationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             dictation.prepare_plan(self.sentences, other, None, False)
         self.assertEqual(recording.read_bytes(), b"existing recording")
+
+    def test_legacy_manifest_resumes_without_changing_voices_or_finished_audio(self):
+        source = SCRIPT.parents[1] / "les-34" / "dictation"
+        original = (source / "manifest.json").read_bytes()
+        saved = json.loads(original)
+        sentences = [item["text"] for item in saved["items"]]
+        self.output.mkdir()
+        manifest = self.output / "manifest.json"
+        manifest.write_bytes(original)
+        finished = self.output / "01.mp3"
+        finished.write_bytes(b"existing recording")
+        timestamp = finished.stat().st_mtime_ns
+        plan = dictation.prepare_plan(sentences, self.output, None, False)
+        self.assertEqual(plan, saved)
+
+        async def working_service(text, voice, target):
+            target.write_bytes(b"finished audio")
+
+        with contextlib.redirect_stdout(io.StringIO()):
+            with patch.object(dictation, "synthesize", side_effect=working_service) as service:
+                asyncio.run(dictation.generate(plan, self.output))
+        self.assertEqual(
+            [call.args[1] for call in service.call_args_list],
+            [item["voice"] for item in saved["items"][1:]],
+        )
+        self.assertEqual(finished.read_bytes(), b"existing recording")
+        self.assertEqual(finished.stat().st_mtime_ns, timestamp)
+        changed = sentences.copy()
+        changed[0] = "Een andere zin."
+        with self.assertRaises(ValueError):
+            dictation.prepare_plan(changed, self.output, None, False)
+        self.assertEqual(manifest.read_bytes(), original)
 
     def test_network_failure_cleanup_and_resume_keep_finished_audio(self):
         plan = dictation.prepare_plan(self.sentences, self.output, 42, False)

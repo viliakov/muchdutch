@@ -15,11 +15,12 @@ from pathlib import Path
 from typing import Optional
 
 
-VOICES = (
+LEGACY_VOICES = (
     "nl-NL-ColetteNeural",
     "nl-NL-FennaNeural",
     "nl-NL-MaartenNeural",
 )
+VOICES = LEGACY_VOICES + ("nl-BE-ArnaudNeural", "nl-BE-DenaNeural")
 RATE = "+0%"
 
 
@@ -36,10 +37,10 @@ def read_sentences(source: Path) -> list[str]:
     return sentences
 
 
-def make_plan(sentences: list[str], seed: int) -> dict:
+def make_plan(sentences: list[str], seed: int, voice_pool: tuple[str, ...] = VOICES) -> dict:
     rng = random.Random(seed)
     # Randomize which voices get the extra slots as well as sentence order.
-    voices = list(VOICES)
+    voices = list(voice_pool)
     rng.shuffle(voices)
     assignments = [voices[index % len(voices)] for index in range(len(sentences))]
     rng.shuffle(assignments)
@@ -67,6 +68,9 @@ def prepare_plan(
         if seed is not None and seed != saved["seed"]:
             raise ValueError("Для другого seed укажите новую папку через --output.")
         plan = make_plan(sentences, saved["seed"])
+        # Existing three-voice sets must retain their original assignments.
+        if saved != plan:
+            plan = make_plan(sentences, saved["seed"], LEGACY_VOICES)
         if saved != plan:
             raise ValueError(
                 "Текст или настройки отличаются от сохранённого набора. "
@@ -142,7 +146,7 @@ async def generate(plan: dict, output: Path) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Озвучить 15–20 нидерландских предложений тремя случайными голосами."
+        description="Озвучить 15–20 нидерландских предложений пятью случайными голосами."
     )
     parser.add_argument("source", type=Path, help="UTF-8 файл, одно предложение на строку")
     parser.add_argument("--output", type=Path, help="Папка MP3 (по умолчанию имя файла без .txt)")
