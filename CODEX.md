@@ -209,6 +209,19 @@ Apply these requirements to generated extra homework unless the user explicitly 
 - Distinguish locative `hier` / `daar` / `er` from impersonal subject `het` in weather and temperature expressions: `het is koud`; a place word does not replace that subject.
 - Apply these hints to newly generated work. Do not rewrite existing examples solely for this rule unless the user requests it.
 
+### Hints for `aanmelden` and `inschrijven`
+
+- When an exercise answer expects `aanmelden` or `inschrijven`, add a short Russian-labelled hint to each affected prompt naming the intended verb in its infinitive form: `Подсказка: используйте aanmelden.` or `Подсказка: используйте inschrijven.` Apply this to all relevant written exercise types, including Russian-to-Dutch and English-to-Dutch translation.
+- Name only the intended verb; do not reveal its conjugated form or the complete answer. Ensure the answer key uses the verb named in the hint.
+- Apply this rule to newly generated exercises. Do not rewrite existing homework solely to add these hints unless the user requests it.
+
+### Ambiguous verb choices in translation exercises
+
+- If a translation prompt leaves a choice between different Dutch verbs or constructions, but the key expects a particular one, make that choice clear with a short Russian-labelled infinitive hint. In particular, population statements such as «В городе 18000 жителей» can use `hebben` (a town has inhabitants) or `wonen` (people live in a town); specify the verb used in the key rather than making the learner guess it.
+- Keep hints limited to the intended verb, without revealing its grammatical form or the full translation. Continue to preserve initial adverbials and correct word order in the answer. This does not override independent choice of conjunctions and modal verbs in their dedicated exercises.
+- A different verb or construction is not automatically an error: accept grammatically correct translations that preserve the source meaning, and distinguish a valid alternative from failure to practise an explicitly requested verb. In exercises targeting another skill, such as number spelling, explain relevant alternatives in the key.
+- Apply this rule to new exercises and to existing items the user identifies as ambiguous; do not rewrite unrelated homework.
+
 ### Hints for ambiguous `bij` / `naast` choices
 
 - In Russian-to-Dutch exercises, when spatial wording such as «у», «около», «возле» or «рядом с» leaves both `bij` and `naast` plausible, explicitly name the preposition used in the key: `Подсказка по предлогу: используйте bij.` or `Подсказка по предлогу: используйте naast.` The learner wants to know the intended interpretation, not guess the key's choice.
@@ -216,6 +229,11 @@ Apply these requirements to generated extra homework unless the user explicitly 
 - Match the answer key to the hint. Where the original Russian wording permits an alternative spatial interpretation, explain the valid alternative in the key rather than treating a different preposition as automatically ungrammatical. Distinguish an acceptable translation from following the specified preposition for this item.
 - Apply this to newly generated Russian-source exercises and the current lesson's items identified by the user. Preserve learner answers and do not rewrite unrelated historical exercises.
 
+### Unambiguous Russian question and address prompts
+
+- When a Russian translation prompt targets informal plural `jullie`, make the group explicit, for example «Куда вы все едете?». When targeting polite `u`, identify polite address to one person in the context or a brief Russian note. Capitalization alone, especially at the start of a sentence, does not disambiguate the addressee.
+- If a prompt leaves «вы» ambiguous, accept both `u` and `jullie` with their matching verb forms; do not treat the key's choice as the only correct answer.
+- Distinguish questions about whether someone asks something from reports of their question: «Спрашивает ли она, есть ли у нас время?» → `Vraagt ze of we tijd hebben?`; «Она спрашивает, есть ли у нас время.» → `Ze vraagt of we tijd hebben.` Use explicit Russian wording when the exercise tests this distinction.
 
 ### Independent article choice in translation exercises
 
