@@ -259,7 +259,7 @@
 1. Ik ga rechtdoor, maar mijn/m’n zus gaat naar links.
 2. Gaan we naar rechts of keren we om?
 3. Neem de tweede afslag rechts en stop bij het museum.
-4. Ik drink thee omdat ik koffie niet lekker vind. / Ik drink thee, want ik vind koffie niet lekker.
+4. Ik drink thee, want ik vind koffie niet lekker. Также допустимо: `Ik drink thee omdat ik koffie niet lekker vind.`
 5. Als het raam klemt, bel dan de receptionist.
 6. Terwijl we op het perron wachten, zingen de kinderen.
 7. De airco is stuk, dus we doen het raam open.
@@ -447,105 +447,3 @@ Beklimmen требует hebben: we hebben de berg beklommen. Beginnen, schrikke
 20. De bus stopt op twee december om zestien uur vijf bij het stadhuis.
 
 Охват диктанта: настоящее (1, 5–8, 11–20), imperfectum (3, 19), perfectum (4, 10, 19), zullen (9); en (2), terwijl (3), als (6), omdat (7), dus с прямым порядком (8), of — косвенный вопрос (12) и выбор (15), dat (13), maar (14), want (19); отделяемые глаголы (2, 5, 10, 15), возвратное местоимение (10), притяжательные (1, 3, 7, 9, 14), количественные (4, 20) и порядковое (1) числительные, даты и время (1–2, 20), om … te (11), hoeven … te (5), степени сравнения (17–18). Все цели помещаются в 20 предложений благодаря совмещению; случайная выборка тем не требовалась. В записи 9 звучит именно полная форма jouw.
-
-## Карта повторения лексики
-
-Каждая цель проверяется в разделе 16 и ещё хотя бы в одном упражнении. Номера ниже относятся к реальным заданиям, а не к упоминаниям в подсказках.
-
-| Слово или выражение | Раздел лексики | Повторение |
-| --- | --- | --- |
-| beginnen | 16.1 | 1.2, 5.13, 5.14, 7.10, 12.4, 12.14, 12.19, 15.1 |
-| beklimmen | 16.2 | 1.4, 5.2, 14.10, 15.2 |
-| binden | 16.3 | 1.6, 5.11, 14.17, 15.3 |
-| drinken | 16.4 | 1.1, 5.1, 6.1, 12.13, 13.4, 14.18, 15.3 |
-| dwingen | 16.5 | 14.20, 15.4 |
-| glimmen | 16.6 | 1.13, 15.5 |
-| klinken | 16.7 | 1.20, 15.6 |
-| krimpen | 16.8 | 1.18, 15.7 |
-| schrikken | 16.9 | 1.8, 7.4, 13.10, 15.8 |
-| springen | 16.10 | 1.19, 13.10, 14.13, 15.8 |
-| stinken | 16.11 | 1.15, 6.8, 15.9 |
-| verbinden | 16.12 | 5.4, 15.10 |
-| verzinnen | 16.13 | 1.5, 5.5, 13.16, 15.11 |
-| vinden | 16.14 | 1.11, 4.6, 5.5, 5.6, 5.8, 5.15, 5.16, 5.19, 6.9, 15.2 |
-| winnen | 16.15 | 1.3, 5.12, 5.17, 7.15, 14.16, 15.12 |
-| zingen | 16.16 | 1.12, 2.16, 5.6, 13.6, 15.1 |
-| zinken | 16.17 | 5.20, 15.13 |
-| gelden | 16.18 | 6.14, 13.8, 15.14 |
-| schenken | 16.19 | 1.9, 5.10, 9.3, 15.15 |
-| schelden | 16.20 | 6.10, 13.15, 15.16 |
-| trekken | 16.21 | 1.16, 5.18, 14.11, 15.17 |
-| vechten | 16.22 | 1.14, 14.12, 15.18 |
-| vertrekken | 16.23 | 1.7, 5.7, 5.9, 5.14, 7.11, 12.2, 12.8, 12.11, 12.15, 12.17, 12.20, 15.19 |
-| zenden | 16.24 | 1.10, 9.10, 14.14, 15.19 |
-| zwemmen | 16.25 | 1.17, 2.17, 5.3, 5.19, 13.19, 15.20 |
-| omkeren | 16.26 | 13.2, 14.3 |
-| de zijstraat | 16.27 | 2.6, 3.5, 6.3, 11.7 |
-| rechtdoor gaan | 16.28 | 4.1, 13.1, 14.1 |
-| rechtsaf slaan | 16.29 | 6.11 |
-| linksaf slaan | 16.30 | 4.2, 14.2 |
-| naar rechts gaan | 16.31 | 13.2 |
-| naar links gaan | 16.32 | 13.1 |
-| de tweede afslag rechts nemen | 16.33 | 13.3 |
-| volgens | 16.34 | 4.3 |
-| last hebben van | 16.35 | 4.5, 6.12 |
-| het aanbod | 16.36 | 2.18, 3.15, 6.14, 10.12, 13.8 |
-| klemmen | 16.37 | 6.13, 13.5 |
-| een klacht indienen | 16.38 | 6.2, 7.12 |
-| eigenlijk | 16.39 | 4.4, 13.19 |
-| oplossen | 16.40 | 13.17, 14.19 |
-| hoeven | 16.41 | 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 5.17, 6.1, 6.2, 6.11, 7.3, 10.6, 10.14, 13.18, 14.1, 14.2, 14.3, 14.11, 14.15, 14.20 |
-| lukken | 16.42 | 4.6, 13.20 |
-| waardeloos | 16.43 | 4.7 |
-| het uitzicht | 16.44 | 2.8, 3.16, 4.8 |
-| het niet doen | 16.45 | 4.9, 9.8 |
-| stuk | 16.46 | 4.10, 9.7, 13.7, 13.15 |
-| doorgeven | 16.47 | 5.15, 14.9 |
-| meegaan | 16.48 | 4.11, 6.15, 9.5, 13.20 |
-| helemaal vol zitten | 16.49 | 4.12, 6.5, 7.7 |
-| herhalen | 16.50 | 4.13, 7.6 |
-| de stoep | 16.51 | 1.11, 9.14, 14.4 |
-| het plein | 16.52 | 1.12, 2.1, 3.4, 9.1, 11.1 |
-| de brug | 16.53 | 2.2, 5.4, 7.1, 11.5, 14.3, 15.10 |
-| de bushalte | 16.54 | 1.13, 9.12 |
-| het standbeeld | 16.55 | 1.14, 3.2, 11.3 |
-| het viaduct | 16.56 | 1.15, 3.3 |
-| het stadhuis | 16.57 | 2.7, 3.1, 7.13, 10.10, 11.2, 13.13 |
-| de gracht | 16.58 | 1.20, 2.12, 5.3, 11.6, 13.14 |
-| de kerk | 16.59 | 1.16, 2.13, 9.2, 11.4, 13.14 |
-| de pinautomaat | 16.60 | 3.6, 7.9, 11.12, 14.7 |
-| het buurthuis | 16.61 | 3.7, 6.6, 11.11, 14.6 |
-| de glasbak | 16.62 | 3.8, 11.10 |
-| de brommer | 16.63 | 2.5 |
-| het zebrapad | 16.64 | 3.12, 14.5 |
-| het kruispunt | 16.65 | 3.10, 6.7, 11.8 |
-| het stoplicht | 16.66 | 3.11, 4.2, 6.7, 11.9 |
-| de rotonde | 16.67 | 3.9, 14.8 |
-| de waterkoker | 16.68 | 2.3, 3.14, 4.9, 7.5, 9.8, 11.13, 13.9, 14.15 |
-| de airco | 16.69 | 2.14, 4.10, 6.12, 9.7, 11.14, 13.7 |
-| het perron | 16.70 | 3.13, 11.15, 13.6 |
-| de tent | 16.71 | 2.10, 3.19, 6.4, 11.16 |
-| de camping | 16.72 | 1.18, 11.17 |
-| de camper | 16.73 | 1.19, 3.20, 11.18 |
-| de berg | 16.74 | 1.4, 1.17, 2.11, 5.2, 14.10, 15.2 |
-| tegenover | 16.75 | 1.16, 7.13 |
-| in slaap vallen | 16.76 | 4.15, 13.11 |
-| bedanken voor | 16.77 | 4.14, 9.13, 13.12 |
-| langs | 16.78 | 1.20, 13.14 |
-| de conditie | 16.79 | 2.9, 4.7 |
-| het werkwoord | 16.80 | 8.1 |
-| de infinitief | 16.81 | 8.2 |
-| het imperfectum | 16.82 | 8.3 |
-| het perfectum | 16.83 | 8.4 |
-| het schema | 16.84 | 8.5 |
-| het huiswerk | 16.85 | 8.6, 10.15 |
-| de woordenschat | 16.86 | 8.7 |
-| Vul het schema in. | 16.87 | 8.8 |
-| Kies uit. | 16.88 | 8.9 |
-| Lees de tekst en beantwoord de vragen. | 16.89 | 8.10 |
-| Werk in tweetallen. | 16.90 | 8.11 |
-| Vul het nummer van de juiste afbeelding in. | 16.91 | 8.12 |
-| Vul met de goede oplossing in. | 16.92 | 8.13 |
-| het meervoud | 16.93 | 8.14 |
-| de imperatief | 16.94 | 8.15 |
-| de VVV | 16.95 | 3.17 |

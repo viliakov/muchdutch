@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "engine": "edge-tts",
+  "engine_version": "7.3.1",
+  "rate": "+0%",
+  "seed": 18322567944252137733,
+  "items": [
+    {
+      "number": 1,
+      "text": "Afgelopen donderdag zijn we uit Portugal teruggekomen.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "text": "Hier hoef je geen kaartje te kopen.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "text": "Mijn zus rust uit omdat ze moe is.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "text": "Als het morgen regent, blijven we in het hotel.",
+      "voice": "nl-BE-DenaNeural",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "text": "Terwijl de kinderen zongen, las hun vader een boek.",
+      "voice": "nl-BE-ArnaudNeural",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "text": "Ik ga naar de winkel om brood te kopen.",
+      "voice": "nl-BE-ArnaudNeural",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "text": "Morgen zal ik mijn kamer opruimen.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "text": "De verpleegkundige heeft de wond zorgvuldig verbonden.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "text": "Vroeger zwommen we elke week in dit meer.",
+      "voice": "nl-BE-DenaNeural",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "text": "De korting geldt tot de eenentwintigste november.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "text": "We spreken om kwart over zeven af.",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "text": "Ik heb nergens een goedkoper theeglas gevonden.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "text": "Ze wast zich elke ochtend met koud water.",
+      "voice": "nl-BE-DenaNeural",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "text": "De trein vertrekt precies om negen uur.",
+      "voice": "nl-BE-ArnaudNeural",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "text": "Ik ben geschrokken, maar mijn broer bleef rustig.",
+      "voice": "nl-NL-MaartenNeural",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "text": "We nemen de bus, want de auto is stuk.",
+      "voice": "nl-BE-ArnaudNeural",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "text": "Het is koud, dus we doen het raam dicht.",
+      "voice": "nl-BE-DenaNeural",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "text": "Wil je hier blijven of ga je met ons mee?",
+      "voice": "nl-NL-ColetteNeural",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "text": "Op de eerste verdieping wonen drie studenten.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "text": "Het schoolkoor heeft een prachtig lied gezongen.",
+      "voice": "nl-NL-FennaNeural",
+      "file": "20.mp3"
+    }
+  ]
+}

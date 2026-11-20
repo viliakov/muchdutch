@@ -116,7 +116,7 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
 
 1. Generate `les-XX/homework_extra.md` with additional practice to reinforce the lesson. Do not reproduce the screenshot's `huiswerk` tasks or create a duplicate `homework.md`. If an extra homework file already contains user answers, preserve it and create the next numbered extra homework file instead.
 2. Use the current lesson summary as the main source.
-3. Write every task heading, actionable instruction, purpose statement, label, note, and example explanation in Russian. Keep Dutch forms, answer options, dialogues, and other Dutch study material in Dutch. In an English-to-Dutch translation exercise, keep the English source sentences in English, but write the heading and instructions in Russian. Do not add English explanations elsewhere.
+3. Write every task heading, actionable instruction, purpose statement, label, note, and example explanation in Russian. Keep Dutch forms, answer options, dialogues, and other Dutch study material in Dutch. Starting with lesson 33, use the dedicated `om ... te` exercise described below instead of the English-to-Dutch translation section. If the user explicitly requests an English-to-Dutch exercise, keep its English source sentences in English, but write the heading and instructions in Russian. Do not add English explanations elsewhere.
 4. Prioritize the grammar from the current lesson.
 5. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
 6. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
@@ -125,7 +125,7 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
    - choose and fill in the comparative or superlative form (`comparatief` / `superlatief`),
    - `de`-woord or `het`-woord recognition,
    - Russian-to-Dutch translation,
-   - English-to-Dutch translation,
+   - before lesson 33: English-to-Dutch translation; starting with lesson 33: dedicated mixed grammar practice with `om ... te`,
    - ontkennende zinnen (`niet` / `geen`),
    - vragen (yes/no questions plus questions with a question word),
    - grammar terminology and exercise-instruction vocabulary from the screenshots,
@@ -133,15 +133,13 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
    - an answer key for every section.
    Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
    Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
-8. Include at least two translation sections when enough vocabulary is available:
-   - one section translating from English to Dutch,
-   - one section translating from Russian to Dutch, because Russian is the user's native language.
-9. The English-to-Dutch and Russian-to-Dutch sections must use different sentences. Never reuse the same sentences (or a straight translation of them) across the two sections; each section gets its own distinct set so the two answer keys never match.
-10. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
+8. Always include a Russian-to-Dutch translation section. Starting with lesson 33, replace the standard English-to-Dutch section with the dedicated `om ... te` exercise; include English-to-Dutch only when the user explicitly requests it.
+9. If an English-to-Dutch section is explicitly requested, it and the Russian-to-Dutch section must use different sentences. Never reuse the same sentences or straight translations across the two sections.
+10. Make translation sections large enough to be useful: usually 10–15 sentences. The dedicated `om ... te` exercise follows the standard 15–20-item size.
 11. Keep the level appropriate for A0/A1 beginners.
 12. Use simple sentences and familiar vocabulary.
 13. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
-14. If a screenshot already contains Russian prompts, preserve that style. Do not add English prompts except as source sentences in a dedicated English-to-Dutch translation exercise.
+14. If a screenshot already contains Russian prompts, preserve that style. Do not add English prompts unless the user explicitly requests a dedicated English-to-Dutch translation exercise.
 
 ### User's Standard Homework Requirements
 
@@ -153,28 +151,33 @@ Apply these requirements to generated extra homework unless the user explicitly 
    - a dedicated reflexive-pronoun exercise (`me`, `je`, `zich`, `ons`), starting with lesson 22 and in all future homework sets; cover different subjects, questions, inversion, and known modal verbs,
    - negative sentences,
    - questions,
-   - large numbers written in words, including ordinal numbers,
+   - large numbers written in words, including ordinal numbers; starting with lesson 35, always include calendar dates, years, and clock times (both conversational and timetable readings), continuing the format introduced in lesson 34,
    - sentence building with conjunctions learned so far,
-   - sentence building with modal verbs learned so far, always including `zullen` (for example a promise or a suggestion),
+   - sentence building with modal verbs learned so far, always including `zullen` (for example a promise or a suggestion); starting with lesson 35, always include several items with `hoeven niet te` / `geen ... te`, including inversion and a separable verb, and distinguish lack of necessity from prohibition (`niet mogen`),
    - every new word or phrase added for the current lesson.
 2. Write the source text for all the exercise types listed above in Russian so the user practises translating into Dutch.
 3. Where meaningful, include plural nouns and a mixture of `de`-words and `het`-words in those exercises.
 4. Give each standard exercise 15-20 sentences/items. The current-lesson vocabulary exercise may contain as many items as needed to cover every new word and phrase.
-5. Keep the existing Russian-to-Dutch and English-to-Dutch translation sections as separate sections.
+5. Keep the Russian-to-Dutch translation and dedicated `om ... te` practice as separate sections starting with lesson 33. For earlier lessons, or when explicitly requested, keep Russian-to-Dutch and English-to-Dutch as separate sections.
 6. Keep the dedicated plural and `de`/`het` exercises.
 7. Include one dedicated exercise that collectively covers all current-lesson vocabulary, and repeat every word and phrase at least once in another exercise in the same homework set.
    - Establish the full target list from the lesson source, summary, and relevant `WORDS.md` entries, including previously known vocabulary practised in the current lesson; do not limit coverage to newly added dictionary rows.
    - Distribute the additional occurrences naturally across the other exercises, using different sentences and contexts. Each word or phrase must be part of an actual learner task in both the dedicated vocabulary exercise and at least one other exercise. Mentions only in headings, instructions, hints, word lists, or answer keys do not count; inflected forms count when they practise the intended meaning.
-   - Before delivery, check a coverage map from each target word or phrase to its numbered items in the dedicated exercise and in another exercise. Fill any gaps while preserving the required exercise types, sizes, and learned-material boundaries. Apply this to newly generated homework; do not rewrite existing sets unless requested.
+   - Before delivery, check an internal coverage map from each target word or phrase to its numbered items in the dedicated exercise and in another exercise. Fill any gaps while preserving the required exercise types, sizes, and learned-material boundaries. Keep this map as a generation check only: do not publish it in the homework, answer key, or lesson summary. Apply this to newly generated homework; do not rewrite existing sets unless requested.
 8. Provide a fixed answer key for every item; do not use open-ended tasks.
    - In answer keys involving possessive pronouns, include both full (stressed) and reduced (unstressed) forms wherever both are grammatically and contextually valid, for example `jouw/je`, `mijn/m’n`, and `zijn/z’n`. Show both variants in the answer; if emphasis or contrast requires the full form, give only that form. Do not invent a second form where none exists.
-9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
-10. Before lesson 33, do not use `om ... te` infinitive constructions in generated homework or answer keys. Starting with lesson 33, the user has authorized the basics: purpose, evaluation of an action (`Het is leuk om ...`, `Ik vind het leuk om ...`), word order, and separable verbs (`op te staan`). Practise these alongside familiar modal verbs without `te`. Other `te`-infinitive constructions and advanced infinitive combinations remain outside the taught material until separately introduced. Do not rewrite earlier homework solely to add this grammar.
+9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence, except for the explicit `want` / `omdat` rule below. The user should otherwise choose it independently. The answer key may show one natural solution even when other correct variants are possible. Starting with lesson 34, every conjunction exercise must contain at least one item whose primary answer uses `want`; do not include `want` only as an optional alternative. Starting with lesson 35, for every Russian «потому что» prompt in the conjunction exercise, explicitly specify `Подсказка: используйте want.` or `Подсказка: используйте omdat.` Include both conjunctions as primary answers in the exercise and match the key to each hint.
+10. Before lesson 33, do not use `om ... te` infinitive constructions in generated homework or answer keys. Starting with lesson 33, include a dedicated 15–20-item `om ... te` exercise in every new homework set instead of the standard English-to-Dutch section. Mix statements, yes/no questions and question-word questions; present, imperfectum, perfectum and future contexts where natural; negation in the main clause and inside the `om ... te` clause; purpose and evaluation of an action (`Het is leuk om ...`, `Ik vind het leuk om ...`); and separable verbs (`op te staan`). Practise these alongside familiar modal verbs without `te`. The `hoeven niet te` / `geen ... te` construction introduced in lesson 34 is also allowed and must recur in the modal-verb exercise from lesson 35 onward. Other `te`-infinitive constructions and advanced infinitive combinations remain outside the taught material until separately introduced. Present this as regular cumulative grammar practice, not as a one-off response to a user request. Do not rewrite earlier homework solely to add this grammar.
 11. Include a dedicated grammar-terminology exercise in every generated homework set. Test Dutch terms and common exercise instructions actually visible in the lesson screenshots, reusing terms from earlier lessons for revision. Examples, when present in the source, include `het meervoud` (множественное число), `het werkwoord` (глагол), and `kies de juiste optie` (выберите правильный вариант). Use Russian prompts asking the learner to supply or match the Dutch term or instruction, and provide a fixed answer key. Follow the standard 15–20-item size when enough source vocabulary is available; otherwise use fewer items rather than inventing terms supposedly seen in the screenshots. Add newly encountered terms and instruction phrases to `WORDS.md` with their Russian meanings and lesson id.
 12. Starting with lesson 29, occasionally include a destination question with `naartoe` in the questions exercise, rotating it into future homework sets. Use a natural Russian prompt, such as «Куда ты едешь?», and a matching answer such as `Waar ga je naartoe?`. Keep the choice of Dutch wording independent: do not reveal `naartoe` in the prompt.
 13. Include a listening dictation of 15–20 sentences in every newly generated extra homework set, in addition to the other exercises. The dictation is an exception to the Russian-source-text rule: the learner transcribes Dutch audio rather than translating a written prompt.
 
 14. The learner has covered `dus` only as a coordinating conjunction. Use subject–finite verb order after `dus` in generated examples, exercises, answer keys, and dictation: `Ik ben moe, dus ik blijf thuis.` Do not use connective-adverb inversion (`dus blijf ik`) until the user says it has been covered. This does not change inversion after initial adverbials or initial subordinate clauses.
+
+### Independent verb choice and learned constructions
+
+- In reflexive-pronoun and strong/irregular-verb translation exercises, let the learner choose the verb independently. Do not append routine Dutch infinitive hints such as `(zich wassen)` or `Beginnen; perfectum`. Keep explicitly required hints from the rules below, such as `aanmelden` / `inschrijven`, unfamiliar vocabulary and necessary ambiguity clarification; do not turn these exceptions into hints for every item. Tense labels may remain.
+- The user confirmed during lesson 35 that `zijn + aan het + infinitive` has not been studied. Its appearance in a screenshot does not establish that it has been taught. Exclude it from generated practice, answer keys and dictation until the user says otherwise; use the familiar present tense where appropriate. A source note may mention that it remains unlearned.
 
 ### Listening dictation
 
@@ -211,7 +214,7 @@ Apply these requirements to generated extra homework unless the user explicitly 
 
 ### Hints for `aanmelden` and `inschrijven`
 
-- When an exercise answer expects `aanmelden` or `inschrijven`, add a short Russian-labelled hint to each affected prompt naming the intended verb in its infinitive form: `Подсказка: используйте aanmelden.` or `Подсказка: используйте inschrijven.` Apply this to all relevant written exercise types, including Russian-to-Dutch and English-to-Dutch translation.
+- When an exercise answer expects `aanmelden` or `inschrijven`, add a short Russian-labelled hint to each affected prompt naming the intended verb in its infinitive form: `Подсказка: используйте aanmelden.` or `Подсказка: используйте inschrijven.` Apply this to all relevant written exercise types, including translation and `om ... te` exercises.
 - Name only the intended verb; do not reveal its conjugated form or the complete answer. Ensure the answer key uses the verb named in the hint.
 - Apply this rule to newly generated exercises. Do not rewrite existing homework solely to add these hints unless the user requests it.
 
