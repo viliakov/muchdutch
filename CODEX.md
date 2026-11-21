@@ -121,9 +121,9 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
 5. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
 6. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
 7. Always use the same set of task types as `les-10/homework_extra2.md`, in this order:
-   - fill-in-the-blank grammar for the current lesson's main grammar,
-   - choose and fill in the comparative or superlative form (`comparatief` / `superlatief`),
-   - `de`-woord or `het`-woord recognition,
+   - through lesson 35, fill in gaps on the main grammar topic; from lesson 36 onward, exercise 1 uses Russian cues and gapped Dutch sentences to practise the current lesson’s new words and phrases in context,
+   - through lesson 35 only, choose and fill in the comparative or superlative form (`comparatief` / `superlatief`),
+   - through lesson 35 only, `de`-woord or `het`-woord recognition,
    - Russian-to-Dutch translation,
    - before lesson 33: English-to-Dutch translation; starting with lesson 33: dedicated mixed grammar practice with `om ... te`,
    - ontkennende zinnen (`niet` / `geen`),
@@ -131,7 +131,7 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
    - grammar terminology and exercise-instruction vocabulary from the screenshots,
    - listening dictation following the requirements below,
    - an answer key for every section.
-   Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
+   From lesson 36 onward, practise the main grammar in the applicable remaining sections and number them consecutively.
    Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
 8. Always include a Russian-to-Dutch translation section. Starting with lesson 33, replace the standard English-to-Dutch section with the dedicated `om ... te` exercise; include English-to-Dutch only when the user explicitly requests it.
 9. If an English-to-Dutch section is explicitly requested, it and the Russian-to-Dutch section must use different sentences. Never reuse the same sentences or straight translations across the two sections.
@@ -146,20 +146,20 @@ When processing a lesson screenshot, generate extra homework immediately. Apply 
 Apply these requirements to generated extra homework unless the user explicitly asks for a different format:
 
 1. Include exercises covering:
-   - comparative and superlative forms, with context determining which form is required,
+   - through lesson 35 only, a dedicated exercise on comparative and superlative forms, with context determining which form is required,
    - direct, indirect, and possessive pronouns: use 15 items, with exactly 10 practising full forms `hen` / `hun`, including direct objects, indirect objects without a preposition, `hen` after prepositions, and possessive `hun`; use the other 5 for other pronouns,
-   - a dedicated reflexive-pronoun exercise (`me`, `je`, `zich`, `ons`), starting with lesson 22 and in all future homework sets; cover different subjects, questions, inversion, and known modal verbs,
+   - a dedicated reflexive-pronoun exercise (`me`, `je`, `zich`, `ons`), for lessons 22–35; cover different subjects, questions, inversion, and known modal verbs,
    - negative sentences,
    - questions,
    - large numbers written in words, including ordinal numbers; starting with lesson 35, always include calendar dates, years, and clock times (both conversational and timetable readings), continuing the format introduced in lesson 34,
-   - sentence building with conjunctions learned so far,
+   - sentence building with conjunctions learned so far; from lesson 36 onward, every conjunction section also practises all three past-time uses of `toen`: sequence (then), reference to a past time (at that time), and a temporal subordinate clause (when). Vary clause position to practise inversion and verb-final order,
    - sentence building with modal verbs learned so far, always including `zullen` (for example a promise or a suggestion); starting with lesson 35, always include several items with `hoeven niet te` / `geen ... te`, including inversion and a separable verb, and distinguish lack of necessity from prohibition (`niet mogen`),
    - every new word or phrase added for the current lesson.
 2. Write the source text for all the exercise types listed above in Russian so the user practises translating into Dutch.
 3. Where meaningful, include plural nouns and a mixture of `de`-words and `het`-words in those exercises.
 4. Give each standard exercise 15-20 sentences/items. The current-lesson vocabulary exercise may contain as many items as needed to cover every new word and phrase.
 5. Keep the Russian-to-Dutch translation and dedicated `om ... te` practice as separate sections starting with lesson 33. For earlier lessons, or when explicitly requested, keep Russian-to-Dutch and English-to-Dutch as separate sections.
-6. Keep the dedicated plural and `de`/`het` exercises.
+6. Keep the dedicated plural exercise in every set. Include the standalone article exercise only through lesson 35.
 7. Include one dedicated exercise that collectively covers all current-lesson vocabulary, and repeat every word and phrase at least once in another exercise in the same homework set.
    - Establish the full target list from the lesson source, summary, and relevant `WORDS.md` entries, including previously known vocabulary practised in the current lesson; do not limit coverage to newly added dictionary rows.
    - Distribute the additional occurrences naturally across the other exercises, using different sentences and contexts. Each word or phrase must be part of an actual learner task in both the dedicated vocabulary exercise and at least one other exercise. Mentions only in headings, instructions, hints, word lists, or answer keys do not count; inflected forms count when they practise the intended meaning.
@@ -242,7 +242,7 @@ Apply these requirements to generated extra homework unless the user explicitly 
 
 - The user wants to choose articles independently. Do not add article hints to translation prompts or instructions: no parenthetical notes about known objects, first mentions, substances in general, or which article to use.
 - Use natural Russian sentences. Do not add artificial qualifiers such as «известный», «конкретный» or «ожидаемый», or demonstratives such as «этот/тот», solely to signal the intended article.
-- Keep dedicated de/het and plural exercises; their instructions may specify the requested dictionary form without revealing the answer.
+- When a dedicated article or plural exercise applies to the lesson, its instructions may specify the requested dictionary form without revealing the answer.
 - Use correct articles in the answer key. Russian may allow multiple interpretations: the key gives one natural translation, and grammatically correct article alternatives supported by the source meaning are acceptable. Explain meaningful differences in the key when helpful, not as hints in the prompt.
 
 ## Style
