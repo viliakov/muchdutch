@@ -1,301 +1,277 @@
 # Урок 36 — ответы
 
-[К упражнениям](homework.md) · [Конспект](README.md)
+[К заданиям](homework.md) · [Конспект](README.md)
 
-В ключе приведён один естественный перевод. Возможны и другие варианты, если сохранены смысл и заданная конструкция. Косая черта между формами местоимений показывает полную и краткую формы.
+В ключе дан один естественный перевод. Формы перед косой чертой и после неё в предложениях с местоимениями обозначают допустимые варианты. Выбор артикля может зависеть от того, знаком ли предмет собеседникам.
 
-## 1. Новые слова урока в контексте
+## 1. Новые слова в контексте
 
-1. In mei wil ik bij mijn/m’n tante logeren.
-2. Kun je een koffer dragen?
-3. In het vliegtuig wil ik bij het raampje zitten.
-4. Na de les krijg ik altijd honger.
-5. We hebben de lange reis al achter de rug.
-6. Ik ben gewend aan koud water.
-7. Gisteren heeft het kind een kopje gebroken.
-8. Welk plan willen jullie bespreken?
-9. Mijn/M’n zus neemt aan de wedstrijd deel.
-10. Gisteren ontbraken er twee studenten in de les.
-11. Ik stak mijn/m’n hand in de zak van mijn/m’n jas.
-12. Wie heeft de fiets gestolen?
-13. De pot jam is nog vol.
-14. Voor de taart heb ik een pakje boter nodig.
-15. Neem het blikje tonijn mee.
-16. Ze koopt een fles frisdrank.
-17. Voor de lunch maken we macaroni met tomatenpuree.
-18. Lees eerst de tekst. Vervolgens vult u het schema in.
-19. In die tijd woonde mijn/m’n oma hier.
-20. Op dat moment was de deur dicht.
-21. Op het moment dat hij ging zitten, ging de telefoon.
-22. In deze zin is straks een adverbium.
-23. Ik zoek de betekenis van het woord.
-24. Bekijk het schema.
-25. Zeg in het Nederlands waar u woont.
-26. In de trein zien we een plat landschap.
-27. De grote tafel neemt veel plaats in.
-28. We bestelden koffie en toen gingen we bij het raam zitten.
+1. De dochter van mijn/m’n broer is mijn/m’n nicht.
+2. We logeren bij de zus van mijn/m’n moeder.
+3. Eén kind draagt een koffer en het andere kind doet de deur open.
+4. In de bus zit opa graag bij het raampje.
+5. Tijdens een lange wandeling krijg ik snel honger.
+6. We hebben het moeilijkste deel van de reis al achter de rug.
+7. Deze kinderen zijn gewend aan het lawaai.
+8. In de pot op tafel zit rijst.
+9. Ik leg een pakje boter in de koelkast.
+10. Voor de broodjes hebben we een blikje tonijn nodig.
+11. De ober brengt twee glazen frisdrank.
+12. Op tafel staan de macaroni en de tomatenpuree.
+13. De kast neemt de helft van de kamer in.
+14. Gisteren bespraken we de prijs van het schilderij.
+15. In het doosje ontbrak één sleutel.
+16. Ze stak de foto in haar/d’r tas. Op dat moment stak een mug haar.
+17. In de keuken hebben we twee borden gebroken.
+18. Wie heeft het geld uit de kast gestolen?
+19. Dit jaar wil ik aan de cursus deelnemen.
+20. Ik woonde in de stad. In die tijd hadden we thuis geen telefoon.
+21. Op dat moment ging mijn/m’n telefoon.
+22. Op het moment dat de deur openging, zag ik mijn/m’n zus.
+23. Eerst betaalden we. Vervolgens liepen we de winkel uit.
+24. De rivier loopt door een plat landschap.
+25. Wat is de betekenis van dit woord?
+26. Gisteren is een adverbium.
+27. Hoe heet dat in het Russisch?
+28. We belden aan en toen deed papa open.
+29. Bekijk het schema op het bord.
+30. Zeg in het Nederlands hoeveel de koffie kost.
+31. Vul het schema met eigen voorbeelden in.
 
-## 2. Перевод с русского
+## 2. Вся лексика урока
 
-1. In november logeerden we bij vrienden in Gent.
-2. Voor de kinderen heb ik twee flessen melk meegenomen.
-3. De reis is al achter de rug en nu kunnen we uitrusten.
-4. In die tijd werkte mijn/m’n moeder in een museum.
-5. Onderweg hebben we honger gekregen.
-6. Op dat moment zat ik bij het raampje.
-7. Bij het ontbijt hebben we de reis besproken.
-8. Op de keukentafel staat een pot jam. / Op de keukentafel staat er een pot jam.
-9. 's Ochtends neemt opa het medicijn in.
-10. Thuis eten we rijst met tonijn.
-11. Zaterdag heeft mijn/m’n broer een fles bier gebroken.
-12. Op het schilderij zie ik een oude molen.
-13. In de trein zit ik graag bij het raampje.
-14. Wat een geweldig landschap!
-15. In de winkel koop ik een pakje boter en een pak macaroni.
+1. de reis / een geweldige reis
+2. de koffer / dragen / een koffer dragen
+3. bij iemand logeren / de nicht
+4. bij het raampje zitten / honger krijgen
+5. iets achter de rug hebben / gewend zijn aan
+6. het schilderij / het landschap / plat
+7. het pak / het pakje
+8. de pot / het blikje
+9. de fles / de krat (также het krat)
+10. de melk / de frisdrank / het bier
+11. de jam / de boter / de yoghurt
+12. de macaroni / de rijst
+13. de tomatenpuree / de tonijn
+14. nemen / meenemen
+15. deelnemen aan iets / een medicijn innemen (также een medicijn nemen)
+16. plaats innemen / ontbreken
+17. spreken / iets bespreken
+18. breken / stelen
+19. iets in een tas steken / steken / de straat oversteken
+20. toen
+21. daarna / vervolgens
+22. in die tijd / op dat moment
+23. op het moment dat
+24. het adverbium / de conjunctie
+25. de betekenis / het schema
+26. de grammatica / de infinitief (также het infinitief)
+27. het imperfectum / het perfectum
+28. Bekijk het schema.
+29. Vul het schema in.
+30. Zeg in het Nederlands.
+31. in het Russisch
 
-## 3. Оборот om … te
+## 3. Перевод с русского
 
-1. Ik neem een tas mee om de flessen te dragen.
-2. Ga je naar het station om je/jouw tante op te halen?
-3. Gisteren zijn we naar de winkel gegaan om tomatenpuree te kopen.
-4. Het is leuk om bij vrienden te logeren.
-5. Waarom heb je de telefoon meegenomen? Om mijn/m’n broer te bellen.
-6. Morgen zal ik vroeg opstaan om de eerste trein te halen.
-7. Ik neem een broodje mee om geen honger te krijgen.
-8. Ze is niet naar de stad gegaan om een schilderij te kopen.
-9. Het was moeilijk om de straat over te steken.
-10. Ik vind het leuk om bij het raampje te zitten.
-11. Kunnen jullie eerder komen om het plan te bespreken?
-12. Waarom gaat hij naar de apotheek? Om de medicijnen op te halen.
-13. We liepen langzaam om niet te vallen.
-14. Is het makkelijk om in de winkel Nederlands te spreken?
-15. Ik wil naar Utrecht gaan om aan de wedstrijd deel te nemen.
+1. 's Avonds staat er op dit spoor een trein naar Groningen. Также без er: ’s Avonds staat op dit spoor een trein naar Groningen.
+2. Ik ben al gewend aan lange lessen.
+3. Door het raam ziet het meisje een plat landschap.
+4. De oom geeft zijn/z’n nicht een broodje met kaas.
+5. Voor het avondeten nemen we rijst met groenten.
+6. Op zaterdag logeerden we bij oma.
+7. Op dat moment droeg Tjeerd twee koffers.
+8. 's Ochtends nam mama het medicijn met water in. Также с nemen: ’s Ochtends nam mama het medicijn met water.
+9. Op het station spraken we over oude treinen.
+10. Ik heb de melk en de boter in de koelkast gezet.
+11. Na de lunch heeft mijn/m’n zoon een foto van het schilderij gemaakt.
+12. Voor het feest hebben we een krat bier en vier flessen water gekocht.
+13. Gisteren heb ik voor het eerst aan een wedstrijd deelgenomen.
 
-## 4. Отрицание
+## 4. Цель и оценка действия с om … te
 
-1. Ik ben nog niet gewend aan dit landschap.
-2. Na de reis hadden we geen koffers.
-3. In deze pot giet ik geen melk.
-4. We nemen geen krat bier mee.
-5. Gisteren ontbrak niemand in de les.
-6. Toen had mijn/m’n vader geen fiets.
-7. Dit schilderij is niet oud.
-8. Mijn/M’n zus drinkt nooit frisdrank.
-9. Vandaag eet ik geen macaroni.
-10. In de koelkast zie ik nergens boter.
-11. We hebben de vraag nog niet besproken.
-12. Die dag kreeg ik geen honger.
-13. Hij wil niet bij het raampje zitten.
-14. Ik heb dat geld niet gestolen.
-15. 's Nachts zijn we de straat niet overgestoken.
+1. We gaan naar de markt om vis te kopen.
+2. Neem je een taxi om niet te laat te komen?
+3. Wat neem je mee om soep te maken?
+4. Ik vind het leuk om in de trein met opa te praten.
+5. Mijn/M’n nicht wil komen om ons te helpen.
+6. Is het voor de kinderen moeilijk om dit krat te dragen?
+7. Ik ga niet naar het station om een tijdschrift te kopen.
+8. Kun je een lepel pakken om de yoghurt te proeven?
+9. Vroeger was het makkelijk om een plaats in deze trein te vinden.
+10. Ik sprak zacht om het kind niet wakker te maken.
+11. Waar gingen jullie naartoe om te zwemmen?
+12. We zijn op het station gebleven om op de volgende trein te wachten.
+13. Waarom is ze om vijf uur opgestaan? Om op tijd aan te komen.
+14. Ik ben gekomen om het schilderij op te halen.
+15. Morgen zullen we naar Lena gaan om het feest te bespreken.
 
-## 5. Вопросы
+## 5. Отрицание
 
-1. Waar koop je meestal yoghurt?
-2. Waar gaan jullie na de les naartoe?
-3. Wie zal de koffer dragen?
-4. Ben je gewend aan lange reizen?
-5. Wanneer hebben jullie het schilderij besproken?
-6. Is de reis al achter de rug?
-7. Hoeveel blikjes tonijn heb je nodig?
-8. Welke fles is nog vol?
-9. *Bij wie hebben jullie gelogeerd?* (perfectum) — обычный вопрос о завершившейся поездке. *Bij wie logeerden jullie?* (imperfectum) подходит, например, когда собеседник уже рассказывает о поездке и вы уточняете подробность.
-10. Waarom woonde hij toen in Gent?
-11. Wil je een pakje boter of een pot jam?
-12. Hoe laat vertrekt de trein?
-13. Welke straat moeten we oversteken?
-14. Heb je het medicijn al ingenomen?
-15. Vraagt ze of we tijd hebben?
+1. Meestal ontbijt ik niet in de trein.
+2. Mijn/M’n nicht is niet gewend aan de regen.
+3. In deze soep zit geen tonijn.
+4. De koffer is helemaal niet zwaar.
+5. Hier kan ik nergens yoghurt kopen.
+6. Niemand wil de zware pot meenemen.
+7. Op maandag drinkt papa geen bier.
+8. Dit woord heeft geen tweede betekenis.
+9. In die tijd hadden we geen auto.
+10. Niemand zat op mijn/m’n tas.
+11. Gisteren bij het ontbijt had ik helemaal geen honger.
+12. In het hotel hadden we geen boter meer.
+13. We hebben nog nooit in Rotterdam gelogeerd.
+14. Ik heb de fles sap niet gebroken.
+15. Onderweg heeft ze niets verloren.
 
-## 6. Термины и инструкции
+## 6. Вопросы
+
+1. Op welk spoor staat de trein naar Utrecht?
+2. Vinden jullie dit schilderij mooi?
+3. Wie draagt de koffer van jouw/je zus?
+4. Waar ga je met dit pak naartoe?
+5. Is deze pot van glas?
+6. Hoeveel rijst hebben we nodig?
+7. Nemen jullie de lunch mee?
+8. Wanneer bespreken jullie de grammatica?
+9. Was het toen koud in het vliegtuig?
+10. Wat ontbrak er in de tas? / Wat ontbrak in de tas?
+11. Waarom logeerde je als kind vaak bij je/jouw oom?
+12. Heb je het paspoort al meegenomen?
+13. Aan wie hebben jullie de foto's gestuurd?
+14. Heb je de macaroni al geproefd?
+15. Wie heeft beide potten op de vloer gezet?
+
+## 7. Как читать задания по грамматике
 
 1. de grammatica
-2. het adverbium
-3. de conjunctie
-4. de betekenis
-5. het schema
-6. Bekijk het schema.
-7. Vul het schema in.
-8. Zeg in het Nederlands.
-9. de infinitief / het infinitief
-10. het imperfectum
-11. het perfectum
-12. het meervoud
-13. Vul de juiste vorm in.
-14. Geef antwoord op de vragen.
-15. Let op de tijd.
+2. de betekenis
+3. het schema
+4. de infinitief / het infinitief
+5. het imperfectum
+6. het perfectum
+7. het adverbium
+8. de conjunctie
+9. het meervoud
+10. Bekijk het schema.
+11. Vul het schema in.
+12. Zeg in het Nederlands.
+13. Werk in tweetallen.
+14. Vul de juiste vorm in.
+15. Geef antwoord op de vragen.
 
-## 7. Личные, объектные и притяжательные местоимения
+## 8. Личные, объектные и притяжательные местоимения
 
-1. Op het station zie ik hen.
-2. Ik geef hun de sleutel.
-3. Na de wedstrijd spreken we met hen.
-4. Hun koffer ligt al in de trein.
-5. De tante haalt hen op van de luchthaven.
-6. We laten hun het schilderij zien.
-7. In november logeerde ik bij hen.
-8. Hun reis duurde een week.
-9. Ik koop twee pakken koffie voor hen.
-10. Papa brengt hun rijst met tonijn.
-11. Is dit jouw/je tas?
-12. Mijn/M’n broer gaat met me/mij mee.
-13. We zien hem bij de kassa.
-14. Ze geeft ons een fles water.
-15. Zijn/Z’n jas ligt op onze tas.
+1. Ik zie hen vaak bij de bakker.
+2. De verkoper geeft hun de bon.
+3. We zitten tegenover hen.
+4. Hun trein vertrekt over tien minuten.
+5. Lena wacht op hen op het station.
+6. Opa geeft hun de lepels.
+7. Ik ga met hen naar de markt.
+8. Hun schilderij hangt in de keuken.
+9. Wie brengt hen naar huis?
+10. De ober brengt hun de soep.
+11. Draag je deze tas voor mij?
+12. We laten onze fietsen thuis.
+13. Jouw/Je jas ligt op de stoel.
+14. Ze schrijft hem vaak.
+15. Zijn/Z’n nicht woont in Delft.
 
-## 8. Множественное число
+## 9. Множественное число
 
-1. de koffers
-2. de schilderijen
-3. de reizen
-4. de pakjes
-5. de flessen
-6. de potten
-7. de blikjes
-8. de pakken
+1. de schoenen
+2. de koffers
+3. de schilderijen
+4. de boeken
+5. de lepels
+6. de borden
+7. de flessen
+8. de pakjes
 9. de kratten
-10. de raampjes
-11. de treinen
-12. de tassen
-13. de schema’s
-14. de betekenissen
-15. de landschappen
+10. de potten
+11. de blikjes
+12. de bussen
+13. de prijzen
+14. de landschappen
+15. de nichten
 
-## 9. Числа, даты и время
+## 10. Числа, даты и время
 
-1. honderdvijfentwintig flessen
-2. tweeduizend driehonderd koffers
-3. veertienduizend reizen
-4. eenendertigduizend acht schilderijen
-5. de eenentwintigste dag
-6. de derde trein
-7. negentienachtennegentig
-8. tweeduizend zesentwintig
-9. zes februari
-10. eenentwintig november
-11. dertig april
-12. kwart over zeven
-13. half twee
-14. tien voor zeven
-15. veertien uur vijf
-16. negentien uur veertig
-17. tweeëntwintig uur twaalf
+1. achtendertig
+2. honderdzevenenveertig
+3. zevenhonderdtwee
+4. drieduizend vierhonderdeenentwintig
+5. tweeënvijftigduizend
+6. achtste
+7. drieëntwintigste
+8. negentienvierentachtig
+9. tweeduizend drieëntwintig
+10. veertien maart
+11. één oktober
+12. kwart voor negen
+13. tien voor half vier
+14. vijf over half negen
+15. dertien uur achttien
+16. zestien uur vijfenvijftig
+17. drieëntwintig uur dertig
 
-## 10. Союзы и три значения toen
+## 11. Союзы и значения toen
 
-1. Eerst vonden we de koffer en toen staken we de straat over. — «Затем», наречие.
-2. Toen ik het blikje opende, zag ik tomatenpuree. — «Когда», союз.
-3. Als kind woonde ik in Leiden. Toen gingen we vaak naar zee. — «В то время», наречие.
-4. Ik pakte de telefoon toen de trein stopte. — «Когда», союз.
-5. Eerst kookten we de rijst en toen voegden we tonijn toe. — «Затем», наречие.
-6. In 2015 studeerde mijn/m’n broer in Gent. Hij woonde toen bij zijn/z’n tante. — «В то время», наречие.
-7. Toen we in Gent aankwamen, regende het. — «Когда», союз.
-8. Ik neem een grote zak mee, want de kleine tas is vol.
-9. We blijven thuis omdat de trein vandaag niet rijdt.
-10. Als het morgen warm is, gaan we naar zee.
-11. Terwijl ik de koffer droeg, zocht mijn/m’n zus de kaartjes.
-12. De fles is gebroken, maar er zit nog melk in het pak.
-13. De winkel is dicht, dus we gaan naar huis.
-14. Blijf je hier of ga je met ons mee?
-15. Elke keer als we bij oma logeerden, maakte ze macaroni.
-16. Toen ik mijn/m’n hand in mijn/m’n zak stak, vond ik de sleutel.
+1. Eerst deed ik mijn/m’n jas uit en toen vond ik een plaats. — «Затем», наречие.
+2. Als kind woonde ik in een kleine stad. Toen lag het station buiten de stad. — «В то время», наречие.
+3. Toen we binnenkwamen, sliepen de kinderen nog. — «Когда», союз.
+4. We zagen de molen toen de bus stopte. — «Когда», союз.
+5. Eerst aten de kinderen de broodjes en toen dronken ze de melk. — «Затем», наречие.
+6. Mijn/M’n tante woonde in Colombia. Toen leerde ze Nederlands. — «В то время», наречие.
+7. Terwijl Amira las, keek haar/d’r oom uit het raam.
+8. Elke keer als mama soep maakte, pakte het kind een lepel.
+9. Ik laat de boter thuis, want het is te warm in de tas.
+10. We zijn blij omdat onze nicht morgen komt.
+11. Als de winkel open is, kopen we jam.
+12. We hebben weinig tijd, dus we nemen een taxi.
+13. Op tafel staat er yoghurt, maar ik zie geen lepels. / Op tafel staat yoghurt, maar ik zie geen lepels.
+14. Zet jij de rijst op tafel of doe ik dat?
+15. Ze vraagt of we daarna naar het museum gaan.
 
-## 11. Модальные глаголы
+## 12. Модальные глаголы
 
-1. Je hoeft de koffer niet mee te nemen.
-2. We hoeven geen melk te kopen.
-3. Morgen hoef ik niet vroeg op te staan.
-4. Hoeven jullie de kinderen niet op te halen?
-5. Hier mag je de straat niet oversteken.
-6. Mag ik bij het raampje gaan zitten?
-7. Kun je de fles brengen?
-8. De dokter zegt dat ik het medicijn 's ochtends moet innemen.
-9. Ik wil bij mijn/m’n oom logeren.
-10. Ik beloof het! Morgen zal ik de koffer dragen.
-11. Zullen we het plan na de les bespreken?
-12. Je mag geen geld uit de tas pakken.
-13. We kunnen aan de wedstrijd deelnemen.
-14. Waarom moet ze naar huis gaan?
-15. Vandaag hoeven jullie geen rijst te koken.
+1. Vandaag hoef ik het hotel niet te bellen.
+2. We hoeven geen flessen mee te nemen.
+3. Je mag het raam in de trein niet opendoen.
+4. Het kind hoeft de tafel niet op te ruimen.
+5. Moeten jullie weer om zes uur opstaan?
+6. Mag ik de foto's bekijken?
+7. We willen de laatste bus nemen.
+8. Kun je me/mij helpen met de koffer?
+9. Vandaag hoeven we oma niet op het station op te halen.
+10. Hier mag je geen zware kratten op tafel zetten.
+11. Ze moet de sleutel aan de buurman teruggeven.
+12. Wie kan Nederlands lezen?
+13. Ik zal je/jou het boek morgen zeker teruggeven.
+14. Zal ik u een glas water brengen?
+15. 's Avonds hoeft papa niet te koken.
 
-## 12. Сильные глаголы
+## 13. Сильные и неправильные глаголы
 
-1. Gisteren brak ik een glas.
-2. Na de les bespraken we de vraag.
-3. Om zeven uur nam hij het medicijn in.
-4. Zondag namen we aan de wedstrijd deel.
-5. Na de pauze ontbrak één student.
-6. Toen spraken ze Nederlands.
-7. Hij stak de sleutel in zijn/z’n zak.
-8. 's Ochtends stal iemand mijn/m’n tas.
-9. Na de wedstrijd namen we de bus naar huis.
-10. Bij de school zijn we de straat overgestoken.
-11. Voor de reis heb ik twee pakken koffie meegenomen.
-12. Over wie hebben jullie gesproken?
-13. Ik heb de reis al met mijn/m’n moeder besproken.
-14. Wie heeft de laatste appel genomen?
-15. De fles is gebroken.
-16. Daarna heeft iemand mijn/m’n fiets gestolen.
-
-## 13. Слова и выражения урока
-
-1. bij iemand logeren
-2. een koffer dragen
-3. bij het raampje zitten
-4. honger krijgen
-5. iets achter de rug hebben
-6. gewend zijn aan
-7. breken
-8. bespreken
-9. deelnemen aan
-10. ontbreken
-11. steken
-12. stelen
-13. de pot
-14. het pakje
-15. het blikje
-16. de frisdrank
-17. de macaroni
-18. de tomatenpuree
-19. de tonijn
-20. vervolgens
-21. in die tijd
-22. op dat moment
-23. op het moment dat
-24. het adverbium
-25. de betekenis
-26. Bekijk het schema.
-27. Zeg in het Nederlands.
-28. het landschap
-29. plat
-30. de reis
-31. geweldig
-32. de koffer
-33. dragen
-34. het schilderij
-35. nemen
-36. innemen
-37. meenemen
-38. spreken
-39. oversteken
-40. het pak
-41. de fles
-42. de krat
-43. de melk
-44. de jam
-45. de yoghurt
-46. het bier
-47. de boter
-48. de rijst
-49. toen
-50. daarna
-51. de conjunctie
-52. het schema
-53. Vul het schema in.
-54. de infinitief / het infinitief
-55. het imperfectum
-56. het perfectum
-57. de grammatica
+1. Op het perron nam mijn/m’n moeder me/mij bij de hand.
+2. Bij het ontbijt bespraken de vrienden het weer.
+3. In haar/d’r tas ontbrak het paspoort.
+4. Dinsdag namen beide zussen deel aan de les.
+5. We braken de oude stoel.
+6. Ze stak het kaartje in de zak van haar/d’r jas.
+7. De nieuwe bank nam veel plaats in.
+8. In Amsterdam spraken de kinderen met de dokter.
+9. In het dorp stal iemand onze fiets.
+10. Voor de wandeling heb ik een nieuwe kaart van de stad meegenomen.
+11. Twee vriendinnen zijn de brug overgestoken.
+12. Wie heeft het medicijn na het avondeten ingenomen?
+13. Na de pauze hebben we jouw/je brief besproken.
+14. Het kopje is gebroken.
+15. De buurman heeft twee kratten bier van ons gestolen.
+16. Na de les hebben de kinderen sap gedronken.
+17. Op het station hebben we een taxi naar het museum genomen.
+18. Onderweg naar huis hebben we een geweldig schilderij gezien.
 
 ## 14. Аудиодиктант
 

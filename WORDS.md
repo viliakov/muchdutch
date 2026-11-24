@@ -843,7 +843,7 @@ Columns:
 | ongeveer | about, approximately | примерно | adverb | les-15, les-29 | `ongeveer een kilo` |
 | de afdeling | department, section | отдел | noun | les-15 | `de drankafdeling` |
 | de medewerker | employee, staff member | сотрудник | noun | les-15 | plural `de medewerkers`; repeated in les-19 |
-| de krat | crate | ящик | noun | les-15, les-36 | `een krat bier` |
+| de krat | crate | ящик | noun | les-15, les-36 | `een krat bier`; также het krat, мн. ч. de kratten. |
 | de fles | bottle | бутылка | noun | les-15, les-36 | plural `de flessen` |
 | het rek | rack, shelf | стойка, полка | noun | les-15 | `het wijnrek` |
 | de tros | bunch | гроздь, связка | noun | les-15 | `een tros bananen` |
@@ -1968,7 +1968,7 @@ Columns:
 | bespreken | — | обсуждать | verb | les-36 | besprak / bespraken; heeft besproken |
 | deelnemen | — | участвовать | separable verb | les-36 | deelnemen aan; nam deel / namen deel; heeft deelgenomen |
 | ontbreken | — | отсутствовать, недоставать | verb | les-36 | ontbrak / ontbraken; heeft ontbroken |
-| steken | — | засовывать, колоть | verb | les-36 | stak / staken; heeft gestoken |
+| steken | — | засовывать, колоть | verb | les-36 | stak / staken; heeft gestoken. Iets in een tas steken — засунуть что-либо в сумку. |
 | stelen | — | красть | verb | les-36 | stal / stalen; heeft gestolen |
 | de pot | — | банка (например, для варенья) | noun | les-36 | de potten; een pot jam |
 | het pakje | — | пачка, маленькая упаковка | noun | les-36 | de pakjes; een pakje boter |
@@ -1987,3 +1987,5 @@ Columns:
 | Zeg in het Nederlands. | — | Скажите по-нидерландски. | instruction | les-36 | Инструкция к устному переводу. |
 | het landschap | — | пейзаж, ландшафт | noun | les-36 | het platte landschap; de landschappen |
 | plat | — | плоский, равнинный | adjective | les-36 | plat land; een plat landschap |
+| de nicht | niece, female cousin | племянница, двоюродная сестра | noun | les-36 | В диалоге Тьерд — дядя Амиры, поэтому zijn nicht означает «его племянница». Мн. ч. de nichten. |
+| in het Russisch | in Russian | по-русски | phrase | les-36 | Заголовок колонки с переводом. |
