@@ -6,236 +6,335 @@
 
 > **Пояснение по-русски:** Работа закрепляет множественное число, модальные глаголы и лексику супермаркета.
 
-Het huiswerk van de les zelf (van het bord). Drie delen: **modale werkwoorden drillen**, **meervoud**, en een **creatieve** opdracht.
+Doel / Цель: oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`).
 
-## Deel 1 - Modale werkwoorden drillen — **По-русски:** Часть 1 — отработка модальных глаголов
+## 1. Schrijf het meervoud (gemengd, deel 1) — **По-русски:** 1. Напишите множественное число (смешанные задания, часть 1)
 
-### Modale werkwoorden - herhaling — **По-русски:** Модальные глаголы — повторение
+Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
+> **По-русски:** Обратите внимание: в каждой строке может требоваться `-en`, `-s`, `'s` или нерегулярная форма.
 
-`zullen` = 1 een voorstel, 2 een afspraak, een belofte
+1. één kind - twee ____
+2. één sleutel - twee ____
+3. één kaart - twee ____
+4. één foto - twee ____
+5. één stad - twee ____
+6. één boek - twee ____
+7. één oma - twee ____
+8. één ei - twee ____
+9. één jas - twee ____
+10. één museum - twee ____
+11. één meisje - twee ____
+12. één dag - twee ____
+13. één trap - twee ____
+14. één tv - twee ____
+15. één zee - twee ____
 
-1. **Zullen** we *dansen*?
-2. Bel je me snel? Ja, dat **zal** ik doen.
+## 2. Schrijf het meervoud (gemengd, deel 2) — **По-русски:** 2. Напишите множественное число (смешанные задания, часть 2)
 
-`willen` = wensen, verlangen
+1. één feest - twee ____
+2. één opa - twee ____
+3. één schip - twee ____
+4. één muis - twee ____
+5. één koekje - twee ____
+6. één datum - twee ____
+7. één brief - twee ____
+8. één taxi - twee ____
+9. één weg - twee ____
+10. één zus - twee ____
+11. één kamer - twee ____
+12. één lid - twee ____
+13. één bed - twee ____
+14. één baby - twee ____
+15. één idee - twee ____
 
-1. **Wil** jij een kopje koffie?
-2. Ik **wil** goed Nederlands *spreken*.
+## 3. Schrijf het meervoud (gemengd, deel 3) — **По-русски:** 3. Напишите множественное число (смешанные задания, часть 3)
 
-`kunnen` = mogelijk zijn
+1. één zaal - twee ____
+2. één jongen - twee ____
+3. één pad - twee ____
+4. één huis - twee ____
+5. één cadeau - twee ____
+6. één koe - twee ____
+7. één maand - twee ____
+8. één menu - twee ____
+9. één mogelijkheid - twee ____
+10. één neef - twee ____
+11. één wc - twee ____
+12. één vrijheid - twee ____
+13. één prijs - twee ____
+14. één karretje - twee ____
+15. één dokter - twee ____
 
-1. U **kunt** het cadeautje *ruilen*.
-2. Hij **kan** een beetje Nederlands *verstaan*.
+## 4. Enkelvoud of meervoud? Vul in — **По-русски:** 4. Единственное или множественное число? Вставьте правильную форму
 
-`mogen` = niet verboden zijn, toegestaan zijn
+Kies de goede vorm van het woord tussen ( ).
+> **По-русски:** Выберите правильную форму слова в скобках.
 
-1. **Mag** ik hier *roken*?
-2. Hier **mag** u niet *parkeren*.
+1. Mag ik drie ____ (kilo) appels, alstublieft?
+2. De kast is twee ____ (meter) hoog.
+3. Dat boek kost tien ____ (euro) en vijftig ____ (cent).
+4. Ik woon al vijf ____ (jaar) in Nederland.
+5. De film duurt twee ____ (uur).
+6. Een koe geeft wel dertig ____ (liter) melk per dag.
+7. Wacht nog vijf ____ (minuut), dan ben ik klaar.
+8. Wij gaan drie ____ (week) op vakantie.
+9. Ik fiets zes ____ (kilometer) naar mijn werk.
+10. Ik drink twee ____ (kop) koffie per dag.
+11. Zij koopt twee ____ (pak) melk en drie ____ (fles) water.
+12. Ik eet veel ____ (fruit) en veel ____ (groente).
 
-`moeten` = verplicht zijn, nodig zijn
+## 5. `de`-woord of `het`-woord? — **По-русски:** 5. Слово с `de` или с `het`?
 
-1. U **moet** een examen Nederlands *doen*.
-2. We **moeten** een cadeautje *kopen*.
+Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
-### Vormenschema — **По-русски:** Таблица форм
+1. ____ wortel
+2. ____ bloemkool
+3. ____ appel
+4. ____ ei
+5. ____ karretje
+6. ____ kassa
+7. ____ fles
+8. ____ wijn
+9. ____ bier
+10. ____ geld
+11. ____ cadeautje
+12. ____ rondje
+13. ____ kind
+14. ____ zegel
+15. ____ museum
 
-| | zullen | willen | kunnen | mogen | moeten |
-| --- | --- | --- | --- | --- | --- |
-| ik | zal | wil | kan | mag | moet |
-| je / u | zal / zult | wil / wilt | kan / kunt | mag | moet |
-| (vraag: `zal je` / `zul je`) | wil je | kan je / kun je | mag je | moet je |
-| hij / zij | zal | wil | kan | mag | moet |
-| we | zullen | willen | kunnen | mogen | moeten |
-| jullie | zullen | willen | kunnen | mogen | moeten |
-| ze | zullen | willen | kunnen | mogen | moeten |
+## 6. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 6. Переведите с русского на нидерландский
 
-### A. Kies het goede verbum — **По-русски:** A. Выберите правильный глагол
+1. У меня двое детей и трое племянников.
+2. Можно мне два кило картошки, пожалуйста?
+3. Сколько стоят бананы? - Они стоят один евро за кило.
+4. У нас в доме два телевизора и два туалета.
+5. Мои бабушка и дедушка живут в маленькой деревне.
+6. Дети едят пять яиц и много фруктов.
+7. Я живу в Нидерландах уже пять лет.
+8. Она покупает три бутылки воды и два пакета молока.
+9. В городе много музеев и много возможностей.
+10. Марьян кладёт бананы на весы.
+11. Питер берёт ящик пива и ставит его в тележку.
+12. Поздравляю с днём рождения! Что ты хочешь выпить?
+13. Мы можем расплатиться? - Всё вместе?
+14. Я очень люблю апельсины, но не люблю лимоны.
+15. У меня нет ключей и я не могу найти тележку.
 
-Streep het foute werkwoord weg.
-> **По-русски:** Зачеркните неправильный глагол.
+## 7. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 7. Переведите с английского на нидерландский
 
-1. Willen / Zullen jullie een kopje koffie?
-2. De kinderen mogen / moeten om half negen op school zijn.
-3. Ik moet / zal naar de tandarts.
-4. Mag / Moet ik even naar de wc?
-5. Ik kan / wil goed zwemmen, want ik heb drie zwemdiploma's.
-6. Willen / Zullen we naar de film gaan?
-7. Hij wil / kan een nieuwe fiets.
-8. Je mag / moet niet roken in een café.
-9. Mag / Zal de deur dicht, alsjeblieft?
-10. Je mag / moet geen alcohol drinken als je nog geen 16 jaar bent.
+1. I would like one kilo of onions and a bag of potatoes.
+2. There are seven different banknotes and eight different coins.
+3. My two grandfathers have many photos in the living room.
+4. The cauliflower is one plus one free today.
+5. She takes two taxis, because the buses do not go.
+6. The girls are looking for their keys.
+7. Those cakes are cheap, so I buy five of them.
+8. We have three ideas, but no money.
+9. The children are angry, because they miss their mother.
+10. He puts the bottle of wine on the counter.
+11. How many days do you work in a week?
+12. The employee is tall, so he can easily reach the wine.
+13. I do not want stamps, thank you.
+14. My brother gives a party and we bring a present.
+15. The pears cost two euros and fifty-four cents per kilo.
 
-### B. Vul de goede vorm van een modaal verbum in — **По-русски:** B. Вставьте правильную форму модального глагола
+## 8. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 8. Составьте отрицательные предложения (`niet` или `geen`)
 
-1. Ik ________ nu naar het station. Dan ________ ik de trein van twee uur nemen.
-2. ________ we een kopje koffie drinken?
-3. ________ ik jouw woordenboek?
-4. In het talenpracticum ________ je niet eten en drinken.
-5. Wat ________ je voor je verjaardag?
-6. Ze ________ goed Nederlands spreken. Ze zijn al lang in Nederland.
-7. Pardon, ________ ik u iets vragen?
-8. Zijn jullie klaar? ________ we beginnen?
-9. We ________ elke dag huiswerk maken.
-10. ________ je me met mijn huiswerk helpen?
+Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
-## Deel 2 - Meervoud — **По-русски:** Часть 2 — множественное число
+1. Ik heb kinderen.
+2. Wij hebben twee auto's.
+3. De bananen zijn duur.
+4. Zij vindt het karretje.
+5. Ik eet eieren.
+6. Hij koopt sinaasappels.
+7. De medewerker is aardig.
+8. Wij hebben ideeën.
+9. Ik ben dol op citroenen.
+10. De winkel is open.
+11. Zij drinkt wijn.
+12. Ik wil de zegels.
 
-### A. Vul het schema in — **По-русски:** A. Заполните таблицу
+## 9. Maak vragen — **По-русски:** 9. Составьте вопросы
 
-Kijk naar de afbeeldingen met groente en fruit (de `Vocabulaire - Groente en Fruit` plaat) en vul het schema in: schrijf elk woord in het enkelvoud én in het meervoud.
-> **По-русски:** Посмотрите на изображения овощей и фруктов и заполните таблицу: напишите каждое слово в единственном и множественном числе.
+Maak van elke zin een vraag.
+> **По-русски:** Преобразуйте каждое предложение в вопрос.
 
-| GROENTE | | FRUIT | |
-| --- | --- | --- | --- |
-| enkelvoud | pluralis | enkelvoud | pluralis |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+1. Jij koopt twee kilo appels.
+2. De kinderen eten fruit.
+3. Marjan legt de bananen op de weegschaal.
+4. Jullie betalen bij de kassa.
+5. Peter zoekt zijn vrouw.
+6. Zij heeft twee foto's van haar oma.
+7. De medewerker helpt de klant.
+8. Jij bent dol op druiven.
 
-Aparte rijen op het bord: `kruiden`, `verpakt`, `bosje/zak`.
+Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
-### B. Kies de goede vorm — **По-русски:** B. Выберите правильную форму
-
-Kies A of B.
-> **По-русски:** Выберите A или B.
-
-1. het idee - A. idees / B. ideeën
-2. de zee - A. zees / B. zeeën
-3. de vrijheid - A. vrijheden / B. vrijheids
-4. de mogelijkheid - A. mogelijkheden / B. mogelijkheiden
-5. de moeilijkheid - A. moeilijkheiden / B. moeilijkheden
-6. de dag - A. dagen / B. daggen
-7. het dak - A. dakken / B. daken
-8. het glas - A. glazen / B. glassen
-9. het bedrag - A. bedragen / B. bedraggen
-10. het gat - A. gatten / B. gaten
-11. het slot - A. sloten / B. slotten
-12. het verslag - A. verslagen / B. verslaggen
-13. de weg - A. weggen / B. wegen
-14. het blad - A. bladeren / B. bladen
-15. het ei - A. eieren / B. eien
-16. het kind - A. kinden / B. kinderen
-17. het lied - A. liederen / B. lieden
-18. de broer - A. broers / B. broeren
-19. de datum - A. datums / B. datum's
-20. het museum - A. museums / B. musea
-21. het cadeau - A. cadeaus / B. cadeauën
-22. de e-mail - A. e-mails / B. e-mailen
-23. het café - A. caféen / B. cafés
-24. de koe - A. koeien / B. koeën
-25. het lid - A. lidden / B. leden
-26. het pad - A. paden / B. padden
-27. de oom - A. oomen / B. ooms
-28. het restaurant - A. restaurants / B. restauranten
-29. de stad - A. steden / B. staden
-
-## Deel 3 - Creatief — **По-русски:** Часть 3 — творческое задание
-
-### A. Maak een PowerPoint-presentatie — **По-русски:** A. Подготовьте презентацию PowerPoint
-
-Maak een PowerPoint-presentatie over **één** van de onderstaande onderwerpen. Minimaal **5 dia's**.
-> **По-русски:** Подготовьте презентацию PowerPoint на **одну** из указанных тем. Минимум **5 слайдов**.
-
-- Menukaart in een Nederlands restaurant
-- Wat eten Nederlanders 's avonds?
-- Wat vinden kinderen in Nederland smakelijk?
-- Fast-food in Nederland (uit de muur eten)
-- Wat weet je over traditionele Nederlandse gerechten?
-- Wat eten Nederlanders bij het ontbijt?
-- Wat weet je over traditionele Nederlandse snoepjes?
-
-### B. Maak een video: wat koop je meestal bij AH? — **По-русски:** B. Снимите видео: что вы обычно покупаете в AH?
-
-Koop minimaal **10 producten**.
-
-Идея такая: идём на сайт AH, накладываем в корзинку не менее 10 позиций и все свои действия подробно комментируем.
-
-Handige woorden / Полезные слова:
-
-- **bestellen** - заказывать
-- **de zoekbalk** - поисковая строка
-- **ik kies ...** - я выбираю
-- **ik klik op toevoegen** - я нажимаю кнопку «добавить»
-- **dat kost ...** - это стоит ...
-- **betalen** - платить
+9. ____ kilo aardappels wil jij?
+10. ____ staat de wijn?
+11. ____ betaalt het eerste rondje?
+12. ____ wil jij drinken?
+13. ____ geeft jouw broer een feestje?
+14. ____ heten jouw kinderen?
 
 ## Antwoorden — **По-русски:** Ответы
 
-### Deel 1 - A
+### 1
 
-1. Willen jullie een kopje koffie?
-2. De kinderen moeten om half negen op school zijn.
-3. Ik moet naar de tandarts.
-4. Mag ik even naar de wc?
-5. Ik kan goed zwemmen, want ik heb drie zwemdiploma's.
-6. Zullen we naar de film gaan?
-7. Hij wil een nieuwe fiets.
-8. Je mag niet roken in een café.
-9. Mag de deur dicht, alsjeblieft?
-10. Je mag geen alcohol drinken als je nog geen 16 jaar bent.
+1. kinderen
+2. sleutels
+3. kaarten
+4. foto's
+5. steden
+6. boeken
+7. oma's
+8. eieren
+9. jassen
+10. musea (ook goed: museums)
+11. meisjes
+12. dagen
+13. trappen
+14. tv's
+15. zeeën
 
-### Deel 1 - B
+### 2
 
-1. Ik **moet** nu naar het station. Dan **kan** ik de trein van twee uur nemen.
-2. **Zullen** we een kopje koffie drinken?
-3. **Mag** ik jouw woordenboek? (ook goed: `Kan`)
-4. In het talenpracticum **mag** je niet eten en drinken.
-5. Wat **wil** je voor je verjaardag?
-6. Ze **kunnen** goed Nederlands spreken. Ze zijn al lang in Nederland.
-7. Pardon, **mag** ik u iets vragen? (ook goed: `kan`)
-8. Zijn jullie klaar? **Zullen** we beginnen? (ook goed: `Kunnen`)
-9. We **moeten** elke dag huiswerk maken.
-10. **Kun** je me met mijn huiswerk helpen? (ook goed: `Wil`)
+1. feesten
+2. opa's
+3. schepen
+4. muizen
+5. koekjes
+6. data (ook goed: datums)
+7. brieven
+8. taxi's
+9. wegen
+10. zussen
+11. kamers
+12. leden
+13. bedden
+14. baby's
+15. ideeën
 
-### Deel 2 - A (voorbeeld)
+### 3
 
-| GROENTE | | FRUIT | |
-| --- | --- | --- | --- |
-| enkelvoud | pluralis | enkelvoud | pluralis |
-| de wortel | de wortels | de appel | de appels |
-| de ui | de uien | de banaan | de bananen |
-| de boon | de bonen | de peer | de peren |
-| de bloemkool | de bloemkolen | de sinaasappel | de sinaasappels |
-| de aardappel | de aardappels | de citroen | de citroenen |
-| de komkommer | de komkommers | de druif | de druiven |
+1. zalen
+2. jongens
+3. paden
+4. huizen
+5. cadeaus
+6. koeien
+7. maanden
+8. menu's
+9. mogelijkheden
+10. neven
+11. wc's
+12. vrijheden
+13. prijzen
+14. karretjes
+15. dokters
 
-`de sla` heeft geen meervoud. Bij `kruiden` / `verpakt` / `bosje-zak`: `het bosje - de bosjes`, `de zak - de zakken`, `het pak - de pakken`.
+### 4
 
-### Deel 2 - B
+1. kilo
+2. meter
+3. euro / cent
+4. jaar
+5. uur
+6. liter
+7. minuten
+8. weken
+9. kilometer
+10. koppen
+11. pakken / flessen
+12. fruit / groente (ook goed: veel groenten)
 
-1. B. ideeën
-2. B. zeeën
-3. A. vrijheden
-4. A. mogelijkheden
-5. B. moeilijkheden
-6. A. dagen
-7. B. daken
-8. A. glazen
-9. A. bedragen
-10. B. gaten
-11. A. sloten
-12. A. verslagen
-13. B. wegen
-14. A. bladeren (van een boom) / B. bladen (papier, blad van een tafel)
-15. A. eieren
-16. B. kinderen
-17. A. liederen
-18. A. broers
-19. A. datums (ook goed: `de data`)
-20. B. musea
-21. A. cadeaus
-22. A. e-mails
-23. B. cafés
-24. A. koeien
-25. B. leden
-26. A. paden
-27. B. ooms
-28. A. restaurants
-29. A. steden
+### 5
 
-### Deel 3
+1. de wortel
+2. de bloemkool
+3. de appel
+4. het ei
+5. het karretje
+6. de kassa
+7. de fles
+8. de wijn
+9. het bier
+10. het geld
+11. het cadeautje
+12. het rondje
+13. het kind
+14. de zegel
+15. het museum
 
-Deel 3 is een spreek- en schrijfopdracht (presentatie en video). Er is geen vast antwoord; gebruik de handige woorden hierboven.
+### 6
+
+1. Ik heb twee kinderen en drie neven.
+2. Mag ik twee kilo aardappels, alstublieft?
+3. Hoeveel kosten de bananen? - Ze kosten één euro per kilo.
+4. Wij hebben twee tv's en twee wc's in huis.
+5. Mijn opa en oma wonen in een klein dorp.
+6. De kinderen eten vijf eieren en veel fruit.
+7. Ik woon al vijf jaar in Nederland.
+8. Zij koopt drie flessen water en twee pakken melk.
+9. In de stad zijn veel musea en veel mogelijkheden.
+10. Marjan legt de bananen op de weegschaal.
+11. Peter pakt een krat bier en zet het in het karretje.
+12. Gefeliciteerd met je verjaardag! Wat wil je drinken?
+13. Mogen we afrekenen? - Alles samen?
+14. Ik ben dol op sinaasappels, maar ik lust geen citroenen.
+15. Ik heb geen sleutels en ik kan het karretje niet vinden.
+
+### 7
+
+1. Ik wil graag één kilo uien en een zak aardappels.
+2. Er zijn zeven verschillende briefjes en acht verschillende munten.
+3. Mijn twee opa's hebben veel foto's in de woonkamer.
+4. De bloemkool is vandaag 1 + 1 gratis.
+5. Zij neemt twee taxi's, want de bussen rijden niet.
+6. De meisjes zoeken hun sleutels.
+7. Die koekjes zijn goedkoop, dus ik koop er vijf.
+8. Wij hebben drie ideeën, maar geen geld.
+9. De kinderen zijn boos, want ze missen hun moeder.
+10. Hij zet de fles wijn op de kassa.
+11. Hoeveel dagen werk jij in een week?
+12. De medewerker is groot, dus hij kan makkelijk bij de wijn.
+13. Ik wil geen zegels, dank u wel.
+14. Mijn broer geeft een feestje en wij nemen een cadeau mee.
+15. De peren kosten twee euro en vierenvijftig cent per kilo.
+
+### 8
+
+1. Ik heb geen kinderen.
+2. Wij hebben geen twee auto's. (ook goed: Wij hebben geen auto's.)
+3. De bananen zijn niet duur.
+4. Zij vindt het karretje niet.
+5. Ik eet geen eieren.
+6. Hij koopt geen sinaasappels.
+7. De medewerker is niet aardig.
+8. Wij hebben geen ideeën.
+9. Ik ben niet dol op citroenen.
+10. De winkel is niet open.
+11. Zij drinkt geen wijn.
+12. Ik wil de zegels niet.
+
+### 9
+
+1. Koop jij twee kilo appels?
+2. Eten de kinderen fruit?
+3. Legt Marjan de bananen op de weegschaal?
+4. Betalen jullie bij de kassa?
+5. Zoekt Peter zijn vrouw?
+6. Heeft zij twee foto's van haar oma?
+7. Helpt de medewerker de klant?
+8. Ben jij dol op druiven?
+9. Hoeveel kilo aardappels wil jij?
+10. Waar staat de wijn?
+11. Wie betaalt het eerste rondje?
+12. Wat wil jij drinken?
+13. Wanneer geeft jouw broer een feestje?
+14. Hoe heten jouw kinderen?

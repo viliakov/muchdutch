@@ -1,4 +1,4 @@
-# Les 8 - Extra huiswerk — **По-русски:** Урок 8 - Дополнительное домашнее задание
+# Les 8 - Huiswerk — **По-русски:** Урок 8 - Домашнее задание
 
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
@@ -482,7 +482,7 @@ Extra: neem jezelf op en markeer 5 moeilijke woorden.
 
 ---
 
-# Les 8 - Extra huiswerk (Ronde 2)
+# Les 8 - Huiswerk (Ronde 2)
 
 Doel / Цель: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oefenen met ander woordmateriaal: meubels, buren, en woorden uit eerdere lessen.
 

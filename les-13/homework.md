@@ -6,149 +6,265 @@
 
 > **Пояснение по-русски:** Работа закрепляет выбор и позицию `niet/geen`, продукты и магазины.
 
-## Grammatica — **По-русски:** Грамматика
+Doel / Цель: oefenen met de negatie (`niet` of `geen`), met de plaats van `niet` in de zin,
+met `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen.
+De woorden komen uit les 13 en uit alle vorige lessen (zie `WORDS.md`).
 
-### 1. Vul met `geen` of `niet` in — **По-русски:** 1. Вставьте `geen` или `niet`
+## 1. Vul in: `niet` of `geen` — **По-русски:** 1. Вставьте `niet` или `geen`
 
-Voorbeeld / Пример: Ik kom **niet** uit Nederland.
+1. Ik drink ____ koffie, ik drink thee.
+2. Hij heeft ____ auto, hij gaat met de tram.
+3. Ik vind mijn nieuwe werk ____ leuk.
+4. Wij wonen ____ in Amsterdam, wij wonen in Utrecht.
+5. Zij eet ____ vlees, maar zij eet wel vis.
+6. Dat is ____ mijn glas, dat is het glas van Sneha.
+7. Ik ken die slager ____.
+8. Marnix heeft ____ genoeg suiker voor de appeltaart.
+9. Ik ben ____ moe, ik ben energiek.
+10. Wij hebben ____ balkon, maar wij hebben wel een tuin.
+11. Ik spreek ____ Frans, ik spreek Nederlands en Russisch.
+12. De oven staat ____ aan.
+13. Zij houdt ____ van brood met hagelslag.
+14. Ik heb ____ kinderen, ik heb twee katten.
+15. Mijn opa is ____ 79, hij is 82.
+16. Hij gaat morgen ____ werken, want hij is ziek.
+17. Ik zie de markt ____, waar is die?
+18. Wij hebben vandaag ____ les.
+19. Ik ga ____ naar de bakker, ik ga naar de supermarkt.
+20. Julia koopt ____ eieren op de markt.
 
-1. Ik kan ____ dansen.
-2. Loes studeert ____ in Delft.
-3. Hij maakt de oefening ____ .
-4. Ik ga morgen ____ met de fiets.
-5. Haar oma vindt koffie ____ lekker.
-6. Alice heeft ____ broer. Ze heeft een zus.
-7. We spreken ____ Spaans.
-8. Mijn familie is ____ groot.
-9. Patrick werkt ____ in een ziekenhuis.
-10. Ik eet vandaag ____ spaghetti.
+## 2. `de`-woord of `het`-woord? — **По-русски:** 2. Слово с `de` или с `het`?
 
-### 2. Vul met het goede possessief in — **По-русски:** 2. Вставьте подходящее притяжательное слово
+Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
-7. Heb jij een zus? Woont ____ zus in Amsterdam?
-8. Mijn neef en nicht wonen nog bij ____ ouders.
-9. Wij willen verhuizen, want ____ huis is te klein.
-10. Willem heeft een vriendin uit Peru. ____ vriendin heet Mila.
-11. De vriendin van Willem komt uit Peru. ____ naam is Mila.
-12. Ik begrijp een beetje Nederlands, maar ____ uitspraak is slecht.
-13. De test begint. Jullie moeten ____ mobiele telefoon uitdoen.
-14. Ik heb een leuke baan. En hoe is ____ baan, Karel?
-15. Wij gaan trouwen. ____ trouwfeest is op 20 mei en ____ gasten zijn welkom
-    vanaf 15.00 uur.
+1. ____ brood
+2. ____ ei
+3. ____ kaas
+4. ____ boter
+5. ____ melk
+6. ____ yoghurt
+7. ____ glas
+8. ____ mes
+9. ____ vork
+10. ____ lepel
+11. ____ bord
+12. ____ oven
+13. ____ vlees
+14. ____ water
+15. ____ wijn
+16. ____ markt
+17. ____ bakker
+18. ____ slager
+19. ____ taart
+20. ____ avondeten
+21. ____ lunch
+22. ____ ontbijt
+23. ____ groente
+24. ____ aardappel
+25. ____ huis
 
-### 3. Vul met het goede object-pronomen in — **По-русски:** 3. Вставьте подходящее объектное местоимение
+## 3. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 3. Переведите с русского на нидерландский
 
-6. Ik houd van tomaten. Ik koop ____ op de markt.
-7. Ik vind ____ leuk. Zullen we samen iets drinken?
-8. Wij spreken geen Nederlands! Wie kan ____ helpen?
-9. Ja, Simon is thuis. Ik zal ____ even roepen.
-10. Wat een leuk boek! Ik ga ____ ook kopen.
+1. Я не пью молоко, я пью воду.
+2. У неё нет машины, поэтому она идёт пешком.
+3. Мы не живём в центре, мы живём в пригороде.
+4. Он не любит хлеб с сыром.
+5. У меня нет детей, но у меня есть собака.
+6. Это не моя вилка.
+7. Утром я не ем, я только пью кофе.
+8. Я не говорю по-немецки.
+9. У нас недостаточно масла для пирога.
+10. Она покупает мясо не у булочника, а у мясника.
+11. Дети сегодня не идут в школу, потому что они больны.
+12. В этом доме нет балкона.
+13. Я не знаю эту женщину.
+14. Он не будет завтра работать.
+15. Не все студенты приходят вовремя.
 
-## Woordenschat — **По-русски:** Лексика
+## 4. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 4. Переведите с английского на нидерландский
 
-### 4. Maak goede zinnen met de woorden — **По-русски:** 4. Составьте правильные предложения из слов
+1. I do not eat meat, but I do eat fish.
+2. He has no bread, so he goes to the baker.
+3. We are not tired, we are cheerful.
+4. That is not her glass, that is my glass.
+5. She does not buy vegetables at the supermarket.
+6. I do not have enough money for a new bike.
+7. My neighbour does not live in a village.
+8. There is no oven in this small kitchen.
+9. I do not like coffee with sugar.
+10. They do not eat in the afternoon.
+11. Max does not go to the market today.
+12. I do not know that street.
+13. She is not English, she is Spanish.
+14. The children may not play outside, because it is raining.
+15. I cannot find the knife.
 
-1. nooit vis | eten | Zij | .
-2. buiten | De kip | loopt | .
-3. De koffie | niet lekker | is | .
-4. Ik | Nederlands moeilijk | vind | .
-5. Mateo | bloemkool op de markt | koopt | .
-6. altijd brood met kaas | eet | Ik | .
-7. Het kind | een boterham met worst | wil | .
-8. moet | acht minuten koken | De rijst | .
-9. meestal water | drink | Ik | .
+## 5. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 5. Составьте отрицательные предложения (`niet` или `geen`)
 
-### 5. Je ziet antwoorden. Maak vragen — **По-русски:** 5. Перед вами ответы. Составьте вопросы
+Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
-Voorbeeld / Пример: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
+1. Ik drink melk bij het ontbijt.
+2. Wij hebben een oven.
+3. De appeltaart is lekker.
+4. Hij koopt brood bij de bakker.
+5. Zij spreekt Italiaans.
+6. Ik ken die slager.
+7. Jullie hebben genoeg suiker.
+8. Marnix maakt een appeltaart.
+9. Dat is mijn bord.
+10. Ik houd van vis.
+11. Zij woont in het centrum.
+12. Wij eten 's avonds soep.
+13. Het kind heeft een lepel.
+14. Ik ga morgen boodschappen doen.
+15. Ik ben 30.
 
-1. ____ - De borden staan <u>in de kast</u>.
-2. ____ - Zij gaan <u>morgen</u> naar de markt.
-3. ____ - <u>Fatmir</u> doet de boodschappen.
-4. ____ - Zij wil <u>zes</u> appels.
-5. ____ - Edwin eet <u>brood met kaas</u>.
-6. ____ - <u>Laura</u> maakt lekkere koekjes.
-7. ____ - Raid koopt vlees <u>bij de slager</u>.
-8. ____ - <u>Els en Nora</u> maken soep.
+## 6. Maak vragen — **По-русски:** 6. Составьте вопросы
 
-### 6. Maak zinnen met de woorden — **По-русски:** 6. Составьте предложения из слов
+Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
-Voorbeeld / Пример: de slager - **Ik koop vlees bij de slager.**
+1. Jij eet brood met kaas bij het ontbijt.
+2. Julia koopt appels op de markt.
+3. De oven staat aan.
+4. Jullie hebben genoeg eieren.
+5. Hij houdt van appeltaart.
+6. Zij gaat naar de slager.
+7. Jij drinkt koffie met melk en suiker.
+8. Max doet boodschappen in de supermarkt.
 
-1. de slager
-2. de supermarkt
-3. hij koopt
-4. de bakker
-5. de appels
-6. je kunt
-7. de markt
+Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+
+9. ____ eet jij graag bij het ontbijt?
+10. ____ koopt Julia vlees?
+11. ____ gram boter heb je nodig?
+12. ____ maakt de appeltaart?
+13. ____ eten jullie het avondeten?
+14. ____ vind jij de appeltaart?
 
 ## Antwoorden — **По-русски:** Ответы
 
 ### 1
 
-1. niet
-2. niet
+1. geen
+2. geen
 3. niet
 4. niet
-5. niet
-6. geen
-7. geen
+5. geen
+6. niet
+7. niet
 8. niet
 9. niet
 10. geen
+11. geen
+12. niet
+13. niet
+14. geen
+15. geen
+16. niet
+17. niet
+18. geen
+19. niet
+20. geen
 
 ### 2
 
-7. jouw / je
-8. hun
-9. ons
-10. Zijn
-11. Haar
-12. mijn
-13. jullie
-14. jouw / je
-15. Ons ... onze
+1. het brood
+2. het ei
+3. de kaas
+4. de boter
+5. de melk
+6. de yoghurt
+7. het glas
+8. het mes
+9. de vork
+10. de lepel
+11. het bord
+12. de oven
+13. het vlees
+14. het water
+15. de wijn
+16. de markt
+17. de bakker
+18. de slager
+19. de taart
+20. het avondeten
+21. de lunch
+22. het ontbijt
+23. de groente
+24. de aardappel
+25. het huis
 
 ### 3
 
-6. ze / die
-7. jou / je
-8. ons
-9. hem
-10. het
+1. Ik drink geen melk, ik drink water.
+2. Zij heeft geen auto, dus zij loopt.
+3. Wij wonen niet in het centrum, wij wonen in de buitenwijk.
+4. Hij houdt niet van brood met kaas.
+5. Ik heb geen kinderen, maar ik heb een hond.
+6. Dat is niet mijn vork.
+7. 's Ochtends eet ik niet, ik drink alleen koffie.
+8. Ik spreek geen Duits.
+9. Wij hebben niet genoeg boter voor de taart.
+10. Zij koopt vlees niet bij de bakker, maar bij de slager.
+11. De kinderen gaan vandaag niet naar school, want zij zijn ziek.
+12. Dit huis heeft geen balkon.
+13. Ik ken die vrouw niet.
+14. Hij gaat morgen niet werken.
+15. Niet alle studenten komen op tijd.
 
 ### 4
 
-1. Zij eten nooit vis.
-2. De kip loopt buiten.
-3. De koffie is niet lekker.
-4. Ik vind Nederlands moeilijk.
-5. Mateo koopt bloemkool op de markt.
-6. Ik eet altijd brood met kaas.
-7. Het kind wil een boterham met worst.
-8. De rijst moet acht minuten koken.
-9. Ik drink meestal water.
+1. Ik eet geen vlees, maar ik eet wel vis.
+2. Hij heeft geen brood, dus hij gaat naar de bakker.
+3. Wij zijn niet moe, wij zijn vrolijk.
+4. Dat is niet haar glas, dat is mijn glas.
+5. Zij koopt geen groenten in de supermarkt.
+6. Ik heb niet genoeg geld voor een nieuwe fiets.
+7. Mijn buurman woont niet in een dorp.
+8. Er is geen oven in deze kleine keuken.
+9. Ik houd niet van koffie met suiker.
+10. Zij eten 's middags niet.
+11. Max gaat vandaag niet naar de markt.
+12. Ik ken die straat niet.
+13. Zij is geen Engelse, zij is Spaanse.
+14. De kinderen mogen niet buiten spelen, want het regent.
+15. Ik kan het mes niet vinden.
 
 ### 5
 
-1. Waar staan de borden?
-2. Wanneer gaan zij naar de markt?
-3. Wie doet de boodschappen?
-4. Hoeveel appels wil zij?
-5. Wat eet Edwin?
-6. Wie maakt lekkere koekjes?
-7. Waar koopt Raid vlees?
-8. Wie maken soep?
+1. Ik drink geen melk bij het ontbijt.
+2. Wij hebben geen oven.
+3. De appeltaart is niet lekker.
+4. Hij koopt geen brood bij de bakker.
+5. Zij spreekt geen Italiaans.
+6. Ik ken die slager niet.
+7. Jullie hebben niet genoeg suiker.
+8. Marnix maakt geen appeltaart.
+9. Dat is niet mijn bord.
+10. Ik houd niet van vis.
+11. Zij woont niet in het centrum.
+12. Wij eten 's avonds geen soep.
+13. Het kind heeft geen lepel.
+14. Ik ga morgen geen boodschappen doen.
+15. Ik ben geen 30.
 
 ### 6
 
-Mogelijke antwoorden / Возможные ответы:
-
-1. Ik koop vlees bij de slager.
-2. Ik doe boodschappen in de supermarkt.
-3. Hij koopt brood bij de bakker.
-4. Bij de bakker koop je brood en koekjes.
-5. Ik koop de appels op de markt.
-6. Je kunt in de supermarkt veel dingen kopen.
-7. Op de markt zijn de groenten lekker en goedkoop.
+1. Eet jij brood met kaas bij het ontbijt?
+2. Koopt Julia appels op de markt?
+3. Staat de oven aan?
+4. Hebben jullie genoeg eieren?
+5. Houdt hij van appeltaart?
+6. Gaat zij naar de slager?
+7. Drink jij koffie met melk en suiker?
+8. Doet Max boodschappen in de supermarkt?
+9. Wat eet jij graag bij het ontbijt?
+10. Waar koopt Julia vlees?
+11. Hoeveel gram boter heb je nodig?
+12. Wie maakt de appeltaart?
+13. Wanneer eten jullie het avondeten?
+14. Hoe vind jij de appeltaart?
