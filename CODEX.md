@@ -104,7 +104,7 @@ When adding to `WORDS.md`:
 
 Use this section as the complete template for each new set, including sets requested separately. The user may request a shorter set or a narrower topic. Base the content on the lesson source, the summary and material learned by that point. Use earlier lessons as evidence of what has been taught. When creating practice for an earlier stage, omit constructions that have not yet been taught and number the applicable sections consecutively.
 
-Write learner-facing headings, instructions, cues and explanations in Russian, and target forms and answers in Dutch. Use Russian-to-Dutch translation for sentence production. Include an English-to-Dutch section only on explicit request; its sentences must differ in meaning from those in the Russian section. Keep tasks accessible to beginners, mix current and previously taught vocabulary across the set, and provide a numbered answer for each item and sub-item. Use closed tasks that the learner can check independently.
+Write learner-facing headings, instructions, cues and explanations in Russian, and target forms and answers in Dutch. Use Russian-to-Dutch translation for sentence production. Include an English-to-Dutch section only on explicit request; its sentences must differ in meaning from those in the Russian section. Target A2 with familiar words and sentence patterns. When practising inversion after an initial adverbial, prefer a simple verb–subject sequence unless the exercise specifically practises another construction. Mix current and previously taught vocabulary across the set and provide a numbered answer for each item and sub-item. Use closed tasks that the learner can check independently.
 
 ### Section order and size
 

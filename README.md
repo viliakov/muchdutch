@@ -1,4 +1,4 @@
-# MuchDutch A0
+# MuchDutch A2
 
 Personal Dutch learning repo for turning lesson screenshots into structured notes, vocabulary, and homework.
 

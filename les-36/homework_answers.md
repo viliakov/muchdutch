@@ -74,7 +74,7 @@
 
 ## 3. Перевод с русского
 
-1. 's Avonds staat er op dit spoor een trein naar Groningen. Также без er: ’s Avonds staat op dit spoor een trein naar Groningen.
+1. ’s Avonds vertrekt de trein naar Groningen van dit spoor.
 2. Ik ben al gewend aan lange lessen.
 3. Door het raam ziet het meisje een plat landschap.
 4. De oom geeft zijn/z’n nicht een broodje met kaas.
