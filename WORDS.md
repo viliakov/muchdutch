@@ -134,9 +134,9 @@ Columns:
 | de overgrootmoeder | great-grandmother | прабабушка | noun | les-03 | family |
 | de auto | car | машина | noun | les-03 | possession example |
 | de hond | dog | собака | noun | les-03 | possession example |
-| veel | much, many | много | quantity | les-03 | `veel huiswerk` |
-| geen | no, not any | нет, никакой | negation | les-03, les-08, les-13 | [les-03] `geen hond`, `geen kinderen` [les-08] with nouns [les-13] `geen` = `niet een`; before indefinite nouns; also in les-03, les-08 |
-| elkaar | each other | друг друга | pronoun | les-03 | speaking prompt |
+| veel | much, many | много | quantity | les-03, les-37 | `veel huiswerk` |
+| geen | no, not any | нет, никакой | negation | les-03, les-08, les-13, les-37 | [les-03] `geen hond`, `geen kinderen` [les-08] with nouns [les-13] `geen` = `niet een`; before indefinite nouns; also in les-03, les-08 |
+| elkaar | each other | друг друга | pronoun | les-03, les-37 | speaking prompt |
 | stellen | to ask, to put | задавать, ставить | verb | les-03 | `vragen stellen` |
 | het verhaal | story | история, рассказ | noun | les-03 | writing homework |
 | kort | short | короткий | adjective | les-03 | `een kort verhaal` |
@@ -166,7 +166,7 @@ Columns:
 | of | or | или | conjunction | les-04, les-10, les-35 | [les-04] `koffie of thee` [les-10] also appeared in les-04 |
 | voor | for | для | preposition | les-04 | `voor Ton` |
 | zitten | to sit | сидеть | verb | les-04 | dialogue: people sit in the kitchen |
-| nemen | to take | брать | verb | les-04, les-27, les-36 | drink/choice context Повторение les-27: nam / namen; heeft genomen. |
+| nemen | to take | брать | verb | les-04, les-27, les-36, les-37 | drink/choice context Повторение les-27: nam / namen; heeft genomen. |
 | typen | to type | печатать | verb | les-04 | present tense practice |
 | begrijpen | to understand | понимать | verb | les-04, les-30 | present tense practice [les-30] begreep / begrepen; heeft begrepen. |
 | werken | to work | работать | verb | les-04 | question practice |
@@ -232,7 +232,7 @@ Columns:
 | augustus | August | август | noun | les-05 | month |
 | september | September | сентябрь | noun | les-05 | month |
 | oktober | October | октябрь | noun | les-05 | month |
-| november | November | ноябрь | noun | les-05 | month |
+| november | November | ноябрь | noun | les-05, les-37 | month [les-37] in november |
 | december | December | декабрь | noun | les-05 | month |
 | eerste | first | первый | ordinal | les-05, les-11, les-29 | [les-05] dates/order [les-11] 1e; also in les-05 |
 | laatste | last | последний | adjective | les-05, les-29 | dates/order |
@@ -276,7 +276,7 @@ Columns:
 | dichtbij | nearby | близко | adverb | les-06 | demonstratives |
 | ver weg | far away | далеко | phrase | les-06 | demonstratives |
 | wonen | to live | жить | verb | les-06, les-24 | present tense Perfectum: heeft gewoond; продолжающееся действие: Ik woon al vier jaar in Amsterdam. |
-| spreken | to speak | говорить | verb | les-06, les-36 | present tense [les-36] Sprak / spraken; heeft gesproken. |
+| spreken | to speak | говорить | verb | les-06, les-36, les-37 | present tense [les-36] Sprak / spraken; heeft gesproken. [les-37] met iemand spreken |
 | gaan | to go | идти, ехать | verb | les-06, les-28, les-29 | present tense [les-28] ging / gingen; is gegaan. Wij zijn naar de markt gegaan. |
 | luisteren | to listen | слушать | verb | les-06, les-24 | present tense Perfectum: heeft geluisterd. |
 | schrijven | to write | писать | verb | les-06, les-30 | present tense [les-30] schreef / schreven; heeft geschreven. |
@@ -336,7 +336,7 @@ Columns:
 | na het werk | after work | после работы | phrase | les-07 | time expression |
 | in de woonkamer | in the living room | в гостиной | place phrase | les-07 | inversion practice |
 | druk | busy | занятый, насыщенный | adjective | les-07 | een drukke dag |
-| de afspraak | appointment | встреча | noun | les-07 | een afspraak met vrienden |
+| de afspraak | appointment | встреча | noun | les-07, les-37 | een afspraak met vrienden |
 
 ## Les 8
 
@@ -379,7 +379,7 @@ Columns:
 | boven | upstairs, above | наверху | adverb | les-08 | location |
 | beneden | downstairs, below | внизу | adverb | les-08 | location |
 | de buurman | male neighbor | сосед | noun | les-08 | listening vocabulary |
-| de buurvrouw | female neighbor | соседка | noun | les-08 | listening vocabulary |
+| de buurvrouw | female neighbor | соседка | noun | les-08, les-37 | listening vocabulary |
 | de buren | neighbors | соседи | noun | les-08 | listening vocabulary |
 | de straat | street | улица | noun | les-08 | listening vocabulary |
 | voorstellen | to introduce | представлять | verb | les-08 | listening vocabulary |
@@ -404,7 +404,7 @@ Columns:
 | het aantal | number, amount | количество | noun | les-09 | `aantal kamers` |
 | de plaats | place, town | место, населенный пункт | noun | les-09 | advertisement field |
 | nu | now | сейчас | adverb | les-09 | time expression |
-| druk | busy | шумный, оживленный | adjective | les-09 | `een drukke stad`; also in les-07 |
+| druk | busy | шумный, оживленный | adjective | les-09, les-37 | `een drukke stad`; also in les-07 [les-37] een drukke straat |
 | rustig | quiet, calm | тихий, спокойный; спокойно | adjective/adverb | les-09, les-22 | `een rustig dorp`; `rustig lezen` — спокойно читать |
 | het appartement | apartment | квартира | noun | les-09 | woningtype |
 | de bungalow | bungalow | бунгало | noun | les-09 | woningtype |
@@ -445,7 +445,7 @@ Columns:
 | moeten | must, to have to | надо, должен | verb | les-10 | modal; sing. `moet`, plural `moeten` |
 | moet | must, has to | надо, должен | verb form | les-10 | singular form of `moeten` |
 | moeten (plural form) | must, have to | должны | verb form | les-10 | wij/jullie/zij moeten |
-| hoeven | to need to | быть нужным | verb | les-10, les-34 | negative of `moeten`: `hoeft ... niet` [les-34] ik hoef; jij/hij/u hoeft; wij/jullie/zij hoeven; hoeft niet te werken; hoeft geen kaartje te kopen |
+| hoeven | to need to | быть нужным | verb | les-10, les-34, les-37 | negative of `moeten`: `hoeft ... niet` [les-34] ik hoef; jij/hij/u hoeft; wij/jullie/zij hoeven; hoeft niet te werken; hoeft geen kaartje te kopen |
 | hoeft niet | does not have to | не обязательно, не нужно | phrase | les-10 | `Nee, dat hoeft niet.` |
 | en | and | и, а | conjunction | les-10 | straight word order |
 | want | because, for | потому что | conjunction | les-10, les-35 | straight word order |
@@ -457,7 +457,7 @@ Columns:
 | verhuizen | to move (house) | переезжать | verb | les-10, les-28 | housing [les-28] verhuisde / verhuisden; is verhuisd. Mijn vrienden zijn naar Leiden verhuisd. |
 | delen | to share | делить, делиться | verb | les-10 | `we delen een tuin` |
 | betalen | to pay | платить | verb | les-10 | `huur betalen` |
-| meenemen | to take along | брать с собой | verb | les-10, les-21, les-27, les-32, les-36 | separable: `ik neem ... mee` Повторение les-27: nam mee / namen mee; heeft meegenomen. |
+| meenemen | to take along | брать с собой | verb | les-10, les-21, les-27, les-32, les-36, les-37 | separable: `ik neem ... mee` Повторение les-27: nam mee / namen mee; heeft meegenomen. |
 | invullen | to fill in | заполнять | verb | les-10 | `een formulier invullen` |
 | poetsen | to brush, to polish | чистить | verb | les-10, les-23 | `tanden poetsen` Poets je tanden! — Почисти зубы! |
 | koken | to cook | готовить | verb | les-10 | in de keuken |
@@ -482,10 +482,10 @@ Columns:
 | de spiegel | mirror | зеркало | noun | les-10 | furniture |
 | de wasmachine | washing machine | стиральная машина | noun | les-10 | appliance |
 | de koelkast | fridge | холодильник | noun | les-10 | appliance |
-| vroeg | early | рано | adjective/adverb | les-10 | `vroeg opstaan` |
+| vroeg | early | рано | adjective/adverb | les-10, les-37 | `vroeg opstaan` |
 | ziek | sick, ill | больной | adjective | les-10 | `ik ben ziek` |
 | kapot | broken | сломанный | adjective | les-10 | `de auto is kapot` |
-| te laat | too late | слишком поздно | phrase | les-10 | `te laat op mijn werk` |
+| te laat | too late | слишком поздно | phrase | les-10, les-37 | `te laat op mijn werk` |
 | de hoofdpijn | headache | головная боль | noun | les-10, les-23 | `ik heb hoofdpijn` Обычно без артикля: Ik heb hoofdpijn. |
 
 ## Les 11
@@ -555,7 +555,7 @@ Columns:
 | bang | afraid, scared | испуганный | adjective | les-11 | mood/character |
 | de nieuwbouwwijk | new-build district | новый жилой район | noun | les-11 | neighborhood |
 | de buitenwijk | suburb | пригород, окраина | noun | les-11 | neighborhood |
-| het centrum | center, downtown | центр | noun | les-11, les-35 | neighborhood |
+| het centrum | center, downtown | центр | noun | les-11, les-35, les-37 | neighborhood |
 | het platteland | countryside | сельская местность | noun | les-11, les-31 | `op het platteland` |
 | de rand | edge | край | noun | les-11 | `aan de rand van de stad` |
 | het bos | forest | лес | noun | les-11 | place |
@@ -604,7 +604,7 @@ Columns:
 | de pan | pan, pot | кастрюля | noun | les-12 | kitchen |
 | snijden | to cut, to slice | резать | verb | les-12, les-30 | `het vlees snijden met een mes` [les-30] sneed / sneden; heeft gesneden. |
 | roepen | to call, to shout | звать, кричать | verb | les-12 | `Julia roept de kinderen.` |
-| krijgen | to get, to receive | получать | verb | les-12, les-27, les-30 | `Ze krijgen ijs.` Повторение les-27: kreeg / kregen; heeft gekregen. |
+| krijgen | to get, to receive | получать | verb | les-12, les-27, les-30, les-37 | `Ze krijgen ijs.` Повторение les-27: kreeg / kregen; heeft gekregen. |
 | lekker | tasty, nice | вкусный | adjective | les-12 | `lekker vinden` = to like (food) |
 | lekker vinden | to like (the taste of) | нравиться (о еде) | phrase | les-12 | `Ik vind kip lekker.` |
 | eet smakelijk | enjoy your meal | приятного аппетита | phrase | les-12 | said before eating |
@@ -622,9 +622,9 @@ Columns:
 | eerder | earlier | раньше | adverb | les-12 | `eerder naar huis` |
 | later | later | позже | adverb | les-12 | `wat later komen` |
 | de leraar | teacher | учитель | noun | les-12 | school |
-| het feest | party | праздник, вечеринка | noun | les-12 | plural `de feesten`; repeated in les-19 |
+| het feest | party | праздник, вечеринка | noun | les-12, les-37 | plural `de feesten`; repeated in les-19 |
 | de dokter | doctor | врач | noun | les-12 | `van de dokter` = doctor's orders |
-| het cadeau | present, gift | подарок | noun | les-12 | `een cadeau voor jou`; diminutive `het cadeautje` |
+| het cadeau | present, gift | подарок | noun | les-12, les-37 | `een cadeau voor jou`; diminutive `het cadeautje` [les-37] de cadeaus |
 | de vriendin | female friend, girlfriend | подруга | noun | les-12 | plural `de vriendinnen` |
 | de kassa | checkout, till | касса | noun | les-12 | shop |
 | de klant | customer | клиент, покупатель | noun | les-12 | shop |
@@ -667,7 +667,7 @@ Columns:
 | de gram | gram | грамм | noun | les-13 | `150 gram boter` |
 | de snor | moustache | усы | noun | les-13, les-18, les-21 | `een snor hebben` |
 | de zon | sun | солнце | noun | les-13 | `Ik zie de zon niet.` |
-| op tijd | on time | вовремя | phrase | les-13, les-35 | `Niet alle studenten komen op tijd.` |
+| op tijd | on time | вовремя | phrase | les-13, les-35, les-37 | `Niet alle studenten komen op tijd.` |
 | 's morgens | in the morning | утром | time adverb | les-13 | variant of `'s ochtends` (les-12) |
 | het broodje | roll, bread bun | булочка | noun | les-13 | plural `de broodjes` |
 | de boter | butter | масло | noun | les-13, les-36 | ontbijt |
@@ -678,7 +678,7 @@ Columns:
 | de muesli | muesli | мюсли | noun | les-13 | ontbijt |
 | de havermout | oatmeal, porridge oats | овсянка | noun | les-13 | ontbijt |
 | de yoghurt | yoghurt | йогурт | noun | les-13, les-36 | ontbijt |
-| het ei | egg | яйцо | noun | les-13, les-15 | [les-13] plural `de eieren` [les-15] irregular plural `de eieren` |
+| het ei | egg | яйцо | noun | les-13, les-15, les-37 | [les-13] plural `de eieren` [les-15] irregular plural `de eieren` |
 | de eieren | eggs | яйца | noun | les-13 | irregular plural of `het ei` |
 | het ontbijtkoek | breakfast cake, spiced cake | пряный кекс | noun | les-13 | typical Dutch breakfast item |
 | de halfvolle melk | semi-skimmed milk | молоко 1,5% | noun | les-13 | supermarket label |
@@ -690,8 +690,8 @@ Columns:
 | de bakker | baker, bakery | булочник, булочная | noun | les-13 | `brood bij de bakker` |
 | de slager | butcher, butcher's shop | мясник, мясная лавка | noun | les-13 | `vlees bij de slager` |
 | het ding | thing | вещь | noun | les-13 | plural `de dingen`: `veel dingen kopen` |
-| waar (2) | true | правда, верно | adjective | les-13 | listening task `waar / niet waar`; in les-03 `waar` = where |
-| niet waar | not true, false | неправда | phrase | les-13 | listening task |
+| waar (2) | true | правда, верно | adjective | les-13, les-37 | listening task `waar / niet waar`; in les-03 `waar` = where |
+| niet waar | not true, false | неправда | phrase | les-13, les-37 | listening task |
 | Assen | Assen | Ассен | place | les-13 | city, grammar example |
 | Amsterdam | Amsterdam | Амстердам | place | les-13 | city, grammar example |
 | dansen | to dance | танцевать | verb | les-13, les-24 | huiswerk: `Ik kan niet dansen.` Perfectum: heeft gedanst. |
@@ -707,7 +707,7 @@ Columns:
 | de test | test | тест | noun | les-13 | school |
 | uitdoen | to switch off, to take off | выключать, снимать | verb | les-13 | separable: `de telefoon uitdoen` |
 | de baan | job | работа | noun | les-13 | `een leuke baan` |
-| trouwen | to marry | жениться, выходить замуж | verb | les-13, les-28 | `Wij gaan trouwen.`; repeated in les-19 [les-28] trouwde / trouwden; is getrouwd. Mijn broer is in mei getrouwd. Здесь вступать в брак; кого-либо венчать/регистрировать: hebben. |
+| trouwen | to marry | жениться, выходить замуж | verb | les-13, les-28, les-37 | `Wij gaan trouwen.`; repeated in les-19 [les-28] trouwde / trouwden; is getrouwd. Mijn broer is in mei getrouwd. Здесь вступать в брак; кого-либо венчать/регистрировать: hebben. [les-37] met elkaar trouwen |
 | het trouwfeest | wedding party | свадьба | noun | les-13 | event |
 | de gast | guest | гость | noun | les-13 | plural `de gasten` |
 | welkom | welcome | добро пожаловать | adjective | les-13 | `gasten zijn welkom`; also in les-06 |
@@ -819,7 +819,7 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| het meervoud | plural | множественное число | noun | les-15, les-34 | grammar term [les-34] Повторение прежних уроков |
+| het meervoud | plural | множественное число | noun | les-15, les-34, les-37 | grammar term [les-34] Повторение прежних уроков |
 | het enkelvoud | singular | единственное число | noun | les-15 | grammar term |
 | de klinker | vowel | гласная | noun | les-15 | `korte klinker` / `lange klinker` |
 | de medeklinker | consonant | согласная | noun | les-15 | doubling rule |
@@ -855,7 +855,7 @@ Columns:
 | de moraal | moral (of a story) | мораль | noun | les-15 | `de moraal van dit verhaal` |
 | de uitnodiging | invitation | приглашение | noun | les-15 | luisteren |
 | een feestje geven | to throw a party | устраивать вечеринку | phrase | les-15 | luisteren |
-| het cadeautje | small present | подарочек | noun | les-15 | diminutive of `het cadeau` |
+| het cadeautje | small present | подарочек | noun | les-15, les-37 | diminutive of `het cadeau` [les-37] de cadeautjes |
 | ruilen | to swap, to exchange | обменивать | verb | les-15, les-24 | luisteren Perfectum: heeft geruild. |
 | lijken op | to resemble, to look like | быть похожим на | verb | les-15 | `Hij lijkt op zijn vader.` |
 | missen | to miss (someone/something) | скучать по | verb | les-15 | `Ik mis mijn familie.` |
@@ -910,16 +910,16 @@ Columns:
 | het talenpracticum | language lab | лингафонный кабинет | noun | les-15 | `In het talenpracticum mag je niet eten.` |
 | het zwemdiploma | swimming certificate | диплом по плаванию | noun | les-15 | plural `de zwemdiploma's` |
 | de alcohol | alcohol | алкоголь | noun | les-15 | `geen alcohol drinken` |
-| dicht | closed, shut | закрытый | adjective | les-15, les-20 | `De winkel is dicht.`; `gaat ... dicht` |
+| dicht | closed, shut | закрытый | adjective | les-15, les-20, les-37 | `De winkel is dicht.`; `gaat ... dicht` |
 | Pardon | Excuse me | Извините | phrase | les-15 | `Pardon, mag ik u iets vragen?` |
 | het verslag | report | отчёт, доклад | noun | les-15 | plural `de verslagen` |
 | de moeilijkheid | difficulty | трудность | noun | les-15 | plural `de moeilijkheden` |
 | het gat | hole | дыра | noun | les-15 | plural `de gaten` (lange klank) |
 | het slot | lock, castle, ending | замок | noun | les-15 | plural `de sloten`; `op slot` |
-| het lied | song | песня | noun | les-15, les-35 | plural `de liederen` [les-35] Также уменьшительное het liedje; мн. ч. de liedjes. |
+| het lied | song | песня | noun | les-15, les-35, les-37 | plural `de liederen` [les-35] Также уменьшительное het liedje; мн. ч. de liedjes. |
 | het café | café, pub | кафе, бар | noun | les-15 | plural `de cafés` |
 | het restaurant | restaurant | ресторан | noun | les-15 | plural `de restaurants` |
-| het bord | plate, board | тарелка, доска | noun | les-15 | plural `de borden` |
+| het bord | plate, board | тарелка, доска | noun | les-15, les-37 | plural `de borden` [les-37] Посуда; een bord breken. |
 | de plaat | picture, sheet, record | картинка, пластинка | noun | les-15 | plural `de platen` |
 | het meubel | piece of furniture | предмет мебели | noun | les-15 | plural `de meubels` |
 | de assistent | assistant | ассистент | noun | les-15 | plural `de assistenten` |
@@ -948,7 +948,7 @@ Columns:
 
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
-| de verjaardag | birthday | день рождения | noun | les-16 | `op mijn verjaardag`; also in les-15 |
+| de verjaardag | birthday | день рождения | noun | les-16, les-37 | `op mijn verjaardag`; also in les-15 |
 | het feestje | party | праздник, вечеринка | noun | les-16 | plural `de feestjes`; `een feestje geven` |
 | uit eten | to eat out | ужинать в кафе/ресторане | phrase | les-16 | `Wij gaan uit eten.` |
 | kletsen | to chat | болтать | verb | les-16 | `We kletsen graag.` |
@@ -1000,7 +1000,7 @@ Columns:
 | de voorkeur geven aan | to prefer | отдавать предпочтение | verb phrase | les-17 | `Ik geef de voorkeur aan vis.` |
 | de bulgur | bulgur | булгур | noun | les-17 | carbohydrate base |
 | de koolgroente | brassica, cabbage vegetable | капустный овощ | noun | les-17 | plural `de koolgroenten` |
-| de winter | winter | зима | noun | les-17 | listening vocabulary |
+| de winter | winter | зима | noun | les-17, les-37 | listening vocabulary |
 | de lente | spring | весна | noun | les-17 | listening vocabulary |
 | de zomer | summer | лето | noun | les-17 | listening vocabulary |
 | de herfst | autumn, fall | осень | noun | les-17 | listening vocabulary |
@@ -1030,14 +1030,14 @@ Columns:
 | het T-shirt | T-shirt | футболка | noun | les-18 | plural `de T-shirts` |
 | de blouse | blouse | блузка | noun | les-18 | plural `de blouses` |
 | de spijkerbroek | jeans | джинсы | noun | les-18 | singular in Dutch |
-| de schoen | shoe | туфля, ботинок | noun | les-18 | plural `de schoenen` |
+| de schoen | shoe | туфля, ботинок | noun | les-18, les-37 | plural `de schoenen` |
 | de sneaker | trainer, sneaker | кроссовок | noun | les-18 | plural `de sneakers` |
 | de jurk | dress | платье | noun | les-18 | plural `de jurken` |
 | de laars | boot | сапог | noun | les-18 | plural `de laarzen` |
-| de kleren | clothes | одежда | noun | les-18 | plural; also `de kleding` |
-| dragen | to wear, carry | носить | verb | les-18, les-36 | `ik draag`, `hij draagt` [les-36] В диалоге — нести багаж. |
+| de kleren | clothes | одежда | noun | les-18, les-37 | plural; also `de kleding` |
+| dragen | to wear, carry | носить | verb | les-18, les-36, les-37 | `ik draag`, `hij draagt` [les-36] В диалоге — нести багаж. [les-37] oranje kleren dragen |
 | aanhebben | to be wearing | быть одетым в | separable verb | les-18 | `ik heb een trui aan` |
-| vrij | free, off work | свободный, выходной | adjective | les-18 | `vandaag vrij zijn` |
+| vrij | free, off work | свободный, выходной | adjective | les-18, les-37 | `vandaag vrij zijn` |
 | de hoed | hat | шляпа | noun | les-18 | `op je hoofd` |
 | de bril | glasses | очки | noun | les-18 | singular in Dutch; `op je neus` |
 | de oorbel | earring | серьга | noun | les-18 | plural `de oorbellen` |
@@ -1126,13 +1126,13 @@ Columns:
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
 | open | open | открытый | adjective | les-20 | `De winkel is open.`; `gaat ... open` |
-| gesloten | closed | закрытый | adjective | les-20 | synonym of `dicht` for a shop |
+| gesloten | closed | закрытый | adjective | les-20, les-37 | synonym of `dicht` for a shop |
 | de openingstijden | opening hours | часы работы | plural noun | les-20 | singular `de openingstijd` |
-| de feestdag | public holiday | праздничный день | noun | les-20 | plural `de feestdagen` |
+| de feestdag | public holiday | праздничный день | noun | les-20, les-37 | plural `de feestdagen` |
 | online | online | онлайн | adjective/adverb | les-20 | `online bestellen` |
 | behalve | except | кроме | preposition/conjunction | les-20 | `behalve op zondag` |
 | toch | nevertheless, still | всё-таки, всё равно | adverb | les-20 | `Ik wil toch iets kopen.` |
-| de spullen | things, belongings, goods | вещи, товары | plural noun | les-20 | plural; `de spullen ophalen` |
+| de spullen | things, belongings, goods | вещи, товары | plural noun | les-20, les-37 | plural; `de spullen ophalen` |
 | de bestelling | order | заказ | noun | les-20 | plural `de bestellingen` |
 | de bezorger | delivery driver | курьер, доставщик | noun | les-20 | `De bezorger brengt de bestelling.` |
 | het afhaalpunt | collection point | пункт выдачи | noun | les-20 | plural `de afhaalpunten` |
@@ -1210,11 +1210,11 @@ Columns:
 | Je haar zit leuk! | Your hair looks nice! | У тебя классно уложены волосы! | phrase | les-21 | compliment |
 | Die kleur staat je goed. | That colour suits you. | Тебе идёт этот цвет. | phrase | les-21 | compliment |
 | Wat een mooie outfit! | What a beautiful outfit! | Какой красивый образ! | phrase | les-21 | compliment |
-| het scheidbare werkwoord | separable verb | разделяемый глагол | grammar noun | les-21 | prefix separates in a main clause |
+| het scheidbare werkwoord | separable verb | разделяемый глагол | grammar noun | les-21, les-37 | prefix separates in a main clause |
 | aankomen | to arrive | прибывать | separable verb | les-21, les-27, les-28, les-30, les-32 | `ik kom ... aan` Повторение les-27: kwam aan / kwamen aan; is aangekomen. [les-28] kwam aan / kwamen aan; is aangekomen. Wij zijn in Utrecht aangekomen. |
 | omdraaien | to turn over | переворачивать | separable verb | les-21 | `hij draait ... om` |
 | opsturen | to send | отправлять | separable verb | les-21, les-24 | `ik stuur ... op` Perfectum: heeft opgestuurd. |
-| oversteken | to cross | переходить | separable verb | les-21, les-36 | `het kind steekt ... over` [les-36] Stak over / staken over; is de straat overgestoken. |
+| oversteken | to cross | переходить | separable verb | les-21, les-36, les-37 | `het kind steekt ... over` [les-36] Stak over / staken over; is de straat overgestoken. |
 | uitleggen | to explain | объяснять | separable verb | les-21 | `de docent legt ... uit` |
 | de klacht | complaint, symptom | жалоба, симптом | noun | les-21, les-32 | plural `de klachten` |
 | de keel | throat | горло | noun | les-21 | `last van de keel` |
@@ -1349,7 +1349,7 @@ Columns:
 | daar | — | там, туда | adverb | les-24, les-33, les-35 | Ik heb daar gewoond. |
 | de keer | — | раз | noun | les-24 | twee keer per dag; мн. ч.: de keren, после числительного обычно keer. |
 | dagelijks | — | ежедневно | adjective/adverb | les-24, les-31 | dagelijks een schone zakdoek gebruiken. |
-| sommige | — | некоторые | determiner | les-24 | sommige medicijnen; некоторые из группы. |
+| sommige | — | некоторые | determiner | les-24, les-37 | sommige medicijnen; некоторые из группы. |
 | de loopneus | — | насморк, текущий нос | noun | les-24 | een loopneus hebben. |
 | een verstopte neus | — | заложенный нос | phrase | les-24 | Ik heb een verstopte neus. |
 | lichte koorts | — | небольшая температура | phrase | les-24 | lichte koorts hebben; без артикля. |
@@ -1360,7 +1360,7 @@ Columns:
 | de warme drank | — | тёплый напиток | phrase | les-24 | Мн. ч.: de warme dranken. |
 | rust nodig hebben | — | нуждаться в отдыхе | phrase | les-24 | Ik heb wat rust nodig. |
 | uitrusten | — | отдыхать | separable verb | les-24, les-28, les-35 | ik rust uit; heeft uitgerust; Rust goed uit! [les-28] rustte uit / rustten uit; heeft uitgerust. |
-| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24, les-28, les-29, les-30, les-32, les-34, les-36 | hebben / zijn + voltooid deelwoord. [les-34] is begonnen, heeft gedronken |
+| het perfectum | — | перфект, завершённое прошедшее время | grammar term | les-24, les-28, les-29, les-30, les-32, les-34, les-36, les-37 | hebben / zijn + voltooid deelwoord. [les-34] is begonnen, heeft gedronken |
 | het voltooid deelwoord | — | причастие прошедшего времени | grammar term | les-24 | Мн. ч.: de voltooide deelwoorden; gewerkt, ingenomen. |
 | al | — | уже | adverb | les-24 | Heb je al gegeten? |
 | net | — | только что | adverb | les-24 | Ik heb net gebeld. |
@@ -1369,9 +1369,9 @@ Columns:
 | worden | — | становиться | verb | les-24, les-27, les-28, les-29 | is geworden; Hij is ziek geworden. Повторение les-27: werd / werden; is geworden. [les-28] werd / werden; is geworden. De kinderen zijn moe geworden. |
 | leven | — | жить, быть живым | verb | les-24, les-25 | heeft geleefd; v в инфинитиве → -d. Imperfectum: leefde / leefden; учитываем v инфинитива. |
 | beloven | — | обещать | verb | les-24 | heeft beloofd; без дополнительного ge-. |
-| vieren | — | праздновать | verb | les-24 | heeft gevierd. |
+| vieren | — | праздновать | verb | les-24, les-37 | heeft gevierd. [les-37] een feest vieren |
 | de wedstrijd | — | матч, соревнование | noun | les-24 | Мн. ч.: de wedstrijden. |
-| sturen | — | отправлять | verb | les-24 | heeft gestuurd; een e-mail sturen. |
+| sturen | — | отправлять | verb | les-24, les-37 | heeft gestuurd; een e-mail sturen. [les-37] een bericht sturen |
 | smaken | — | быть на вкус | verb | les-24 | heeft gesmaakt; lekker smaken. |
 | rennen | — | бегать | verb | les-24, les-30 | heeft gerend — действие; is naar huis gerend — направление. |
 | drukken | — | нажимать | verb | les-24 | heeft gedrukt; op de knop drukken. |
@@ -1385,7 +1385,7 @@ Columns:
 | vroeger | — | раньше, в прошлом | adverb | les-25, les-35 | Vroeger woonde ik hier. Не путать со сравнительной степенью vroeg: раньше по времени. |
 | toen | — | тогда; когда (в прошлом) | adverb/conjunction | les-25, les-36 | Toen was ik thuis. Toen ik klein was, woonde ik hier. [les-36] Наречие последовательности (en toen), наречие времени и временной союз. |
 | geleden | — | назад (о времени) | adverb | les-25, les-35 | twee jaar geleden — два года назад; lang geleden — давно. |
-| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25, les-28, les-30, les-32, les-34, les-36 | werkte / werkten; was / waren. Может описывать и завершённые события. [les-34] begon, dronk |
+| het imperfectum | — | простое прошедшее время, имперфект | grammar term | les-25, les-28, les-30, les-32, les-34, les-36, les-37 | werkte / werkten; was / waren. Может описывать и завершённые события. [les-34] begon, dronk |
 
 ## Les 26
 
@@ -1397,7 +1397,7 @@ Columns:
 | het station | — | вокзал, станция | noun | les-26, les-32 | Мн. ч.: de stations; op het station. |
 | de trein | — | поезд | noun | les-26, les-32 | Мн. ч.: de treinen; met de trein. |
 | het vliegtuig | — | самолёт | noun | les-26, les-31 | Мн. ч.: de vliegtuigen; met het vliegtuig. |
-| de boot | — | лодка, судно | noun | les-26 | Мн. ч.: de boten; на скриншоте изображено большое судно. |
+| de boot | — | лодка, судно | noun | les-26, les-37 | Мн. ч.: de boten; на скриншоте изображено большое судно. |
 | de bushalte | — | автобусная остановка | noun | les-26, les-34 | Мн. ч.: de bushaltes; bij de bushalte. [les-34] Мн. ч.: de bushaltes; bij de bushalte |
 | de luchthaven | — | аэропорт | noun | les-26 | Мн. ч.: de luchthavens. |
 | laat | — | поздно; поздний | adjective/adverb | les-26, les-27 | te laat komen — опаздывать; kwam te laat; is te laat gekomen. Повторение les-27: te laat komen — опаздывать; kwam / kwamen te laat; is te laat gekomen. |
@@ -1465,7 +1465,7 @@ Columns:
 | rijden | — | ехать; водить транспорт | verb | les-27, les-30 | reed / reden; heeft een uur gereden — деятельность; is naar huis gereden — направление. [les-30] reed / reden; is naar huis gereden / heeft gereden. |
 | de snelweg | — | автомагистраль | noun | les-27 | Мн. ч.: de snelwegen; op de snelweg. |
 | het fietspad | — | велосипедная дорожка | noun | les-27 | Мн. ч.: de fietspaden; op het fietspad. |
-| het zebrapad | — | пешеходный переход, зебра | noun | les-27, les-34 | Мн. ч.: de zebrapaden; bij het zebrapad. [les-34] Мн. ч.: de zebrapaden |
+| het zebrapad | — | пешеходный переход, зебра | noun | les-27, les-34, les-37 | Мн. ч.: de zebrapaden; bij het zebrapad. [les-34] Мн. ч.: de zebrapaden |
 | het stoplicht | — | светофор | noun | les-27, les-34 | Мн. ч.: de stoplichten; voor het stoplicht stoppen. [les-34] Мн. ч.: de stoplichten |
 | de regel | — | правило | noun | les-27, les-35 | Мн. ч.: de regels; verkeersregels — правила дорожного движения. |
 | stoppen | — | останавливаться; прекращать | verb | les-27 | stopte / stopten; de bus is gestopt; stoppen met werken. |
@@ -1482,7 +1482,7 @@ Columns:
 | Vertel je eigen verhaal. | — | Расскажите свою историю. | instruction | les-27 | Формулировка на скриншоте 1. |
 | Luister en beantwoord de vragen. | — | Послушайте и ответьте на вопросы. | instruction | les-27 | Формулировка на скриншоте 2; аудио не приложено. |
 | Je hebt één woord niet nodig. | — | Одно слово вам не понадобится. | instruction | les-27, les-30 | Формулировка на скриншотах 8–9. |
-| het bericht | — | сообщение | noun | les-27 | Мн. ч.: de berichten; een bericht naar huis sturen. |
+| het bericht | — | сообщение | noun | les-27, les-37 | Мн. ч.: de berichten; een bericht naar huis sturen. |
 | de lijst | — | список | noun | les-27 | Мн. ч.: de lijsten; woorden uit de lijst kiezen. |
 | het verkeersbord | — | дорожный знак | noun | les-27 | Мн. ч.: de verkeersborden; в тексте скриншота 6. |
 | plannen | — | планировать | verb | les-27 | plande / planden; heeft gepland; mijn dag plannen. |
@@ -1573,9 +1573,9 @@ Columns:
 | als | — | если; когда (условие или повторение) | conjunction | les-29, les-30, les-31, les-35 | В придаточном глаголы в конце; Als ik tijd heb, lees ik. |
 | geboren worden | — | рождаться | verb phrase | les-29 | werd / werden geboren; is / zijn geboren. Не путать с bevallen — рожать. |
 | de grammatica | — | грамматика | noun | les-29, les-32, les-36 | Заголовок grammatica. |
-| de hoofdzin | — | главное предложение | grammar term | les-29, les-30 | Мн. ч.: de hoofdzinnen; спрягаемый глагол на второй позиции в утверждении. |
-| de bijzin | — | придаточное предложение | grammar term | les-29, les-30 | Мн. ч.: de bijzinnen; после omdat / als глаголы в конце. |
-| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32, les-33, les-34, les-36 | Также het infinitief; на картинке infinitief. [les-34] Словарная форма глагола |
+| de hoofdzin | — | главное предложение | grammar term | les-29, les-30, les-37 | Мн. ч.: de hoofdzinnen; спрягаемый глагол на второй позиции в утверждении. |
+| de bijzin | — | придаточное предложение | grammar term | les-29, les-30, les-37 | Мн. ч.: de bijzinnen; после omdat / als глаголы в конце. |
+| de infinitief | — | инфинитив | grammar term | les-29, les-30, les-32, les-33, les-34, les-36, les-37 | На картинке infinitief. [les-34] Словарная форма глагола |
 | de vertaling | — | перевод | noun | les-29 | Мн. ч.: de vertalingen; заголовок столбца. |
 | het schema | — | схема, таблица | noun | les-29, les-32, les-33, les-34, les-36 | Мн. ч.: de schema’s. [les-34] Мн. ч.: de schema’s |
 | de volgorde | — | порядок следования | noun | les-29, les-30 | de volgorde van de woorden — порядок слов. |
@@ -1739,7 +1739,7 @@ Columns:
 | vanzelf | — | само собой; без дополнительных действий | adverb | les-32 | Dat gaat vanzelf. В источнике о дороге: vanzelf bij de bioscoop komen. |
 | niets | — | ничего | pronoun | les-32 | Ik hoor niets. Отрицательное местоимение. |
 | het huiswerk | — | домашнее задание | noun | les-32, les-34 | Неисчисляемое; huiswerk maken. Знакомое учебное слово, теперь внесено в словарь. [les-34] huiswerk maken |
-| de conjunctie | — | союз | grammar term | les-32, les-36 | Мн. ч.: de conjuncties. Синоним: het voegwoord. |
+| de conjunctie | — | союз | grammar term | les-32, les-36, les-37 | Мн. ч.: de conjuncties. Синоним: het voegwoord. |
 | de woordwolk | — | облако слов | noun | les-32 | Мн. ч.: de woordwolken. |
 | Kies nu zelf de juiste conjunctie. | — | Теперь самостоятельно выберите правильный союз. | instruction | les-32 | Инструкция из задания 3. |
 | Praat in tweetallen. | — | Поговорите в парах. | instruction | les-32 | Инструкция из задания 4. |
@@ -1877,7 +1877,7 @@ Columns:
 | het standbeeld | — | памятник, статуя | noun | les-34 | Мн. ч.: de standbeelden; achter het standbeeld [les-34] Мн. ч.: de standbeelden; achter het standbeeld |
 | het viaduct | — | виадук, путепровод | noun | les-34 | Мн. ч.: de viaducten; onder het viaduct [les-34] Мн. ч.: de viaducten; onder het viaduct |
 | het stadhuis | — | ратуша, здание мэрии | noun | les-34 | Мн. ч.: de stadhuizen; naast het stadhuis [les-34] Мн. ч.: de stadhuizen; naast het stadhuis |
-| de kerk | — | церковь | noun | les-34 | Мн. ч.: de kerken; tegenover de kerk [les-34] Мн. ч.: de kerken; tegenover de kerk |
+| de kerk | — | церковь | noun | les-34, les-37 | Мн. ч.: de kerken; tegenover de kerk [les-34] Мн. ч.: de kerken; tegenover de kerk |
 | de pinautomaat | — | банкомат | noun | les-34 | Мн. ч.: de pinautomaten [les-34] Мн. ч.: de pinautomaten |
 | het buurthuis | — | районный общественный центр | noun | les-34 | Мн. ч.: de buurthuizen [les-34] Мн. ч.: de buurthuizen |
 | de glasbak | — | контейнер для стекла | noun | les-34 | Мн. ч.: de glasbakken [les-34] Мн. ч.: de glasbakken |
@@ -1964,12 +1964,12 @@ Columns:
 | honger krijgen | — | проголодаться | verb phrase | les-36 | kreeg honger; heeft honger gekregen |
 | iets achter de rug hebben | — | иметь что-либо позади (например, поездку) | verb phrase | les-36 | De reis is voorbij. Ik heb de reis achter de rug. |
 | gewend zijn aan | — | быть привыкшим к чему-либо | verb phrase | les-36 | Ik ben gewend aan de trein. |
-| breken | — | ломать, разбивать | verb | les-36 | brak / braken; heeft iets gebroken; de fles is gebroken |
+| breken | — | ломать, разбивать | verb | les-36, les-37 | brak / braken; heeft iets gebroken; de fles is gebroken |
 | bespreken | — | обсуждать | verb | les-36 | besprak / bespraken; heeft besproken |
-| deelnemen | — | участвовать | separable verb | les-36 | deelnemen aan; nam deel / namen deel; heeft deelgenomen |
+| deelnemen | — | участвовать | separable verb | les-36, les-37 | deelnemen aan; nam deel / namen deel; heeft deelgenomen |
 | ontbreken | — | отсутствовать, недоставать | verb | les-36 | ontbrak / ontbraken; heeft ontbroken |
 | steken | — | засовывать, колоть | verb | les-36 | stak / staken; heeft gestoken. Iets in een tas steken — засунуть что-либо в сумку. |
-| stelen | — | красть | verb | les-36 | stal / stalen; heeft gestolen |
+| stelen | — | красть | verb | les-36, les-37 | stal / stalen; heeft gestolen |
 | de pot | — | банка (например, для варенья) | noun | les-36 | de potten; een pot jam |
 | het pakje | — | пачка, маленькая упаковка | noun | les-36 | de pakjes; een pakje boter |
 | het blikje | — | жестяная баночка | noun | les-36 | de blikjes; een blikje tonijn |
@@ -1989,3 +1989,42 @@ Columns:
 | plat | — | плоский, равнинный | adjective | les-36 | plat land; een plat landschap |
 | de nicht | niece, female cousin | племянница, двоюродная сестра | noun | les-36 | В диалоге Тьерд — дядя Амиры, поэтому zijn nicht означает «его племянница». Мн. ч. de nichten. |
 | in het Russisch | in Russian | по-русски | phrase | les-36 | Заголовок колонки с переводом. |
+
+## Les 37
+
+Праздники, привычки и выражения количества. Повторения и уточнённые значения отмечены в прежних строках.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Koningsdag | — | День короля | proper noun | les-37 | op Koningsdag |
+| Pasen | — | Пасха | proper noun | les-37 | met Pasen |
+| eerste paasdag | — | пасхальное воскресенье | noun phrase | les-37 | op eerste paasdag |
+| tweede paasdag | — | пасхальный понедельник | noun phrase | les-37 | op tweede paasdag |
+| Sinterklaas | — | Синтерклаас; праздник Синтерклааса | proper noun | les-37 | met Sinterklaas; de viering op vijf december |
+| kerst | — | Рождество | noun | les-37 | Обычно без артикля, например met kerst. Как название пишется со строчной буквы. |
+| eerste kerstdag | — | первый день Рождества | noun phrase | les-37 | op eerste kerstdag |
+| tweede kerstdag | — | второй день Рождества | noun phrase | les-37 | op tweede kerstdag |
+| de koning | — | король | noun | les-37 | de koningen; de verjaardag van de koning |
+| oranje | — | оранжевый | adjective | les-37 | oranje kleren dragen |
+| op straat | — | на улице | phrase | les-37 | op straat spullen verkopen |
+| op bezoek gaan | — | идти в гости | verb phrase | les-37 | bij iemand op bezoek gaan |
+| de chocola | — | шоколад | noun | les-37 | Также de chocolade. |
+| het paard | — | лошадь | noun | les-37 | de paarden; op een wit paard |
+| de kerstboom | — | рождественская ёлка | noun | les-37 | de kerstbomen |
+| het lampje | — | маленькая лампочка | noun | les-37 | de lampjes; уменьшительное от de lamp |
+| de sneeuw | — | снег | noun | les-37 | sneeuw ligt; het sneeuwt — идёт снег |
+| een witte kerst | — | снежное Рождество | phrase | les-37 | kerst met sneeuw |
+| de zwemles | — | урок плавания | noun | les-37 | de zwemlessen; op zwemles |
+| de wereld | — | мир, весь земной мир | noun | les-37 | over de hele wereld |
+| hetzelfde | — | то же, такое же | determiner/pronoun | les-37 | hetzelfde werk; при слове с de — dezelfde (dezelfde dag). Самостоятельно: we doen hetzelfde. |
+| het verschil | — | различие, разница | noun | les-37 | de verschillen; het verschil tussen twee dingen |
+| alle | — | все | determiner | les-37 | alle kinderen; niet alle kinderen — не все дети |
+| bijna alle | — | почти все | phrase | les-37 | bijna alle gasten |
+| de meeste | — | большинство, большая часть | determiner | les-37 | de meeste mensen |
+| per ongeluk | — | случайно, нечаянно | phrase | les-37 | Ik heb per ongeluk een glas gebroken. |
+| de hardloopwedstrijd | — | беговое соревнование | noun | les-37 | de hardloopwedstrijden |
+| het lunchpakket | — | обед с собой | noun | les-37 | de lunchpakketten; een lunchpakket meenemen |
+| de paraplu | — | зонт | noun | les-37 | de paraplu’s |
+| de dief | — | вор | noun | les-37 | de dieven |
+| wachten op | — | ждать кого-либо или чего-либо | verb phrase | les-37 | op de trein wachten |
+| het broertje | — | младший брат, братик | noun | les-37 | de broertjes; уменьшительное от de broer |
